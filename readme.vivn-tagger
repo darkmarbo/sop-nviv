@@ -1,0 +1,24 @@
+
+https://github.com/phuonglh/vn.vitk
+
+maven:
+    apache-maven-3.3.9 下载解压 
+    配置环境变量 export PATH=/home/szm/lang_8/vi-vn/pos-tag/vn.vitk.git/apache-maven-3.3.9/bin:$PATH 
+
+spark-1.6.2-bin-hadoop2.6:
+    下载解压即可 
+
+vn.vitk:
+    github 下载的源码
+    按照里面README 运行 mvn compile package 编译出 jar包
+
+vn.vitk_run
+    运行脚本目录 使用spark 调用jar 配置变量 
+
+
+出错
+    IP 端口 等
+    在spark的 conf/spark-env.sh 中增加如下配置
+    export  SPARK_MASTER_IP=127.0.0.1
+    export  SPARK_LOCAL_IP=127.0.0.1
+

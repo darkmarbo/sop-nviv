@@ -1,0 +1,21 @@
+
+
+vi_seikatsu_text_set1 2 3 
+    原始文本 
+
+01run_process_err_word.sh:
+    原始文本 利用 map-vivn-charset-err-ok.txt 处理掉错误字符 
+    "处理客户提供的原始数据 替换掉错误字符"
+
+02run_wordseg.sh:
+    对提取出的line1: num+line 进行分词 
+
+03run_postag.sh:
+    对人工矫正后的分词结果  进行词性标注 
+    词性标注后  处理标点符号和CC 
+
+vi_seikatsu_text.all.line1:
+    所有的line1合并到一起 最终的format的时候需要 
+
+04run_format.sh:
+    处理人工矫正后的 词性标注文件 变成客户需要的最终格式 
