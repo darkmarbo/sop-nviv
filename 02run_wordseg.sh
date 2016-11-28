@@ -2,7 +2,7 @@
 
 if(($#<1));then
     echo "usage: $0 file_in "
-    echo "usage: $0 输入为准备分词的文本(带序号) ***.line1"
+    echo "usage: $0 输入为准备分词的文本(带序号)的***.line1文件"
     exit 0
 fi
 

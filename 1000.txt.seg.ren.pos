@@ -1,0 +1,1000 @@
+Seikatsu01\A-A_\000010\__000001	Tôi/P phải/V làm_gì/N khi/N tôi/P bị_thương/V hoặc/N bệnh/N ở/V Nhật/Np ?/S1
+Seikatsu01\A-A_\000020\__000002	Bạn/N trước_tiên/N nên/C gọi/V đến/V bệnh_viện/N bạn/N thường/A đến/V ./S1
+Seikatsu01\A-A_\000030\__000003	Ngay_cả/N khi/N tôi/P không/R chắc/A tôi/P có/V được/R khám/V tại/E bệnh_viện/N hay/C không/R à/I ?/S1
+Seikatsu01\A-A_\000040\__000004	Phải/V ,/S2 trước_hết/N bạn/N nên/C gọi/V đến/V bệnh_viện/N và/C giải_thích/V các/L triệu_chứng/N của/E mình/N ./S1
+Seikatsu01\A-A_\000050\__000005	Sau_đó/N bạn/N sẽ/R biết/V bạn/N có_thể/N khám/V tại/E bệnh_viện/N hay/C không/R ./S1
+Seikatsu01\A-A_\000060\__000006	Tôi/P phải/V làm_gì/N nếu/C tôi/P cần_phải/V đến/V một/M khoa/N nào/N khác/A ở/V bệnh_viện/N đó/P ?/S1
+Seikatsu01\A-A_\000070\__000007	Bệnh_viện/N sẽ/R hướng_dẫn/V cụ_thể/N khoa/N nào/N bạn/N cần/V đến/V ./S1
+Seikatsu01\A-A_\000080\__000008	Tôi/P sẽ/R được/V giới_thiệu/V đến/E bệnh_viện/N khác/A nữa/R chứ/T ?/S1
+Seikatsu01\A-A_\000090\__000009	Tôi/P nghĩ/V bạn/N sẽ/R được/V ,/S2 vì/E có/V các/L hiệp_hội/N y_tế/N trong/N hầu_hết/N các/L khu_vực/N ./S1
+Seikatsu01\A-A_\000100\__000010	Cho_dù/C nếu/C không/R có/V hiệp_hội/N y_tế/N ,/S2 họ/P cũng/R sẽ/R giới_thiệu/V bạn/N đến/V một/M bệnh_viện/N thích_hợp/N trong/E khu_vực/N bạn/N ở/V ./S1
+Seikatsu01\A-A_\000110\__000011	Tôi/P có/V cần/V thư_giới_thiệu/N để/E được/V khám/V không/R ?/S1
+Seikatsu01\A-A_\000120\__000012	Không/R ,/S2 bạn/N chỉ/R cần/V gọi/V một/M cuộc/N điện_thoại/N là/V sẽ/R được/V khám/V tại/E bệnh_viện_tư/N hay/N phòng_khám/N ./S1
+Seikatsu01\A-A_\000140\__000013	Bạn/N đã/R từng/R được/V khám/V tại/E bệnh_viện/N nào/N ở/V Nhật/Np chưa/R ?/S1
+Seikatsu01\A-A_\000150\__000014	Không/R ,/S2 tôi/P chưa/R được/V ,/S2 nhưng/C tôi/P muốn/V biết/V trước/A để/E đề_phòng/V trong/E trường_hợp/N khẩn_cấp/V ./S1
+Seikatsu01\A-A_\000160\__000015	Vậy/P ,/S2 trước_tiên/N bạn/N nên/C xin/V được/V tư_vấn/V với/E chính_quyền/N địa_phương/N nơi/N bạn/N sống/V ./S1
+Seikatsu01\A-A_\000170\__000016	Tôi/P cần/V gọi/V phòng_ban/N nào/P trong/E chính_quyền/N địa_phương/N ?/S1
+Seikatsu01\A-A_\000180\__000017	Tên/N các/L phòng_ban/N chính_quyền/N địa_phương/N ở/V Nhật/Np đều/R giống_nhau/V à/N ?/S1
+Seikatsu01\A-A_\000190\__000018	Không/R ,/S2 tên/N phòng_ban/N khác_nhau/N giữa/N nơi_này/N với/E nơi_khác/N ,/S2 nên/C bạn/N cứ/R gọi/V số/N điện_thoại/N tổng_đài/N chính/A của/E chính_quyền/N địa_phương/N trong/E khu_vực/N bạn/N ở/V ./S1
+Seikatsu01\A-A_\000200\__000019	Nếu/C bạn/N nói/V với/E họ/N bạn/N cần/V nhờ/V một/M bác_sĩ/N khám/V bệnh/N hoặc/N chấn_thương/A ,/S2 họ/P sẽ/R nối/V máy/N cho/V bạn/N đến/V phòng_ban/N liên_quan/V ./S1
+Seikatsu01\A-A_\000210\__000020	Vậy/P ,/S2 tôi/P phải/V tường_trình/V các/L triệu_chứng/N của/E tôi/N sau_khi/V được/V nối_máy/V với/E phòng_ban/N liên_quan/V ./S1
+Seikatsu01\A-I_\000010\__000021	Chi_phí/N y_tế/N mắc/V vậy/P mà/C làm_sao/X người/Nc Nhật/Np có_thể/V trả/V được/R ?/S1
+Seikatsu01\A-I_\000020\__000022	Chương_trình/N bảo_hiểm/N y_tế/N nào/P phổ_biến/V ở/V Nhật/Np ?/S1
+Seikatsu01\A-I_\000030\__000023	Ở/E Nhật/Np ,/S2 mọi/L người/N đều/R trả/V chi_phí/N y_tế/N qua/V chương_trình/N bảo_hiểm/N y_tế/N xã_hội/N ./S1
+Seikatsu01\A-I_\000040\__000024	Chính_sách/N bảo_hiểm/V y_tế/N từ/E các/L công_ty/N bảo_hiểm_/N y_tế/N không/R xử_lý/V việc/N điều_trị/V y_tế/N thôn_thường/N ./S1
+Seikatsu01\A-I_\000050\__000025	Nhật_Bản/Np cung_cấp/V đầy_đủ/A hệ_thống/N bảo_hiểm/N sức_khỏe/N với/E tư_cách/N là/V bảo_hiểm/N điều_trị/V công_cộng/N ./S1
+Seikatsu01\A-I_\000060\__000026	Vậy/P à/I ?/S1 Ở_/N Mỹ/Np ,/S2 nhiều/A người/N đến/V bệnh_viện/N với/E chính_sách/N bảo_hiểm/N _y_tế/N từ/E các/L công_ty/N bảo_hiểm/V ./S1
+Seikatsu01\A-I_\000070\__000027	Hệ_thống/N bảo_hiểm/N _y_tế/N của/E Nhật_Bản/Np khác/A với/E các/L chính_sách/N bảo_hiểm/N y_tế/N của/E các/L công_ty/N bảo_hiểm/N như_thế_nào/X ?/S1
+Seikatsu01\A-I_\000080\__000028	Hệ_thống/N bảo_hiểm/N _y_tế/N cung_cấp/V bảo_hiểm/N bình_đẳng/A ,/S2 không/R phân_biệt/V tuổi_tác/N hay/C mức_thu_nhập/N ./S1
+Seikatsu01\A-I_\000090\__000029	Hệ_thống/N bảo_hiểm/N _y_tế/N là/V một/M hệ_thống/N giúp/V toàn_thể/N công_dân/N Nhật_Bản/Np an_tâm/N điều_trị/V bệnh/N ./S1
+Seikatsu01\A-I_\000100\__000030	Làm/V thế_nào/N để/E hệ_thống/N bảo_hiểm/N y_tế/N được/V công_bằng/N ?/S1
+Seikatsu01\A-I_\000110\__000031	Tiền/N đóng/V bảo_hiểm/N _y_tế/N tăng/V tương_ứng/V với/E mức/N thu_nhập/N của/E bạn/N ./S1
+Seikatsu01\A-I_\000120\__000032	Hợp_đồng/N bảo_hiểm/N _y_tế/N được/V định/V sẵn/A ở/E một/M mức/N nhất_định/A ,/S2 bất_kể/R phần/N tiền/N đã/R chi_trả/V ./S1
+Seikatsu01\A-I_\000130\__000033	Hệ_thống/N bảo_hiểm/N y_tế/N rất/R chú_trọng/V đến/E những/L người/N dễ/A bị/V tổn_thương/N trong/E xã_hội/N ,/S2 như/A người/N già/A và/N trẻ_em/N ./S1
+Seikatsu01\A-I_\000140\__000034	Hệ_thống/N bảo_hiểm/N ở/V Nhật/Np là/V một/M hệ_thống/N công_cộng/N ,/S2 điều/N đó/P nói/V lên/R điều/N gì/P ?/S1
+Seikatsu01\A-I_\000150\__000035	Bảo_hiểm/N y_tế/N là/V một/M kế_hoạch/N được/V quy_định/N bởi/E pháp_luật/N ./S1
+Seikatsu01\A-I_\000160\__000036	Để/E hệ_thống/N được/V ổn_định/A ,/S2 chính_quyền/N quốc_gia/N sẽ/N quản_lý/V hệ_thống/N bảo_hiểm_/N y_tế/N ./S1
+Seikatsu01\A-I_\000170\__000037	Hệ_thống/N bảo_hiểm/N y_tế/N là/V loại/N hệ_thống/N nào/P ?/S1
+Seikatsu01\A-I_\000180\__000038	Hệ_thống/N bảo_hiểm/N y_tế/N chi/V trả/V phí/N điều_trị/N y_tế/N và/C thuốc/N được/V kê/V toa/N ./S1
+Seikatsu01\A-I_\000190\__000039	Khi/N bạn/N đến/V một/M bệnh_viện/N hoặc/N phòng_khám/N ,/S2 hệ_thống/N sẽ/R trợ_cấp/V chi_phí/N y_tế/N ./S1
+Seikatsu01\A-I_\000200\__000040	Bạn/N nhận/V được/R bao_nhiêu/L phần/N trợ_cấp/V từ/E hệ_thống/N bảo_hiểm/N y_tế/N ?/S1
+Seikatsu01\A-I_\000210\__000041	Nói_chung/N ,/S2 một/M người/N trưởng_thành/V được/R trợ_cấp/V bảy/M mươi/N phần_trăm/N chi_phí/N y_tế/N từ/E hệ_thống/N ./S1
+Seikatsu01\A-U_\000010\__000042	Tối_qua/N ,/S2 con_gái/N tôi/P bị/V sốt/V cao/A gần/A ba/M mươi/N tám/M độ/N ./S1
+Seikatsu01\A-U_\000020\__000043	Bạn/N lo/V lắm/R phải/A không/R ./S1
+Seikatsu01\A-U_\000030\__000044	Sáng_nay/N thì/C hết/V sốt/V hẳn/N ./S1
+Seikatsu01\A-U_\000040\__000045	Tôi/P không/R biết/V phải/V làm_gì/N và/C tôi/P đã/R rất/R hoảng_loạn/V tối_qua/A ./S1
+Seikatsu01\A-U_\000050\__000046	Phòng_khám/N chúng_tôi/N thường/R đến/V không/R mở_cửa/V vào/E buổi_tối/N ./S1
+Seikatsu01\A-U_\000060\__000047	Nếu/C thật_sự/N khẩn_cấp/V ,/S2 bạn/N có_thể/A gọi/V xe/N _cứu_thương/Np ./S1
+Seikatsu01\A-U_\000070\__000048	Tôi/P không/R chắc/A tôi/P có/V nên/V gọi/V xe_cứu_thương/N hay/C không/R vì/N chỉ/R bị/V sốt/V ./S1
+Seikatsu01\A-U_\000080\__000049	Bác_sĩ/N của/E tôi/P bảo/V rằng/C tôi/P có_thể/A gọi/V đến/E đường_dây/N trợ_giúp/V khẩn_cấp/A cho/E trẻ_em/N ./S1
+Seikatsu01\A-U_\000090\__000050	Đường_dây/N trợ_giúp/V khẩn_cấp/A cho/E trẻ_em/N là/V gì/P ?/S1
+Seikatsu01\A-U_\000100\__000051	Đó/P là/V đường_dây/N sẽ/R cho/V bạn/N lời_khuyên/A khi/N con/N bạn/N bị/V sốt/V hoặc/N ho/N và/C bạn/N không/R biết/V phải/V làm_gì/N ./S1
+Seikatsu01\A-U_\000110\__000052	Tôi/P đã/R từng/R gọi/V đường_dây/N trợ_giúp/V rồi/N và/C cảm_thấy/V bình_tĩnh/A hơn/R nhiều/A sau_khi/N nói_chuyện/V với/E chuyên_gia/N ./S1
+Seikatsu01\A-U_\000120\__000053	Chúng_ta/P có_thể/A dùng/V số/N đường_dây/N trợ_giúp/V khẩn_cấp/A cho/V trẻ_em/N miễn_phí/V à/N ?/S1
+Seikatsu01\A-U_\000130\__000054	Đương_nhiên/N bạn/N phải/V trả/V tiền/N điện_thoại/N ,/S2 nhưng/C ngoài/N cái_đó/V ra/R hoàn_toàn/A miễn_phí/V ./S1
+Seikatsu01\A-U_\000140\__000055	Ngay_cả/N khi/N tôi/P gọi/V lúc/N ba/M giờ/Nu sáng/N cũng/R sẽ/R có/V người/N trả_lời/V à/T ?/S1
+Seikatsu01\A-U_\000150\__000056	Lần_/N trước/N tội/N gọi/V là/C vào_lúc/N nửa_đêm/N và/C vẫn/R có/V người/N giúp/V tôi/P ./S1
+Seikatsu01\A-U_\000160\__000057	Nhưng/C hỗ_trợ/V lúc/N nửa_đêm/N chỉ/R có/V ở/V vài/L tỉnh/N nhất_định/N thôi/V ./S1
+Seikatsu01\A-U_\000170\__000058	Tôi/P nghe/V nói/V rằng/C ở/E một/M vài/N tỉnh/N không/R có/V dịch_vụ/N này/P vào/V buổi_tối/N ./S1
+Seikatsu01\A-U_\000180\__000059	Khi/N bạn/N gọi/V đường_dây/N trợ_giúp/V ,/S2 con/Nc bạn/N bị/V gì/P ?/S1
+Seikatsu01\A-U_\000190\__000060	Con_trai/N tôi/P cứ/R khóc/V mãi/R và/N không/R muốn/V ngủ/V ,/S2 nên/C tôi/P lo/V nó/P bị/V gì/P đó/P ./S1
+Seikatsu01\A-U_\000200\__000061	Bạn/N gọi/V chỉ/R tại_vì/V nó/P không/R muốn/V ngủ/V à/N ?/S1
+Seikatsu01\A-U_\000210\__000062	Chuyên_gia/N nói/V gì/P ?/S1
+Seikatsu01\B-A_\000010\__000063	Ông/Nc Nakamura/Np ,/S2 loại/N bệnh/N gì/P là/V bệnh/N liên_quan/V đến/E lối_sống/N ?/S1
+Seikatsu01\B-A_\000020\__000064	À/I ,/S2 chúng_ta/N thường/R thấy/V từ/E này/P ,/S2 các/L bệnh/N liên_quan/V đến/E lối_sống/N trên/N ti_vi/N hay/N trên/E báo/N ./S1
+Seikatsu01\B-A_\000030\__000065	Có_phải/N nó/P liên_quan/V đến/E lối_sống/N của/E chúng_ta/P không/R ?/S1
+Seikatsu01\B-A_\000040\__000066	Đúng/A ,/S2 nó/P là/V một/M căn_bệnh/N nảy_sinh/A _từ/V thói_quen/N sinh_hoạt/V hằng/R ngày/N ./S1
+Seikatsu01\B-A_\000050\__000067	Các/L nguyên_nhân/N của/E căn_bệnh/N này/P có_thể/A là/V gì/P ?/S1
+Seikatsu01\B-A_\000060\__000068	Ví_dụ/N ,/S2 thói_quen/N ăn_uống/V ,/S2 thói_quen/N vận_động/V và/N chúng_ta/N có/V hút/V thuốc/N hay/C không/R ./S1
+Seikatsu01\B-A_\000070\__000069	Cách/V chúng_ta/N uống/V rượu_bia/N và/C cách/N chúng_ta/N dễ/A bị/V căng_thẳng/N cũng/R liên_quan/V đến/E các/L bệnh/N về/V lối_sống/N ./S1
+Seikatsu01\B-A_\000080\__000070	Vậy/P nghĩa_là/N việc/N không/R để_ý/V đến/E sức_khỏe/N là/V nguyên_nhân/N của/E bệnh/N à/N ./S1
+Seikatsu01\B-A_\000090\__000071	Đúng/A ,/S2 nếu/C chúng_ta/N tiếp_tục/V sống/V không/R lành_mạnh/A nhiều/A năm/N liền/A ,/S2 chúng_ta/P sẽ/R bị_bệnh/V ./S1
+Seikatsu01\B-A_\000100\__000072	Nhưng/C bạn/N sẽ/R không/R bao_giờ/P được/V chẩn_đoán/V là/C bị/V bệnh/N về/V lối_sống/N tại/E phòng_khám/N ./S1
+Seikatsu01\B-A_\000120\__000073	Bệnh/N về/V lối_sống/N không_phải/N là/V tên/N chính_thức/A cho/V căn_bệnh/N ./S1
+Seikatsu01\B-A_\000130\__000074	Nó/P là/V một/M từ/N dùng/V để/E chỉ/V toàn_bộ/N nhóm/V bệnh/N nảy_sinh/A bởi/E thói_quen/N lối_sống/N ./S1
+Seikatsu01\B-A_\000140\__000075	Tôi/P hiểu/V rồi/R ,/S2 vậy/P nó/P giống_như/A là/V tên/N chung/V cho/V các/L loại/Nc bệnh/N ./S1
+Seikatsu01\B-A_\000150\__000076	Cụ_thể/A thì/C các/L loại/N bệnh/N nào/P sẽ/R được/V gọi_là/N bệnh/N về/V lối_sống/N ?/S1
+Seikatsu01\B-A_\000160\__000077	À/I ,/S2 các/L bệnh/N nguy_hiểm/N đến/V tính_mạng/N là/V ung_thư/N ,/S2 bệnh/N tim/N và/C đột_quỵ/N ./S1
+Seikatsu01\B-A_\000170\__000078	Ba/M bệnh/N này/P được/V xem/V là/C ba/N bệnh/N về/V lối_sống/N nghiêm_trọng/A nhất/R ở/V Nhật_Bản/Np ./S1
+Seikatsu01\B-A_\000180\__000079	Có/V rất/R nhiều/A người/N thiệt_mạng/V vì/E các/L bệnh/N như/C ung_thư/N ,/S2 bệnh/N _tim/N và/C đột_quỵ/N ./S1
+Seikatsu01\B-A_\000190\__000080	Vâng/I ,/S2 chúng/N là/V những/L nguyên_nhân/N chính/A gây/V tử_vong/N ở/V Nhật_Bản/Np ./S1
+Seikatsu01\B-A_\000200\__000081	Thật/R đáng_sợ/A ./S1 Nhân_tiện/N ,/S2 đột_quỵ/N là/V bệnh/N gì/P vậy/T ?/S1
+Seikatsu01\B-A_\000210\__000082	Nó/P là/V bệnh/N gây/V ra/R bởi/E mạch_máu/N não/N bị_đứt/N hoặc/N bị/V _nghẽn/V ./S1
+Seikatsu01\B-I_\000010\__000083	Tôi/P cần/V nước_uống/V ./S1 Tôi/P có_thể/A lấy/V nước/N ở/V đâu/P vậy/T ?/S1
+Seikatsu01\B-I_\000020\__000084	Bạn/N có_thể/R tự_nhiên/A uống/V nước/N từ/E vòi_nước/N trong/E nhà_bếp/N ./S1
+Seikatsu01\B-I_\000030\__000085	Tôi/P có/V cần/V đun/V nước/N trên/N bếp/N trước_khi/N uống/V không/R ?/S1
+Seikatsu01\B-I_\000040\__000086	Không/R ./S1 Không/R có/V vấn_đề/N gì/P ngay_cả/V khi/N bạn/N uống/V nước_máy/N ./S1
+Seikatsu01\B-I_\000050\__000087	Có_phải/N chỉ/R ở/V trong/E thành_phố/N là/V bạn/N có_thế/N uống/V nước_máy/N không/R cần_phải/V lo/V không/R ?/S1
+Seikatsu01\B-I_\000060\__000088	Ở/E Nhật/Np ,/S2 bạn/N có_thể/A uống/V nước_máy/N ở/E đâu/P cũng/R được/V ./S1
+Seikatsu01\B-I_\000070\__000089	Hệ_thống/N nước/N của/E Nhật_Bản/Np thật/R tuyệt_vời/A ./S1
+Seikatsu01\B-I_\000080\__000090	Ở/E Nhật/Np ,/S2 nước_máy/N được/V qua/V kiểm_duyệt/N cùng/R qua/V hơn/A năm/N mươi/M chỉ_tiêu/N khác_nhau/N ./S1 ./S1
+Seikatsu01\B-I_\000090\__000091	Nhưng/C nước/N này/P có/V mùi/N giống/A mùi/N hồ_bơi/A nhỉ/N ./S1
+Seikatsu01\B-I_\000100\__000092	Không/R có/V vấn_đề/N gì/P với/E mùi/N này/P đâu/T vì/C nó/P là/V mùi/N clo/N được/V pha/V vào/V để/E tiệt_trùng/V thôi/V ./S1
+Seikatsu01\B-I_\000110\__000093	Clo/N được/V pha/V vào/V nước_máy/N ở/V đâu/P ?/S1
+Seikatsu01\B-I_\000120\__000094	Clo/N được/V pha/V vào/E trong/N quá_trình/N xử_lý/V nước/N tại/E các/L nhà_máy/N lọc/V nước/N của/E công_ty/N xử_lý/V nước/N ./S1
+Seikatsu01\B-I_\000130\__000095	Các/L công_đoạn/N xử_lý/N nào/P được/V dùng/V ở/E các/L nhà_máy/N lọc/V nước/N ngoài/N việc/N pha/V thêm/V clo/N ?/S1
+Seikatsu01\B-I_\000140\__000096	Công_đoạn/N xử_lý/V nước/N bao_gồm/V việc/N lọc/V bỏ/V các/L tạp_chất/N và/C diệt/V khuẩn/N trong/E nước/N ./S1
+Seikatsu01\B-I_\000150\__000097	Mùi/N nước/N là/V một/M bằng_chứng/N về/V độ/N an_toàn/A của/E nước/N nếu/N đó/P là/V kết_quả/N của/E việc/N xử_lý/V nước/N tại/E nhà_máy/N lọc/V nước/N ./S1
+Seikatsu01\B-I_\000160\__000098	Gần_đây/N ,/S2 tại/E một_số/N vùng/N ,/S2 nước_máy/N được/V xử_lý/V bằng/E các/L công_đoạn/N tiên_tiến/A sử_dụng/V than_đá/N hoặc/N khí/N ozon/N để/E mùi/N clo/N không/R lẫn/V trong/E nước/N ./S1
+Seikatsu01\B-I_\000170\__000099	Nước_máy/N ở/E vùng/N này/P không/R được/V xử_lý/V ở/V mức_độ/N cao/A như_vậy/X ./S1
+Seikatsu01\B-I_\000180\__000100	Tôi/P nghe_nói/V rằng/C nước_máy/N ở/V đây/P sẽ/R được/V xử_lý/V theo/V cách/N đó/P một/M ngày/N nào/P đó/P ,/S2 nhưng/C tôi/P không/R biết/V khi_nào/N nữa/R ./S1
+Seikatsu01\B-I_\000190\__000101	Ở/E Nhật/Np ,/S2 tôi/P có_thể/A an_tâm/N uống/V nước_máy/N ,/S2 phải/A không/R ?/S1
+Seikatsu01\B-I_\000200\__000102	Phải/V ./S1 Đây/P xin/V hãy/R thử/V cốc/N nước/N này/P ./S1
+Seikatsu01\B-I_\000210\__000103	Mùi/N clo/N trong/E nước_máy/N sẽ/R hơi/N khó_chịu/A nếu/C bạn/N không/R quen/A ./S1
+Seikatsu01\C-A_\000010\__000104	Xin_chào/N ,/S2 Tom/Np ./S1 Bạn/N dạo_này/A khỏe/A không/R ?/S1
+Seikatsu01\C-A_\000020\__000105	Xin_chào/N ./S1 Thật_ra/N là/V ,/S2 tôi/P vẫn/R chưa/R quen/V cái/Nc nóng/N mùa_hè/N ở/V Nhật/Np ,/S2 tôi/N thấy/V hơi/N khó_chịu/A ./S1
+Seikatsu01\C-A_\000030\__000106	Thảo_nào/N bạn/N trông/V xanh_xao/A ./S1
+Seikatsu01\C-A_\000040\__000107	Bạn/N cảm_thấy/V thế_nào/X ?/S1
+Seikatsu01\C-A_\000050\__000108	Tôi/P cảm_thấy/V mệt_rã_rời/N cả/P ngày/N ./S1
+Seikatsu01\C-A_\000060\__000109	Ồ/N ,/S2 thật/R đáng_lo/A ./S1 Chắc/A bạn/N nên/C uống/V nhiều/A nước/N hơn/R và/N tránh/V ánh_nắng/V mặt_trời/N ./S1
+Seikatsu01\C-A_\000070\__000110	Cảm_ơn/V bạn/N đã/R lo_lắng/V cho/V tôi/P ./S1
+Seikatsu01\C-A_\000080\__000111	Tôi/P uống/V nhiều/A nước/N lắm/R nhưng/C tôi/P đổ/V mồ_hôi/N nhiều/A quá/R ./S1
+Seikatsu01\C-A_\000090\__000112	Cái/Nc nóng/N mùa_hè/N ở/V Nhật/Np khác/A ở/E Anh/Np à/I ?/S1
+Seikatsu01\C-A_\000100\__000113	Nhiệt_độ/N thì/C không/R khác/A lắm/A giữa/N Nhật/Np và/C Anh/Np ,/S2 nhưng/C cái/Nc khác_biệt/N thật_sự/A là/V độ_ẩm/N cao/A ở/V Nhật/Np ./S1
+Seikatsu01\C-A_\000110\__000114	Tôi/P hiểu/V rồi/R ./S1 Nhiệt_độ/N ở/V Nhật/Np có_vẻ/V cao/A hơn/R do/E độ_ẩm/N cao/N ./S1
+Seikatsu01\C-A_\000120\__000115	Mùa_hè/N ở/V Nhật/Np với/V tôi/P thật/R khó_chịu/A ./S1
+Seikatsu01\C-A_\000130\__000116	Độ_ẩm/N cao/A cũng/R tạo/V cảm_giác/N khó_chịu/A cho/E người/Nc Nhật/Np nhưng/C chúng_tôi/P quen/V rồi/R ./S1
+Seikatsu01\C-A_\000140\__000117	Độ_ẩm/N sẽ/R giảm/V bớt/V vào/V mùa_thu/N ,/S2 nên/C xin/V bạn/N hãy/R kiên_nhẫn/V một_ít/N ./S1
+Seikatsu01\C-A_\000150\__000118	Tôi/P hy_vong/V mùa_thu/V đến/R càng/R nhanh/A càng/R tốt/A ./S1
+Seikatsu01\C-A_\000160\__000119	Ha/Np ,/S2 ha/N ,/S2 ha/N ./S1 Tom/Np ,/S2 bạn/N chưa/R ở/V Nhật/Np lâu/A ,/S2 đây_là/N mùa_hè/N và/C mùa_thu/N đầu_tiên/A của/E bạn/N ở/E Nhật/Np à/I ?/S1
+Seikatsu01\C-A_\000170\__000120	Vâng/I ,/S2 bạn/N có_thể/A nói/V thêm/V cho/E tôi/P biết/V về/E khí_hậu/N Nhật_Bản/Np được/R không/R ?/S1
+Seikatsu01\C-A_\000180\__000121	Tôi/P muốn/V sử_dụng/V kiến_thức/N về/V khí_hậu/N Nhật/Np để/V theo_dõi/V sức_khỏe/N của/E tôi/P trong/E tương_lai/N ./S1
+Seikatsu01\C-A_\000190\__000122	Tôi/P hy_vọng/V việc/N hiểu/V rõ/A những/L thay_đổi/N của/E mỗi/N mùi/N sẽ/R giúp/V tôi/P tránh/V khỏi/V bệnh/N ./S1
+Seikatsu01\C-A_\000210\__000123	Hầu_hết/N nước/N Nhật/Np nằm/V trong/E vùng/N khí_hậu/N ôn_đới/A ./S1
+Seikatsu01\C-E_\000010\__000124	Một/M người/Nc bạn/N của/E tôi/P nói/V rằng/C anh_ấy/N sẽ/R đi/V khám/V sức_khỏe/N ./S1
+Seikatsu01\C-E_\000020\__000125	Anh_ấy/N nói/V là/C để/E đề_phòng/V ./S1 Chúng_ta/N có_thể/A đi/V khám/V tại/E phòng_khám/N hay/C bệnh_viện/N không/R ?/S1
+Seikatsu01\C-E_\000030\__000126	Việc_đó/N còn/V tùy/V vào/R loại/N khám/V sức_khỏe/N ,/S2 nhưng/C cơ_bản/N là/V bạn/N có_thể/A đến/V bệnh_viện/N ./S1
+Seikatsu01\C-E_\000040\__000127	Nếu/C là/V khám/V tổng_quát/N ,/S2 bạn/N có_thể/A khám/V tại/E khoa_nội/N ./S1
+Seikatsu01\C-E_\000050\__000128	Bạn/N được/V khám/V gì/P khi/N khám/V tổng_quát/N ?/S1
+Seikatsu01\C-E_\000060\__000129	Bạn/N được/V khám/V cơ_bản/A như/C đo/N chiều_cao/N và/C cân_nặng/N và/C khám/V mắt/N và/C đo/V huyết_áp/N ./S1
+Seikatsu01\C-E_\000070\__000130	Khám/V sức_khỏe/N có/V giống/N vậy/N ở/V nơi/N bạn/N sống/V ở/E Canada/Np không/R ?/S1
+Seikatsu01\C-E_\000080\__000131	Vâng/N ./S1 Khám/V sức_khỏe/N có_lẽ/N ở/V nước/N nào/P cũng/R giống_nhau/V ./S1
+Seikatsu01\C-E_\000090\__000132	Nên/C khám/V sức_khỏe/N thường_xuyên/N ngay_cả/V khi/N bạn/N không/R bị/V bệnh/N ./S1
+Seikatsu01\C-E_\000100\__000133	Tôi/P đến/V khoa/N nội/N trước_tiên/N khi/N tôi/P cảm_thấy/V không/R khỏe/A hay/C bị/V đau/V bụng/N ,/S2 đau_đầu/N hoặc/N thể_chất/N không/R được/R tốt/A ./S1
+Seikatsu01\C-E_\000110\__000134	Hầu_hết/X các/L bệnh/N có_thể/R được/V chẩn_đoán/V ở/V khoa_nội/N ./S1
+Seikatsu01\C-E_\000120\__000135	Tôi/P có_phải/V đặt/V lịch_hẹn/N trước/A để/E khám/V sức_khỏe/N không/R ?/S1
+Seikatsu01\C-E_\000130\__000136	Nếu/C chỉ/R là/V khám/V bình_thường/A ,/S2 tôi/N nghĩ/V bạn/N có_thể/R được/V khám/V mà/C không/R cần/V đặt/V trước/N ./S1
+Seikatsu01\C-E_\000140\__000137	Khi/N bệnh_viện/N đông/N bệnh_nhân/N ,/S2 bạn/N không/R phải/V chờ/V lâu/N nếu/C bạn/N có/V đặt/V trước/N ./S1
+Seikatsu01\C-E_\000150\__000138	Tôi/P có/R phải/A kiểm_tra/V xem/V bệnh_viện/N đông/N cỡ/N nào/P không/R ?/S1
+Seikatsu01\C-E_\000160\__000139	Khi_nào/V bệnh_viện/N vắng/A nhất/A vậy/T ?/S1
+Seikatsu01\C-E_\000170\__000140	Điều_đó/N còn/V tùy/V vào/E bệnh_viện/N ,/S2 nhưng/C tôi/P đoán/V là/C chắc/A sẽ/R đông/A vào/V buổi_sáng/N những/L ngày/N trong_tuần/A ./S1
+Seikatsu01\C-E_\000180\__000141	Vào/E những/L lúc/N trong/N giờ_nghỉ_trưa/N và/C buổi_chiều/N ,/S2 rất/R đông/A nhân_viên/N văn_phòng/N ./S1
+Seikatsu01\C-E_\000190\__000142	Nếu/C bạn/N muốn/V khám/V các/L bệnh/N đặc_biệt/A ,/S2 bạn/N cần/V phải/V đến/V những/L bệnh_viện/N chuyên_khoa/N ./S1
+Seikatsu01\C-E_\000200\__000143	Những/L bệnh/N đặc_biệt/A bạn/N đang/R nói_đến/V để/E đi/V khám/V là/V gì/P ?/S1
+Seikatsu01\C-E_\000210\__000144	Thông_thường/A ,/S2 thì/C có/V khám/V về/V ung_thư/N và/C HIV/Np ./S1
+Seikatsu01\C-I_\000010\__000145	Kenji/Np ,/S2 trời/N dạo_này/V lạnh/A thật/R ./S1 Bạn/N vẫn/R khỏe/A chứ/T ?/S1
+Seikatsu01\C-I_\000020\__000146	Cảm_ơn/V đã/R lo_lắng/V cho/V tôi/P ./S1 Tôi/P khỏe/A ./S1
+Seikatsu01\C-I_\000030\__000147	Vậy/P thì/C tốt/A ./S1 Một/M người/Nc bạn/N của/E tôi/P bị/V sốt/V cao/A vì/E bệnh_cúm/V ./S1
+Seikatsu01\C-I_\000040\__000148	Còn/C bạn/N thì_sao/N Alec/Np ?/S1 bạn/N có/V khỏe/A không/R ?/S1
+Seikatsu01\C-I_\000050\__000149	Tôi/P lo/V về/V bệnh_cúm/N vì/E căn_bệnh/N đó/P có_thể/A lây/V từ/E người_này/N sang/E người_khác/N ./S1
+Seikatsu01\C-I_\000060\__000150	Alec/Np ,/S2 bạn/N đã/R từng/R chích_ngừa/V chưa/R ?/S1
+Seikatsu01\C-I_\000070\__000151	Tôi/P chưa/R từng/R chích_ngừa/N bao_giờ/N ./S1 Nhưng_mà/N tôi/P có/V nên/V đi/V chích_ngừa/V không/R ?/S1
+Seikatsu01\C-I_\000080\__000152	Việc/N chích_ngừa/V sẽ/R tăng/V sức_đề_khán/N của/E bạn/N với/E bệnh/N ./S1
+Seikatsu01\C-I_\000090\__000153	Tăng/N sức_đề_khán/N sẽ/R giúp/V bạn/N ít/A bị/V bệnh/N hơn/R và/N làm/V bạn/N yên_tâm/A hơn/R ./S1
+Seikatsu01\C-I_\000100\__000154	Việc/N chích_ngừa/V sẽ/R hoàn_toàn/A bảo_vệ/V bạn/N khỏi/V bệnh/N à/T ?/S1
+Seikatsu01\C-I_\000110\__000155	Người_ta/N nói/V rằng/C chích_ngừa/N không/R phải/V hiệu_quả/A một/M trăm/N phần_trăm/N ./S1
+Seikatsu01\C-I_\000120\__000156	Nhưng_mà/N ,/S2 ngay_cả/N khi/N bạn/N bị/V bệnh/N ,/S2 nguy_cơ/N bạn/N không/R bị/V bệnh/N nặng/A là/V rất/R cao/A ./S1
+Seikatsu01\C-I_\000130\__000157	Nói_chung/N ,/S2 chích_ngừa/N là/V cần_thiết/A ./S1
+Seikatsu01\C-I_\000140\__000158	Bạn/N cũng/R không/R muốn/V lây/V bệnh/N cho/E gia_đình/N hoặc/N bạn_bè/N mà/C phải/V không/R ./S1
+Seikatsu01\C-I_\000150\__000159	Nếu_vậy/N ,/S2 bạn/N nên/N tìm_hiểu/V về/V hệ_thống/N chích_ngừa/N của/E Nhật/Np ./S1
+Seikatsu01\C-I_\000160\__000160	Nói_thật/N ,/S2 tôi/N không/R biết/V gì/N về/V chích_ngừa/V cả/T ./S1
+Seikatsu01\C-I_\000170\__000161	Tôi/P đã/R từng/R chích_ngừa/V nhiều/A lần/N rồi/R ./S1
+Seikatsu01\C-I_\000180\__000162	Tôi/P nghĩ/V tôi/P có_thể/R chỉ/V cho/V bạn/N rất/R nhiều/A về/E việc/N chích_ngừa/V ./S1
+Seikatsu01\C-I_\000190\__000163	Cảm_ơn/V bạn/N rất/R nhiều/A ./S1 Tôi/P trông_cậy/V vào/V bạn/N ./S1
+Seikatsu01\C-I_\000200\__000164	Trước_hết/N ,/S2 tôi/P có_thể/A chích_ngừa/V ở/V đâu/P ?/S1
+Seikatsu01\C-I_\000210\__000165	Bạn/N có_thể/A chích_ngừa/V tại/E các/L cơ_sở/N y_tế/N được/V chỉ_định/V bởi/E quận/N hoặc/N thành_phố/N ./S1
+Seikatsu01\C-U_\000010\__000166	Gần_đây/N tôi/P thấy/V không/R được/R khỏe/A ./S1
+Seikatsu01\C-U_\000020\__000167	Sao_vậy/N ,/S2 bạn/N có/V bị/V bệnh/N không/R ?/S1
+Seikatsu01\C-U_\000030\__000168	Tôi/P không/R bị/V bệnh/N ,/S2 chỉ/R không/R khỏe/A thôi/V ./S1
+Seikatsu01\C-U_\000040\__000169	Bạn/N đã/R đi/V khám/V sức_khỏe/N chưa/R ?/S1
+Seikatsu01\C-U_\000050\__000170	Tôi/P chưa/R khám/V vì/E mặc_dù/N cảm_thấy/V không/R khỏe/A ,/S2 nhưng/C tôi/P không/R bị_bệnh/V ./S1
+Seikatsu01\C-U_\000060\__000171	Ở/E Nhật/Np việc/N đi/V khám/V định_kỳ/N rất/R phổ_biến/A ./S1
+Seikatsu01\C-U_\000070\__000172	Khám/V định_kỳ/N là/V gì/P ?/S1
+Seikatsu01\C-U_\000080\__000173	Mỗi/L năm/N một/M lần/N bạn/N đến/V bệnh_viện/N để/E khám/V tổng_quát/N ./S1
+Seikatsu01\C-U_\000090\__000174	Bạn/N vẫn/R đi/V khám/V mặc_dù/N không/R bị/V bệnh/N à/T ?/S1
+Seikatsu01\C-U_\000100\__000175	Vâng/I ,/S2 bạn/N đến/V bệnh_viện/N để/E khám/V ngay_cả_khi/N không/R bị/V bệnh/N ./S1
+Seikatsu01\C-U_\000110\__000176	Ở/E nước/N tôi/P người_ta/N không/R đến/V bệnh_viện/N nếu/C không/R bị/V bệnh/N ./S1
+Seikatsu01\C-U_\000120\__000177	Việc/N khám/V sức_khỏe/N là/V để/E phát_hiện/V và/C phòng_ngừa/N bệnh_tật/A ./S1
+Seikatsu01\C-U_\000130\__000178	Cách/V đó/P thật/R thông_minh/A ./S1
+Seikatsu01\C-U_\000140\__000179	Trong/E công_ty/N mà/N bạn/N làm_việc/V chắc_chắn/A nhân_viên/N điều/N có/V quyền/N khám/V sức_khỏe/N định_kỳ/N ./S1
+Seikatsu01\C-U_\000150\__000180	Cồng_ty/N có/V nghĩa_vụ/N như_thế/X ./S1
+Seikatsu01\C-U_\000160\__000181	Tôi/P không/R biết/V là/V công_ty/N có/V nghĩa_vụ/N đó/P ./S1
+Seikatsu01\C-U_\000170\__000182	Tôi/P không/R để_ý/V vì/E tôi/P không/R quan_tâm/V lắm/N ./S1
+Seikatsu01\C-U_\000180\__000183	Bạn/N nên/V để_ý/V về/E vấn_đề/N này/P vì/E nó/P ảnh_hưởng/V đến/E sức_khỏe/N của/E bạn/N ./S1
+Seikatsu01\C-U_\000190\__000184	Bạn/N có_thể/A được/V khám/V miễn_phí/V hoặc/N với/E chi_phí/N rất/R thấp/A ./S1
+Seikatsu01\C-U_\000200\__000185	Các/L nội_dung/N khám/V tại/E một/M buổi/N khám/V sức_khỏe/N do/E công_ty/N tổ_chức/V như_thế_nào/X ?/S1
+Seikatsu01\C-U_\000210\__000186	Thông_thường/A ,/S2 họ/P sẽ/R khám/V các/L bệnh/N về/V lối_sống/N ./S1
+Seikatsu01\D-A_\000010\__000187	Chào_buổi_sáng/N ,/S2 Marcus/Np ./S1 Bạn/N trông/V có_vẻ/N không/R khỏe/A ./S1
+Seikatsu01\D-A_\000020\__000188	Từ/E tối_qua/N ,/S2 tôi/P cảm_thấy/V rất/R khó_chịu/A ./S1
+Seikatsu01\D-A_\000030\__000189	Bạn/N cảm_thấy/V khó_chịu/A ra_sao/N ,/S2 ví_dụ/V xem/V ?/S1
+Seikatsu01\D-A_\000040\__000190	Tôi/P cảm_thấy/V mệt/V ,/S2 và/N có_thể/A chỉ/R là/V trí_tưởng_tượng/N của/E tôi/P nhưng/C tôi/P cảm_thấy/V hơi/N sốt/V ./S1
+Seikatsu01\D-A_\000050\__000191	Marcus/Np ,/S2 tôi/P sẽ/R sờ/V trán/N bạn/N ./S1 bạn/N chắc_chắn/A đang/R bị/V sốt/V ./S1
+Seikatsu01\D-A_\000060\__000192	Bạn/N đã/R đo/V nhiệt_độ/N bằng/E nhiệt_kế/N chưa/R ?/S1
+Seikatsu01\D-A_\000070\__000193	Thật/T không/R may/A là/V tôi/P không/R có/V nhiệt_kế/N ./S1
+Seikatsu01\D-A_\000080\__000194	Bạn/N có/V biết/V nguyên_nhân/N khiến/V bạn/N bệnh/N không/R ?/S1
+Seikatsu01\D-A_\000090\__000195	Tối_qua/N tôi/N đang/R ngủ/V ,/S2 thì/C tôi/P giật_mình/V thấy/V ra_trải_giường/N bị/V tuốt_mất/V ./S1
+Seikatsu01\D-A_\000100\__000196	Bạn/N nên/C đến/V phòng_khám/N gặp/V bác_sĩ/N ./S1
+Seikatsu01\D-A_\000110\__000197	Tôi/P sẽ/R đến/V phòng_khám_nội/N trong/E khu/N tôi/P sống/V ./S1
+Seikatsu01\D-A_\000120\__000198	Bạn/N bị/V gì/P vậy/P ?/S1 Trông/V bạn/N có_vẻ/N cau_có/V khó_chịu/V ./S1
+Seikatsu01\D-A_\000130\__000199	Tôi/P xin_lỗi/V ,/S2 nhưng/C tôi/P không/R cảm_thấy/V bực_bội/N ./S1 Nói_thật/N ,/S2 tôi/P bị/V đau_đầu/V suốt/A từ/E sáng/N đến/E giờ/N ./S1
+Seikatsu01\D-A_\000140\__000200	Bạn/N có/V hay/N bị/V nhức_đầu/V không/R ?/S1
+Seikatsu01\D-A_\000150\__000201	Thỉnh_thoảng/R tôi/P cũng/R bị/V nhức_đầu/V ,/S2 nhưng/C lần_này/N tôi/P còn/R cảm_thấy/V ớn_lạnh/A nữa/R ./S1
+Seikatsu01\D-A_\000160\__000202	Bạn/N có_thể/A đang/R bị/V sốt/V ./S1 Bạn/N đã/R đo/V nhiệt_độ/N chưa/R ?/S1
+Seikatsu01\D-A_\000170\__000203	Tôi/P không/R cảm_thấy/V sốt/V ,/S2 nhưng/C tôi/P cũng/R cảm_giác/V được/R rằng/N nhiệt_độ/N cơ_thể/N của/E tôi/P tăng/V ./S1
+Seikatsu01\D-A_\000180\__000204	Bạn/N nên/C đến/V gặp/V bác_sĩ/N đi/V ./S1 Gần_đây/V có/V bệnh_viện/N nào/P không/R ?/S1
+Seikatsu01\D-A_\000190\__000205	Có/V một/M bệnh_viện/N rất/R lớn/A ,/S2 nhưng/C hơi/N xa/V một_chút/N ./S1
+Seikatsu01\D-A_\000200\__000206	Bạn/N có_thể/R sẽ/R phải/V chờ/V lâu/A ,/S2 nhưng/C tốt_nhất/N vẫn/R nên/V đi/V gặp/V bác_sĩ/N ./S1
+Seikatsu01\D-A_\000210\__000207	Tôi/P sẽ/R đi/V gặp/V bác_sĩ/N ngày_mai/N ./S1 Cảm_ơn/V bạn/N đã/R quan_tâm/V ./S1
+Seikatsu01\D-I_\000010\__000208	Tôi/P có_thể/A điền/N số_điện_thoại/N của/E căn_hộ/N này/P vào/E chứng_từ/N này/P không/R ?/S1
+Seikatsu01\D-I_\000020\__000209	Chứng_từ/N này/P về/V việc_gì/V ?/S1
+Seikatsu01\D-I_\000030\__000210	Chứng_từ/N này/P sẽ/R được/V nộp/V về/R trường/N ,/S2 có/V một/M cột/N yêu_cầu/N điền/N số_điện_thoại/N khẩn_cấp/V đề_phòng/V khi/N có/V chuyện/N gì/P xảy_ra/V với/E tôi/P ./S1
+Seikatsu01\D-I_\000040\__000211	Nếu_là/N số_điện_thoại/N khẩn_cấp/A ,/S2 tôi/N nghĩ/V bạn/N nên/C điền/N số_điện_thoại_di_động/N của/E tôi/P thay_vì/V số_nhà/V ./S1
+Seikatsu01\D-I_\000050\__000212	Có/V hai/M cột/N ./S1 Một/M cột/N là/V số_nhà/N và/C cột/N còn_lại/N là/V số_điện_thoại_di_động/N ./S1
+Seikatsu01\D-I_\000060\__000213	Nếu/C có/V hai/M cột/N để/E điền/N ,/S2 bạn/N có_thể/A viết/V cả/P số_nhà/N và/C số_di_động/N ./S1
+Seikatsu01\D-I_\000070\__000214	Cảm_ơn/V ./S1 Tôi/P sẽ/R điền/N cả/P hai/M số_điện_thoại/N ./S1
+Seikatsu01\D-I_\000080\__000215	Có/V cột/N nào/P để/E điền/N thông_tin/N liên_hệ/V của/E gia_đình/N bạn/N ở/E quê_nhà/N bạn/N không/R ?/S1
+Seikatsu01\D-I_\000090\__000216	Có/V một/M cột/N để/E điền/N thông_tin/N liên_hệ/V ở/E nước/N tôi/P ./S1 Nhưng/C có_vẻ_như/N họ/P sẽ/R liên_hệ/V gia_đình/N đỡ_đầu/N bạn/N trước/A ./S1
+Seikatsu01\D-I_\000100\__000217	Tất_nhiên/A ,/S2 họ/P không_thể/A yêu_cầu/V gia_đình/N bạn/N ở/E quê_nhà/N bạn/N đến/V Nhật/Np ngay/R được/R ./S1
+Seikatsu01\D-I_\000110\__000218	Nhà_trường/N có_thể/R sẽ/R liên_hệ/V trực_tiếp/A với/E gia_đình/N của/E bạn/N tại/E quê_nhà/N bạn/N ./S1
+Seikatsu01\D-I_\000120\__000219	Tôi/P hiểu/V rồi/R ./S1 Xin/V hãy/R yên_tâm/V vì/E tôi/P sẽ/R hỏi/V thêm/V thông_tin/N tại/E trường/N ./S1
+Seikatsu01\D-I_\000130\__000220	Tôi/P nên/V liên_hệ/V nơi/N nào/P khi/N tôi/P gặp_phải/V vấn_đề/N một_mình/X ?/S1
+Seikatsu01\D-I_\000140\__000221	Trong/E những/L trường_hợp/N như_vậy/N ,/S2 xin_hãy/N gọi/V số_điện_thoại/N trường/N ./S1
+Seikatsu01\D-I_\000150\__000222	Trong/E trường_hợp/N gia_đình/N đỡ_đầu/N cần/V trả_lời/V ,/S2 nhà_trường/N sẽ/R liên_hệ/V với/E họ/P lúc/N cần_thiết/A ./S1
+Seikatsu01\D-I_\000160\__000223	Nhà_trường/N sẽ/R liên_hệ/V với/E trường/N của/E bạn/N ở/E quê_nhà/N bạn/N thường_xuyên/A ./S1
+Seikatsu01\D-I_\000170\__000224	Với/E những/L việc/N chúng_tôi/N cần/V liên_hệ/V với/E quê_nhà/N bạn/N của/E bạn/N ,/S2 chúng_tôi/P cũng/R sẽ/R thông_báo/V cho/E trường/N của/E bạn/N ./S1
+Seikatsu01\D-I_\000180\__000225	Bạn/N có_thể/A liên_hệ/V với/E gia_đình/N tôi/P ở/V quê_nhà/N tôi/P à/T ?/S1
+Seikatsu01\D-I_\000190\__000226	Chúng_tôi/P sẽ/R xác_định/V tình_hình/N trước/N và/C nếu/C cần_thiết/V ,/S2 chúng_tôi/P chắc_chắn/V sẽ/R thông_báo/V ./S1
+Seikatsu01\D-I_\000200\__000227	Bạn/N có_thể/A kiểm_tra/V lại/R xem/V địa_chỉ/N liên_hệ/V hoặc/N số_điện_thoại/N của/E gia_đình/N bạn/N đã/R đúng/A chưa/R được/R không/R ?/S1
+Seikatsu01\D-I_\000210\__000228	Vâng/N ./S1 Tôi/P sẽ/R kiểm_tra/V ./S1
+Seikatsu01\D-U_\000010\__000229	Tối_qua/N tôi/P thật/R xui_xẻo/A ./S1
+Seikatsu01\D-U_\000020\__000230	Bạn/N xui_xẻo/N ra_sao/X ?/S1 Bạn/N trông/V thật/T xanh_xao/A ./S1
+Seikatsu01\D-U_\000030\__000231	Tối_qua/N ,/S2 tự_nhiên/N tôi/P thấy/V bụng/N đau/V quằn_quại/N ./S1
+Seikatsu01\D-U_\000040\__000232	Cơn_đau_bụng/N nghiêm_trọng/N đến_nỗi/N tôi/N không/R đứng_dậy/V nổi/R ./S1
+Seikatsu01\D-U_\000050\__000233	Bạn/N có/V làm_gì/N khi/N bị/V triệu_chứng/N nặng/A vậy/P không/R ?/S1
+Seikatsu01\D-U_\000060\__000234	Tôi/P quyết_định/V gọi/V xe_cấp_cứu/N ./S1
+Seikatsu01\D-U_\000070\__000235	Nhưng/C tôi/P không/R gọi/V xe_cấp_cứu/N được/V ./S1
+Seikatsu01\D-U_\000080\__000236	Tôi/P gọi/V số/N chín/V một/M một/M vì/N nó/P là/V số_điện_thoại/N xe_cấp_cứu/N ở/V Mỹ/Np ./S1
+Seikatsu01\D-U_\000090\__000237	Nếu/C bạn/N gọi/V chín/A một/N một/N ,/S2 bạn/N sẽ/R không/R được/V nối_máy/V đâu/N ./S1 Số_điện_thoại/N khẩn_cấp/A là/V số/N khác/A ở/V Nhật/Np ./S1
+Seikatsu01\D-U_\000100\__000238	Tôi/P không/R gọi/V được/R mặc_dù/N tôi/P gọi/V số/N đó/P rất/R nhiều/A lần/N ./S1 Tôi/Np không/R làm_gì/N được/V ./S1
+Seikatsu01\D-U_\000110\__000239	Tôi/P không/R biết/V số_điện_thoại/N xe_cấp_cứu/N ở/V Nhật/Np ./S1
+Seikatsu01\D-U_\000120\__000240	Bạn/N đã/R làm_gì/N khi/N không/R gọi/V được/R xe_cấp_cứu/V ?/S1
+Seikatsu01\D-U_\000130\__000241	May_mắn/A là/V ,/S2 một/M người/N bạn/N đến/V thăm/V tôi/P ,/S2 người_đó/N sống/V kế/V nhà/N tôi/P ./S1
+Seikatsu01\D-U_\000140\__000242	Anh_ấy/N đã/R gọi/V xe_cấp_cứu/N cho/V tôi/P khi/N anh_ấy/N thấy/V tôi/N không/R di_chuyển/V được/R vì/E đau_bụng/N ./S1
+Seikatsu01\D-U_\000150\__000243	Thật/R may_mắn/A ,/S2 nhưng/C bạn/N không_thể/N cứ/V dựa/V vào/E người_khác/N như_vậy/N được/V ./S1
+Seikatsu01\D-U_\000160\__000244	Bạn/N nên/C biết/V cách/N gọi/V xe_cấp_cứu/N ở/V Nhật/Np ./S1
+Seikatsu01\D-U_\000170\__000245	Bạn/N có_thể/A chỉ/V cho/V tôi/P cách/N gọi/V xe_cấp_cứu/N ở/V Nhật/Np không/R ?/S1
+Seikatsu01\D-U_\000180\__000246	Trước_hết/N ,/S2 số_điện_thoại/N khẩn_cấp/A ở/E Nhật/Np là/V một/M một/M chín/N ./S1
+Seikatsu01\D-U_\000190\__000247	Bạn/N có/V điện_thoại_bàn/N ở/V trong/E nhà/N không/R ?/S1
+Seikatsu01\D-U_\000200\__000248	Không/R ,/S2 tôi/P chỉ/R có/V điện_thoại_di_động/N thôi/V ./S1
+Seikatsu01\D-U_\000210\__000249	Vậy/P Bạn/N sẽ/R gọi/V xẻ_cấp_cứu/N bằng/E điện_thoại_di_động/N ./S1
+Seikatsu01\E-A_\000010\__000250	Những/L bệnh/N gì/N bạn/N có_thể/R khám/V tại/E khoa_nội/N ?/S1
+Seikatsu01\E-A_\000020\__000251	Bạn/N có_thể/A đến/V khoa_nội/V khi/N cảm_thấy/V không/R khỏe/A ./S1
+Seikatsu01\E-A_\000030\__000252	Bạn/N có_thể/A đến/V khi/N bị/V số/N cao/A và/C cảm/V hay/C khi/N bạn/N bị/V đau_bụng/V không/R ?/S1
+Seikatsu01\E-A_\000040\__000253	Đấy_là/N lúc/N bạn/N nên/V gặp/V bác_sĩ/N ngay_cả/N khi/N nó/P không/R nghiêm_trọng/A lắm/R ./S1
+Seikatsu01\E-A_\000050\__000254	Bạn/N đến/V khoa_nội/V khi/N bạn/N không/R biết/V nguyên_nhân/N nhưng/C lại/R cảm_thấy/V khó_chịu/V ./S1
+Seikatsu01\E-A_\000060\__000255	Vâng/I ,/S2 bạn/N không_thể/A tự/V khám_bệnh/V cho/E mình/N được/V ./S1
+Seikatsu01\E-A_\000070\__000256	Tôi/P sẽ/R đến/V khoa_nội/V khi/N tôi/P không/R biết/V vì_sao/N mình/N cảm_thấy/V không/R khỏe/A và/N khó_chịu/A ./S1
+Seikatsu01\E-A_\000080\__000257	Có_phải/N anh_ấy/N sẽ/R là/V bác_sĩ/N đầu_tiên/A khám/V cho/V tôi/N không/R ?/S1
+Seikatsu01\E-A_\000090\__000258	Bác_sĩ/N sẽ/R chẩn_đoán/V bệnh/N cho/E bạn/N và/C sau_đó/V bạn/N sẽ/R gặp/V chuyên_gia/N ./S1
+Seikatsu01\E-A_\000100\__000259	Khi_nào/N thì/C bạn/N đến/V khoa_khám_nội/N ?/S1
+Seikatsu01\E-A_\000110\__000260	Bạn/N có_thể/A đến/V vì/E bất_cứ/R bệnh/N gì/P ./S1
+Seikatsu01\E-A_\000120\__000261	Khi/N bạn/N bị/V cảm/V hay/C khi/N bạn/N bị/V đau_bụng/V hay/C khi/N bạn/N thấy/V không/R khỏe/A ./S1
+Seikatsu01\E-A_\000130\__000262	Có_phải/N là/V lúc/N những/N toa_thuốc/N từ/E nhà_thuốc/N không/R có/V công_hiệu/N không/R ?/S1
+Seikatsu01\E-A_\000140\__000263	Không/R có/V thuốc/N công/N liều_lượng/V mạnh/N bán/V ngay/A ./S1
+Seikatsu01\E-A_\000150\__000264	Nếu/C bạn/N muốn/V điều_trị/V bằng/N thuốc/N hiệu_quả/N ,/S2 bạn/N nên/C đến/V khoa_nội/N ./S1
+Seikatsu01\E-A_\000160\__000265	Sẽ/R an_toàn/A hơn/R khi/N được/V khám/V sau_khi/N đến/V khoa_nội/N trước_khi/N tự_ý/N làm_gì/N khác/A ./S1
+Seikatsu01\E-A_\000170\__000266	Bạn/N không_thể/A luôn_luôn/N tự/N chẩn_đoán/V ./S1
+Seikatsu01\E-A_\000180\__000267	Bạn/N có_thể/A được/V giới_thiệu/V tới/E một/M chuyên_gia/N nữa/R ./S1
+Seikatsu01\E-A_\000190\__000268	Vậy/P khoa_nội/N là/V khoa_đầu_tiên/N tôi/P sẽ/R đến/V tại/E bệnh_viện/N ./S1
+Seikatsu01\E-A_\000210\__000269	Tôi/P đến/V khoa_nội/V khi/N tôi/P cảm_thấy/V không/R khỏe/A mặc_dù/N có_thể/R tôi/P chỉ/R bị/V cảm_lạnh/V ./S1
+Seikatsu01\E-E_\000010\__000270	Bạn/N có_thể/A nói/V cho/E tôi/P nghe/V về/E khoa_thần_kinh/N được/R không/R ?/S1
+Seikatsu01\E-E_\000020\__000271	Đây_là/N khoa_thần_kinh/N ./S1 Tôi/Np có_thể/R giúp/V gì/N cho/E bạn/N ?/S1
+Seikatsu01\E-E_\000030\__000272	Tôi/P muốn/V biết/V các/L triệu_chứng/N của/E tôi/P có/V cần/V được/V chẩn_đoán/V không/R ./S1
+Seikatsu01\E-E_\000040\__000273	Xin_hãy/N kể/V cho/E tôi/P nghe/V các/L triệu_chứng/N bạn/N mắc_phải/A ./S1
+Seikatsu01\E-E_\000050\__000274	Tôi/P cảm_thấy/V khó/A ngủ/V mỗi/N đêm/N ./S1
+Seikatsu01\E-E_\000060\__000275	Triệu_chứng/N khó/A ngủ/V này/P đã/R kéo_dài/V chưa/R ?/S1
+Seikatsu01\E-E_\000070\__000276	Có/V ,/S2 tôi/N không/R ngủ/V được/R ,/S2 và/N ngay_cả/N khi/N tôi/P ngủ/V được/R ,/S2 tôi/N thức_dậy/V ngay_lập_tức/N ./S1
+Seikatsu01\E-E_\000080\__000277	Nếu_là/N chứng_mất_ngủ/N ,/S2 bạn/N có_thể/A được/V khám/V tại/N khoa_thần_kinh/N
+Seikatsu01\E-E_\000090\__000278	Tôi/P hiểu/V rồi/R ./S1 Ngoài/E chứng_mất_ngủ/N ,/S2 các/L triệu_chứng/N nào/N khác/A có_thể/A được/V điều_trị/V tại/E khoa_thần_kinh/N ?/S1
+Seikatsu01\E-E_\000100\__000279	Nếu/C bạn/N cảm_thấy/V buồn/V ,/S2 chán_nản/N ,/S2 hay/C dễ/A mệt/V ,/S2 bạn/N có_thể/A đến/V đây/P khám/V tại/E khoa_thần_kinh/N ./S1
+Seikatsu01\E-E_\000110\__000280	Gần_đây/N khi/N tôi/N không/R ngủ/V được/R ,/S2 tôi/P bắt_đầu/V bị/V mệt_mỏi/V ./S1
+Seikatsu01\E-E_\000120\__000281	Nếu/C chứng/V mất_ngủ/N kéo_dài/V trong/E một/M thời_gian/N dài/A và/C bạn/N bắt_đầu/V gặp/V nhiều/A triệu_chứng/N khác/A ,/S2 bạn/N nên/N gặp/V bác_sĩ/N càng/R sớm/A càng/R tốt/A ./S1
+Seikatsu01\E-E_\000130\__000282	Được/V rồi/R ./S1 Tôi/Np có_thể/R gặp/V bác_sĩ/N trong/N hôm_nay/N không/R ?/S1
+Seikatsu01\E-E_\000140\__000283	Dù_sao_đi_nữa/X ,/S2 tôi/P cảm_thấy/V rất/R mệt_mỏi/A ,/S2 nên/C tôi/P đã/R đi/V khám/V thể_chất/N ./S1 Tuy_nhiên/N ,/S2 tôi/N không/R bị/V gì/N liên_quan/V đến/R thể_chất/N cả/T ./S1
+Seikatsu01\E-E_\000150\__000284	Dù/C họ/P không/R thấy/V có/V biểu_hiện/N gì/P lạ/A với/E bạn/N về/E thể_chất/N ,/S2 nhưng/C bạn/N vẫn/R không/R cảm_thấy/V khỏe/A hơn/R phai/N không/R ?/S1
+Seikatsu01\E-E_\000160\__000285	Nếu/C tôi/P bị/V các/L vấn_đề/N về/V tâm_lý/N ,/S2 họ/P nói/V tôi/P nên/V đến/V khoa_thần_kinh/N ./S1
+Seikatsu01\E-E_\000170\__000286	Thật_là/V mặc_dù/N nguyên_nhân/N xuất_phát/V từ/E các/L vấn_đề/N về/V tâm_lý/N ,/S2 đôi_khi/N nó/P biểu_hiện/V ra_ngoài/N mặt_thể_chất/N ./S1
+Seikatsu01\E-E_\000180\__000287	Nếu/C các/L vấn_đề/N về/V tâm_lý/N gây/V ra/R các/L vần_đề/N thể_chất/N của/E bạn/N ,/S2 bạn/N có_thể/A đến/V khoa_thần_kinh/N hoặc/N khoa_thể_chất/N tâm_lý/N ./S1
+Seikatsu01\E-E_\000190\__000288	Khoa/Np thể_chất/N tâm_lý/N là/V gì/P ?/S1
+Seikatsu01\E-E_\000200\__000289	Khoa/Np thể_chất/N là/V nơi/N bạn/N được/R điều_trị/V các/L vần_đề/N về/V thế_chất/N gây_ra/V bởi/E các/L triệu_chứng/N tâm_lý/N ./S1
+Seikatsu01\E-E_\000210\__000290	Có/V nhiều/A các/L khoa/N khác/A trong/N khoa_thần_kinh/N không/R ?/S1
+Seikatsu01\E-I_\000010\__000291	Tôi/P gần_đây/V hay/N cảm_thấy/V tâm_trạng/N không/R được/V tốt/A ./S1 Trong/E trường_hợp/N này/P ,/S2 bệnh_viện/N nào/P tôi/P nên/V đến/V ?/S1
+Seikatsu01\E-I_\000020\__000292	Tôi/P nghĩ/V bạn/N nên/C đến/V gặp/V một/M chuyên_gia/N y_khoa/N để/E điều_trị/V phần_tâm_lý/N của/E bạn/N ./S1
+Seikatsu01\E-I_\000030\__000293	Tình_trang/N chán_nản/N của/E bạn/N kéo_dài/N lâu/A chưa/R ?/S1
+Seikatsu01\E-I_\000040\__000294	Tôi/P cảm_thấy/V chán_nản/A ,/S2 buồn_bực/N khoảng/A một/M tháng/N nay/P rồi/R ./S1
+Seikatsu01\E-I_\000050\__000295	Thật/T đáng_lo/A khi/N bạn/N cảm_thấy/V buồn_bực/V liên_tục/A trong_suốt/A một/M tháng/N ./S1
+Seikatsu01\E-I_\000060\__000296	Tôi/P nghĩ/V bạn/N nên/C đi/V gặp/V ít_nhất/N một/M lần/N đi/V gặp/V bác_sĩ/N ./S1
+Seikatsu01\E-I_\000070\__000297	Tôi/P nên/V đến/R khoa/N nào/P ?/S1
+Seikatsu01\E-I_\000080\__000298	Bạn/N sẽ/R không/R gặp/V khó_khăn/A gì/N nếu/C bạn/N đến/V khoa_thần_kinh/N hoặc/N một/M khoa/N điều_trị/V bệnh/N thể_chất/N tâm_lý/N ./S1
+Seikatsu01\E-I_\000090\__000299	Điểm/N khác_nhau/A giữa/N khoa/N thần_kinh/N và/C một/M khoa/N điều_trị/V bệnh/N thể_chất/N tâm_lý/N là/V gì/P ?/S1
+Seikatsu01\E-I_\000100\__000300	Nếu/C bạn/N gặp/V phải/V các/L triệu_chứng/N về/V thể_chất/N ,/S2 tôi/N khuyên/V bạn/N nên/V đến/V khoa/N điều_trị/V bệnh/N thể_chất/N tâm_lý/N ./S1
+Seikatsu01\E-I_\000110\__000301	Có/V rất/R nhiều/A bệnh_viên/N có/V cả/P hai/M khoa_thần_kinh/N và/C một/M khoa/N điều_trị/V bệnh/N thể_chất/N tâm_lý/N ./S1
+Seikatsu01\E-I_\000120\__000302	Tôi/P giải_thích/V rõ/A cho/E bạn/N nhé/N ?/S1
+Seikatsu01\E-I_\000130\__000303	Bạn/N trông/V không_được/N khỏe/A ,/S2 sao_vậy/N ?/S1
+Seikatsu01\E-I_\000140\__000304	Thật_ra/N là/V tôi/P cảm_thấy/V căng_thẳng/N thường_xuyên/A và/C tôi/P thấy/V không/R khỏe/A lắm/R ./S1
+Seikatsu01\E-I_\000150\__000305	Bạn/N có/V bị/V cảm_lạnh/V hay/V sốt/V không/R ?/S1
+Seikatsu01\E-I_\000160\__000306	Cơ_thể/N tôi/P không/R bị/V gì/N cả/A ,/S2 nhưng/C tôi/P vẫn/R cứ/R cảm_thấy/V chẳng/R có/V tí/N sức_sống/N nào/P ./S1
+Seikatsu01\E-I_\000170\__000307	Tôi/P nghĩ/V bạn/N nên/C đến/V bệnh_viện/N ./S1
+Seikatsu01\E-I_\000180\__000308	Tôi/P không/R bị/V cảm_lạnh/V hay/V bị_thương/V gì/N cả/T ./S1 Tôi/P có/V cần/V đến/V bệnh_viện/N không/R ?/S1
+Seikatsu01\E-I_\000190\__000309	Bạn/N nên/C đến/V bệnh_viện/N vì/E có/V khả_năng/N bạn/N bị/V rối_loạn/V tâm_lý/N ./S1
+Seikatsu01\E-I_\000200\__000310	Nếu/C bạn/N nói/V cho/V tôi/P biết/V thêm/V về/E các/L triệu_chứng/N gần_đây/N của/E bạn/N tôi/P sẽ/R hướng_dẫn/V cho/E bạn/N khoa/N bạn/N nên/C đến/V ./S1
+Seikatsu01\E-I_\000210\__000311	Được/V rồi/R ,/S2 tôi/P sẽ/R cố/V giải_thích/V các/L triệu_chứng/N rõ_ràng/A ./S1
+Seikatsu01\E-KA\000010\__000312	Dạo_này/N tôi/P thường/R ho/V nhiều/A ./S1
+Seikatsu01\E-KA\000020\__000313	Bạn/N có/V ho/N vào/V bạn_ngày/N không/R ?/S1
+Seikatsu01\E-KA\000030\__000314	Tôi/P không_thể/A ngưng/V ho/V ngay/R cả/P khi/N đang/R họp/V ,/S2 gây/V khó_chịu/V cho/E những/L người/N xung_quanh/N ./S1
+Seikatsu01\E-KA\000040\__000315	Lúc_đầu/N tôi/P nghĩ/V là/C tôi/P bị/V cảm_lạnh/V ,/S2 nhưng_mà/N tôi/P không/R bị/V sốt/V ./S1
+Seikatsu01\E-KA\000050\__000316	Nhưng/C nó/P trở_nên/V nghiêm_trọng/A hơn/R ,/S2 vì/E một_khi/N tôi/P bắt_đầu/V ho/V thì/C khó/A dừng/V được/R ./S1
+Seikatsu01\E-KA\000060\__000317	Nếu/C bạn/N bị/V triệu_chứng/N mà/C không/R biết/V nguyên_nhân/N thì/C càng/R thêm/V lý_do/N phải/V đến/V gặp/V bác_sĩ/N ./S1
+Seikatsu01\E-KA\000070\__000318	Nếu/C bạn/N không_thể/A ngưng/V ho/N ,/S2 tôi/N khuyên/V bạn/N nên/V đến/V khoa_hô_hấp/N ./S1
+Seikatsu01\E-KA\000080\__000319	Khoa_hô_hấp/N là/V nơi/N như_thế_nào/X ?/S1
+Seikatsu01\E-KA\000090\__000320	Đó_là/N một/M phòng_khám/N chuyên_khoa/N mà/C bạn/N có_thể/A đến/V khi/N có/V các/L triệu_chứng/N như/C ho/N ,/S2 ho/N có/V đàm/N hoặc/N có/V cảm_giác/N khó_thở/A ./S1
+Seikatsu01\E-KA\000100\__000321	Các/L phương_pháp/N điều_trị/N nào/P được/R cung_cấp/V ở/E phòng_khám/N về/V đường_hô_hấp/N ?/S1
+Seikatsu01\E-KA\000110\__000322	Ngoài/E việc/N bác_sĩ/N điều_trị/N ,/S2 phòng_khám/N còn/V thực_hiện/V các/L kiểm_tra/N như/C chụp_x_quang/N ,/S2 chụp_CT/N hoặc/N xét_nghiệm/V máu/N ,/S2 phụ_thuộc/V vào/E triệu_chứng/N của/E bạn/N ./S1
+Seikatsu01\E-KA\000120\__000323	Tôi/P sẽ/R thử/V đến/E một/M phòng_khám/N về/V đường/N hô_hấp/N ngày_mai/N ./S1
+Seikatsu01\E-KA\000130\__000324	Không/R lâu/A trước_đây/N ,/S2 tôi/P bị/V khó_thở/V chỉ_vì/N đi/V cầu_thang/N ./S1
+Seikatsu01\E-KA\000140\__000325	Gần_đây/N ,/S2 khi/N tôi/P di_chuyển/V ,/S2 tôi/P ngay_lập_tức/R thấy/V khó_thở/N ./S1
+Seikatsu01\E-KA\000150\__000326	Bạn/N có/V các/L triệu_chứng/N khó_thở/N trước_khi/V bạn/N đến/V Nhật/Np chứ/N ?/S1
+Seikatsu01\E-KA\000160\__000327	Không/R ,/S2 khi/N tôi/P ở/V quê_nhà/N tôi/P không/R bao_giờ/P thấy/V khó_thở/N cả/T ./S1
+Seikatsu01\E-KA\000170\__000328	Tôi/P nghĩ/V rằng/C tôi/P rất/R khỏe_mạnh/A ./S1 Có_thể/A tôi/P già/A rồi/R ./S1
+Seikatsu01\E-KA\000180\__000329	Bạn/N có/V các/L bệnh/N kéo_dài/V như/C hen_suyễn/N hay/N dị_ứng/N không/R ?/S1
+Seikatsu01\E-KA\000190\__000330	Tôi/P không/R nghĩ/V tôi/P có/V các/L bệnh/N kéo_dài/V như/C hen_suyễn/N hay/N dị_ứng/N gì/P cả/T ./S1
+Seikatsu01\E-KA\000200\__000331	Bạn/N có/V bao_giờ/N ho/V ,/S2 hay/C cảm_thấy/V khó_thở/N không/R ?/S1
+Seikatsu01\E-KA\000210\__000332	Giờ/N bạn/N nói/V tôi/P mới/R để_ý/V ,/S2 tôi/N nghĩ/V tôi/P rất/R hay/A ho/V ./S1
+Seikatsu01\E-KE\000010\__000333	Khoa_ngoại/N là/V khoa/N gì/P ?/S1
+Seikatsu01\E-KE\000020\__000334	Là/V một_trong_những/N chuyên_khoa/N tại/E bệnh_viện/N ./S1
+Seikatsu01\E-KE\000030\__000335	Có_phải/N khoa_ngoại/N điều_trị/V bên_ngoài/N cơ_thể/N không/R ?/S1
+Seikatsu01\E-KE\000040\__000336	Khoa_Ngoại/Np là/V khoa/N điều_trị/V được/R thực_hiện/V từ/E bên_ngoài/N ./S1
+Seikatsu01\E-KE\000050\__000337	Theo/V từ/E thực_dụng/N ,/S2 điều_trị/N như_thế_nào/N là/V điều_trị/N từ/E bên_ngoài/N ?/S1
+Seikatsu01\E-KE\000060\__000338	Tôi/P hiểu/V có_nghĩa_là/N phẫu_thuật/V ./S1
+Seikatsu01\E-KE\000070\__000339	Vậy/P khoa_Ngoại/N là/V nơi/N bạn/N được/V phẫu_thuật/V khi/N bị_bệnh/V ./S1
+Seikatsu01\E-KE\000080\__000340	Khi/N bạn/N bị/V ung_thư_bao_tử/X hay/V gan/N ,/S2 bác_sĩ/N cắt_bỏ/N phần/N ung_thư/N cho/E bạn/N được/V gọi_là/N bác_sĩ/N phẫu_thuật/V ./S1
+Seikatsu01\E-KE\000090\__000341	Tôi/P đã/R từng/R được/V điều_trị/V tại/E một/M khoa_nội/N vì/E loét_bao_tử/N ,/S2 và/N khi/N họ/P quyết_định/V tôi/N cần/V được/V phẫu_thuật/V ,/S2 tôi/P đã/R được/V chuyển/V đến/E một/M khoa_Ngoại/N ./S1
+Seikatsu01\E-KE\000100\__000342	Ở/E Nhật/Np ,/S2 nếu/C bạn/N cần/V phẫu_thuật/V ,/S2 bạn/N đến/E khoa_Ngoại/N ./S1
+Seikatsu01\E-KE\000110\__000343	Từ/E tiếng_Nhật/N cho/V khoa_Ngoại/N rất/R khó/A hiểu/V ./S1
+Seikatsu01\E-KE\000120\__000344	Bạn/N không/R thấy/V sự_liên_quan/N giữa/N từ/N khoa_Ngoại/N và/C phẫu_thuật/V à/T ?/S1
+Seikatsu01\E-KE\000130\__000345	Tôi/P không/R hiểu/V nổi/N ,/S2 và/N tôi/P không/R nhớ/V được/R ./S1
+Seikatsu01\E-KE\000140\__000346	Việc_điều_trị/N bởi/E một/M khoa_nội/N là/V theo_dõi/V thuốc/N ,/S2 bao_gồm/N thuốc/N uống/V và/C việc/N điều_trị/V bởi/E khoa_phẫu_thuật/N trong/E việc/N điều_trị/V phẫu_thuật/N ./S1
+Seikatsu01\E-KE\000150\__000347	Việc_điều_trị/N từ/E bên_ngoài/N là/V phẫu_thuật/N ,/S2 phải/A không/R ?/S1
+Seikatsu01\E-KE\000160\__000348	Tôi/P nghĩ/V nó/P nghĩa_là/N việc_điều_trị/N hoặc/N các/L thao_tác/N thực_hiện/V từ/E bên_ngoài/N ./S1
+Seikatsu01\E-KE\000170\__000349	Tôi/P hiểu/V rồi/R ,/S2 vậy/P tôi/P nên/V nhớ/V nó/P là/V các/L điều_trị/N từ/E bên_ngoài/N ./S1
+Seikatsu01\E-KE\000180\__000350	Có/V rất/R nhiều/A khoa/N y/N kèm_theo/N tên/N ‘/N khoa_Ngoại/N ’/N trong_đó/N ,/S2 rất/R khó/A hiểu/V ./S1
+Seikatsu01\E-KE\000190\__000351	Tại/E bệnh_viện/N tôi/P tới/V ,/S2 khoa_Ngoại/N được/V chia/V nhỏ/V ra/R thành/V khoa_Ngoại/N đường_tiêu_hóa/N và/C khoa_Ngoại/N tổng_quát/V ./S1
+Seikatsu01\E-KE\000200\__000352	Khoa_Ngoại/Np đường_tiêu_hóa/N là/V gì/P ?/S1
+Seikatsu01\E-KE\000210\__000353	Là/V khoa_Ngoại/N chuyên/A về/E phẫu_thuật/N đường_tiêu_hóa/N ./S1
+Seikatsu01\E-KI\000010\__000354	Gần_đây/N ,/S2 tôi/P hay/R bị/V đau_ngực/V ./S1 Tôi/P có_thể/A đến/V khoa/N nào/N ở/V bệnh_viện/N ?/S1
+Seikatsu01\E-KI\000020\__000355	Bạn/N có_thể/A đến/V khoa_tim_mạnh/N ./S1
+Seikatsu01\E-KI\000030\__000356	Tôi/P không/R biết/V từ/N này/P ./S1 Khoa_tim_mạch/N chuyên/A về/V gì/P ?/S1
+Seikatsu01\E-KI\000040\__000357	Khoa_tim_mạch/N chuyên/A về/E các/L bệnh/N về/V tim/N và/C mạnh_máu/N ./S1
+Seikatsu01\E-KI\000050\__000358	Cụ_thể/A thì/C ,/S2 những/L người/N đến/V đó/P bị/V bệnh/N gì/P ?/S1
+Seikatsu01\E-KI\000060\__000359	Những/L người/N đến/V đó/P hầu_hết/R bị/V áp_suất_máu/N cao/A ,/S2 co_thắt/V ngực/N hay/C các/L triệu_chứng/N như/C bị/V rối_loạn/V nhịp_tim/N ./S1
+Seikatsu01\E-KI\000070\__000360	Tôi/P hiểu/V rồi/R ./S1 Vậy/P triệu_chứng/N bị/V đau_ngực/V của/E tôi/P có/V liên_quan/V đến/E tim/N à/T ?/S1
+Seikatsu01\E-KI\000080\__000361	Tôi/P nghĩ/V nó/P liên_quan/V đến/E bệnh/N rối_loạn/N nhịp_tim/N ./S1
+Seikatsu01\E-KI\000090\__000362	Khi/N bạn/N có/V chuẩn_đoán/N ,/S2 tôi/P chắc_chắn/A bác_sĩ/N sẽ/R giải_thích/V rõ/A căn_bệnh/N của/E bạn/N ./S1
+Seikatsu01\E-KI\000100\__000363	Được/V rồi/R ./S1 Nhưng/N bạn/N có_thể/A nói/V cho/V tôi/P thêm/V về/E việc/N gì/P sẽ/R diễn_ra/V khi/N tôi/P đến/V khám/V không/R ?/S1 Tôi/P cảm_thấy/V lo/V khi/N không/R biết/V ./S1
+Seikatsu01\E-KI\000110\__000364	Vâng/I ,/S2 đầu_tiên/N bác_sĩ/N sẽ/R hỏi/V bạn/N một_vài/N câu_hỏi/N ,/S2 sau_đó/N bạn/N sẽ/R được/V xét_nghiệm/V ,/S2 như/N kiểm_tra/V điện_âm_đồ/N và/C siêu_âm/N ./S1
+Seikatsu01\E-KI\000120\__000365	Nếu/C bạn/N cần/V được/V điều_trị/V rối_loạn/V nhịp_tim/N hay/C gì/N đó/P ,/S2 bạn/N sẽ/R được/V cho/V thuốc/N hoặc/N các/L loại/N điều_trị/N khác/A sau/A ./S1
+Seikatsu01\E-KI\000130\__000366	Tôi/P khuyên/V rằng/C bạn/N nên/C đến/V khám/V càng/R sớm/A càng/R tốt/A ,/S2 trước_khi/V bệnh/N trở_nên/V nghiêm_trọng/A hơn/R ./S1
+Seikatsu01\E-KI\000140\__000367	Được/V rồi/R ./S1 Vậy/P tôi/P sẽ/R đến/V khám/V ./S1
+Seikatsu01\E-KI\000150\__000368	Xin_chào/N ./S1 Tôi/P muốn/V hỏi/V thêm/R về/E chi_tiết/N việc/N đến/V khám/V tại/E phòng_khám/N này/P ./S1
+Seikatsu01\E-KI\000160\__000369	Vâng/N tất_nhiên/A ,/S2 bạn/N muốn/V hỏi/V về/E chi_tiết/N khám_bệnh/N tại/E phòng_khám/N này/P à/T ?/S1
+Seikatsu01\E-KI\000170\__000370	Bảng_hiệu/N ghi/V là/V Phòng_Khám_Tim_Mạch_Hashimoto/Np ./S1 Tôi/Np có_thể/A đến/V khám/V nếu/C tôi/P bị_cảm/V không/R ?/S1
+Seikatsu01\E-KI\000180\__000371	Phòng_khám/N tim_mạch/N chuyên/A về/V bệnh_tim/N và/C mạch_máu/N ,/S2 nhưng/C phòng_khám/N chúng_tôi/N cũng/R khám_bệnh/V khác/A trong/E phạm_vi/N khoa_nội/N như/C bệnh_cảm/N ./S1
+Seikatsu01\E-KI\000190\__000372	Tôi/P có_thể/A đến/V các/L phòng_khám/N tim_mạch/N trong/E các/L bệnh_viện/N khác/A nếu/C tôi/P bị_cảm/V không/R ?/S1
+Seikatsu01\E-KI\000200\__000373	Tại/E bệnh_viện/N có/V khoa_tim_mạch/N và/C khoa_nội/N riêng/A ,/S2 khoa_nội/N sẽ/R phụ_trách/V việc/N điều_trị/V bệnh_cảm/N ./S1
+Seikatsu01\E-KI\000210\__000374	Cảm_ơn/N ./S1 Thông_tin/N rất/R hữu_ích/A ./S1
+Seikatsu01\E-KO\000010\__000375	Xin_chào/N ./S1 Xin/V vui_lòng/V hỏi/V tôi/P bất_cứ/R điều/N gì/P bạn/N cần/V biết/V ./S1
+Seikatsu01\E-KO\000020\__000376	Các/L bệnh/N nào/P được/V chữa_trị/V tại/E khoa_Ngoại/N thần_kinh/N ?/S1
+Seikatsu01\E-KO\000030\__000377	Đó_là/N nơi/N điều_trị/V các/L bệnh/N liên_quan/V đến/E hệ_thần_kinh/N nói_chung/N ,/S2 bao_gồm/V não_bộ/N ,/S2 cột_sống/N ,/S2 hệ_thần_kinh/N chu_vi/N và/C các/L bộ_phận/N liên_quan/V ./S1
+Seikatsu01\E-KO\000040\__000378	Các/L bộ_phận/N liên_quan/V là/V gì/P ?/S1
+Seikatsu01\E-KO\000050\__000379	Là/V những/L thứ/N như/C mạch_máu/N ,/S2 xương/N và/C cơ_bắp/N ./S1
+Seikatsu01\E-KO\000060\__000380	Vì/E đó_là/V một/M khoa_Ngoại/N ,/S2 nghĩa/N là/C bạn/N có_thể/A được/V điều_trị/V bằng/N phẫu_thuật/V tại/E đó/P phải/A không/R ?/S1
+Seikatsu01\E-KO\000070\__000381	Vâng/I ,/S2 nó/P hầu_hết/R chữa_trị/V các/L bệnh/N liên_quan/V đến/E hệ_thần_kinh_trung_ương/N ,/S2 cách/V điều_trị/V chính_là/N phẫu_thuật/V ./S1
+Seikatsu01\E-KO\000080\__000382	Tuy_nhiên/C ,/S2 tùy_vào/V từng/R thời_kỳ/N mà/C bệnh/N có_thể/A trở_thành/V đối_tượng/N điều_trị/N của/E khoa_Ngoại/N thần_kinh/N hay/C không/R ./S1
+Seikatsu01\E-KO\000090\__000383	Vậy_là/N có/V một_số/L bệnh/N mà/C cách_điều_trị/N không/R nhất_định/V à/N ./S1
+Seikatsu01\E-KO\000100\__000384	Vâng/I ,/S2 có/V một_số/N bệnh/N đã/R từng/R được/V chữa_trị/V bằng/E phẫu_thuật/N bây_giờ/N có_thể/A được/V chữa/V khỏi/R mà/C không/R cần/V phẫu_thuật/V ,/S2 nhờ_vào/N sự_phát_triển/N của/E y_khoa/N ./S1
+Seikatsu01\E-KO\000110\__000385	Vậy/P số_lượng/N bệnh/N được/V chữa_trị/V bằng/E phẫu_thuật/N thần_kinh/N đã/R giảm/V so_với/N trước_đây/N à/T ?/S1
+Seikatsu01\E-KO\000120\__000386	Không/R ,/S2 cũng/R có/V những/L bệnh/N chưa/R từng/R được/V chữa_trị/V trước_đây/N ,/S2 nhưng/C bây_giờ/N có_thể/A chữa/V khỏi/V được/R bằng/V phẫu_thuật/V ./S1
+Seikatsu01\E-KO\000130\__000387	Do_đó/N ,/S2 tôi/N nghĩ/V rằng/N số_lượng/N bệnh/N đã/R tăng_lên/V ./S1
+Seikatsu01\E-KO\000140\__000388	Vậy/P những/L bệnh/N đã/R từng/R không/R chữa/V được/R qua/V phẫu_thuật/N nay/N đã/R có_thể/R được/V chữa/V khỏi/R vì/E sự_phát_triển/N trong/E phương_pháp/N chữa_trị/N và/C máy_móc/N ./S1
+Seikatsu01\E-KO\000150\__000389	Vâng/I ,/S2 từ/E khoảng/N năm/M một_chín_bảy_mươi/X ,/S2 phẫu_thuật/N siêu_vi/N đã/R trở_nên/V phổ_biến/A ,/S2 và/N vẫn/R được/V sử_dụng/V đến/R ngày_nay/N ./S1
+Seikatsu01\E-KO\000160\__000390	Các/L phương_pháp/N phẫu_thuật/V và/N dụng_cụ/N phẫu_thuật/V cũng/R ngày_càng/X tiến_bộ/V ./S1
+Seikatsu01\E-KO\000170\__000391	Vâng/I ,/S2 phẫu_thuật/N sử_dụng/V mắt_thường/N và/C tay/N có/V các/L hạn_chế/N ./S1
+Seikatsu01\E-KO\000180\__000392	Đúng_vậy/N ,/S2 ngày_này/N có/V rất/R nhiều/A ca/N phẫu_thuật/V khả_thi/A mà/N trước_đây/A nằm/V ngoài/E khả_năng/N của/E con_người/N ,/S2 chẳng_hạn/N như/C các/L bệnh/N tế_bào_não/Np ./S1
+Seikatsu01\E-KO\000190\__000393	Và/C các/L loại/Nc máy_móc/N như/C máy_chụp_MRI/N bạn/N thường/A nghe/V đến/R không/R tồn_tại/V trước_đây/N ./S1
+Seikatsu01\E-KO\000200\__000394	Đúng/A ,/S2 với/E việc_phát_triển/N của/E máy_móc/N chẩn_đoán/N bệnh/N như/C máy_chụp_MRI/N ,/S2 CT/Np và/C PET/Np ,/S2 việc/N định_lượng/V và/N hiển_thị/V dữ_liệu/N hình_ảnh/N như/C là/V chức_năng/N của/E não/N hoặc/N trạng_thái/N sinh_lý/N trở_nên/V khả_thi/A ./S1
+Seikatsu01\E-KO\000210\__000395	Nói_cách_khác/N ,/S2 việc/N hiểu/V rõ/A và/N chính_xác/A về/E những/L thứ/N như/N hình_thái/N của/E hệ_thần_kinh_trung_ương/N và/C trạng_thái/V hoạt_động/N của/E não/N trở_nên/V khả_thi/A ./S1
+Seikatsu01\E-KU\000010\__000396	Tại/E khoa_nhi/N ,/S2 các/L bệnh/N nào/P được/R khám/V ?/S1
+Seikatsu01\E-KU\000020\__000397	Miễn_là/V các/L bệnh/N liên_quan/V đến/E trẻ_em/N ,/S2 khoa_nhi/N sẽ/R phụ_trách/V hầu_hết/N các/L ca/N ./S1
+Seikatsu01\E-KU\000030\__000398	Nếu/C con/N tôi/P bị/V bệnh/N ,/S2 tôi/P có/V nên/V đưa/V nó/P đến/V khoa_nhi/N trước_hết/N không/R ?/S1
+Seikatsu01\E-KU\000040\__000399	Khi/N con/Nc bạn/N bị/V đau_bụng/V hay/C bị/V cảm_lạnh/V ,/S2 nó/P sẽ/R được/V khám/V tại/E khoa_nhi/N ./S1
+Seikatsu01\E-KU\000050\__000400	Khi/N bạn/N không/R biết/V nên/C đến/V khoa/N nào/P cho/V bệnh_nhi/N ,/S2 đến/V khoa_nhi/V trước/N ./S1
+Seikatsu01\E-KU\000060\__000401	Trong/E trường_hợp/N bị_thương/V có_thể/V đến/V khoa_nhi/V được/R không/R ?/S1
+Seikatsu01\E-KU\000070\__000402	Khoa_nhi/N không_thể/R điều_trị/V được/R trường_hợp/N bị_thương/V ./S1
+Seikatsu01\E-KU\000080\__000403	Khi/N con/N bạn/N bị_thương/V ,/S2 xin_hãy/V đến/E khoa_da_liêu/N hay/C khoa_chỉnh_hình/N ./S1
+Seikatsu01\E-KU\000090\__000404	Vậy/P ,/S2 ngoại_trừ/N bị_thương/V ,/S2 tất_cả/N các/L bệnh_nhi/N đều/R được/V điều_trị/V à/N ./S1
+Seikatsu01\E-KU\000100\__000405	Tại/E khoa_nhi/N ,/S2 tất_cả/N các/L bệnh/N đều/R được/V điều_trị/V miễn_là/N bệnh/N trẻ_em/N à/T ?/S1
+Seikatsu01\E-KU\000110\__000406	Vâng/I ,/S2 bao_gồm/V cả/P các/L triệu_chứng/N nhẹ/A như/C cảm_lạnh/N ,/S2 đau_bụng/N ,/S2 tất_cả/N các/L bệnh/N đều/R được/V chữa_trị/V tại/E khoa_nhi/N ./S1
+Seikatsu01\E-KU\000120\__000407	Khi/N da/N bị_bệnh/N ,/S2 tôi/P có/V nên/V đưa/V con/N tôi/P tới/V khoa_da_liễu/N không/R ?/S1
+Seikatsu01\E-KU\000130\__000408	Đôi_khi/V các/L bệnh/N liên_quan/V đến/E toàn/N cơ_thể/N nằm/V ở/E các/L dấu_hiệu/N bất_thường/A trên/E da/N trẻ/A ./S1
+Seikatsu01\E-KU\000140\__000409	Xin_hãy/N cho/E con/N bạn/N khám/V tại/E khoa_nhi/N trước_khi/N người/N nó/P bị_ngứa/V hay/C bị/V gì/P đó/P ./S1
+Seikatsu01\E-KU\000150\__000410	Bất_kỳ/N bệnh/N nào/N ở/V trẻ/N ,/S2 nếu/C tôi/P đến/V khoa_nhi/V trước/N ,/S2 thì/C tôi/P không/R phải/V lo/V gì/P hết/V ./S1
+Seikatsu01\E-KU\000160\__000411	Tại/E khoa_nhi/N ,/S2 vết_thương/N có/V được/R điều_trị/V không/R ?/S1
+Seikatsu01\E-KU\000170\__000412	Việc/N điều_trị/V vết_thương/N không/R được/V cung_cấp/V tại/E khoa_nhi/N ./S1
+Seikatsu01\E-KU\000180\__000413	Chỉ/R đối_với/E các/L vết_thương/N thì/C tôi/P mới/R cần_phải/V đến/R khoa/N khác/A ,/S2 phải/A không/R ?/S1
+Seikatsu01\E-KU\000190\__000414	Khi/N con/N bạn/N bị_thương/V mà/C bạn/N không/R biết/V phải/V làm_gì/N ,/S2 bác_sĩ/N tại/E khoa_nhi/N sẽ/R cho/V bạn/N lời_khuyên/A ./S1
+Seikatsu01\E-KU\000200\__000415	Tôi/P có/V nên/V gặp/V bác_sĩ/N tại/E khoa_nhi/N về/V bất_cứ/N các/L bệnh/N không/R ?/S1
+Seikatsu01\E-KU\000210\__000416	Nếu/C là/V bệnh/N trẻ_em/N ,/S2 xin_hãy/N đến/V gặp/V bác_sĩ/N khoa_nhi/N ./S1
+Seikatsu01\E-NA\000010\__000417	Phần_nào/N của/E cơ_thế/N có_thể/A được/V khám/V tại/E khoa_tiết_niệu/N ?/S1
+Seikatsu01\E-NA\000020\__000418	Khám/V các/L bệnh/N liên_quan/V tới/E phần_nội_tạng/N của/E đường_tiết_niệu/N và/C bộ_phận/N sinh_dục/N của/E nam_giới/N ./S1
+Seikatsu01\E-NA\000030\__000419	Có_thể/R khám/V các/L bệnh/N liên_quan/V đến/E bộ_phận/N sinh_dục/N của/E nữ/N không/R ?/S1
+Seikatsu01\E-NA\000040\__000420	Đối_với/N phụ_nữ/N có/V khoa_phụ_sản/N ,/S2 nên/C sẽ/R đến/V khám/V ở/V đó/P ./S1
+Seikatsu01\E-NA\000050\__000421	Phụ_nữ/N có_thể/A đến/V khám/V tại/E khoa_tiết_niệu/N được/R không/R ?/S1
+Seikatsu01\E-NA\000060\__000422	Các/L vấn_đề/N thuộc_về/N đường_tiết_niệu/N của/E phụ_nữ/N có_thể/A được/V khám/V tại/E khoa_tiết_niệu/N ./S1
+Seikatsu01\E-NA\000070\__000423	Các/L triệu_chứng/N cụ_thể/A như_thế_nào/X là/V thuộc_về/N đường_tiết_niệu/N ?/S1
+Seikatsu01\E-NA\000080\__000424	Bị/V rỉ/V nước_tiểu/N ,/S2 đi_tiểu/N không/R tự_chủ/V ,/S2 và/N hay/C đi_tiểu/N là/V các/L vấn_đề/N thuộc/V đường_tiết_niệu/N ./S1
+Seikatsu01\E-NA\000090\__000425	Cơ_quan/N nội_tạng/N nào/P thuộc_về/V đường_tiết_niệu/N ?/S1
+Seikatsu01\E-NA\000100\__000426	Thận/Np ,/S2 bàng_quang/N ,/S2 niệu_quản/N và/C niệu_đạo/V vân_vân/N
+Seikatsu01\E-NA\000110\__000427	Khoa_tiết_niệu/N chuẩn_đoán/N và/C điều_trị/V những/L bệnh/N gì/P ?/S1
+Seikatsu01\E-NA\000120\__000428	Khoa_tiết_niệu/N khám/V các/L bệnh/N liên_quan/V đến/E thận/N ,/S2 bể_thận/N và/C đường_tiết_niệu/N ./S1
+Seikatsu01\E-NA\000130\__000429	Đường_tiết_niệu/N bao_gồm/V bàng_quang/N ,/S2 niệu_quản/N và/C niệu_đạo/N ./S1
+Seikatsu01\E-NA\000140\__000430	Các/L bệnh/N liên_quan/V tới/E bộ_phận_sinh_dục_nam/N ,/S2 như/C là/V tuyến_tiền_liệt/N ,/S2 dương_vật/N ,/S2 tinh_hoàn/N và/C túi_tinh/N cũng/R được/V khám/V tại/E khoa_tiết_niệu/N ./S1
+Seikatsu01\E-NA\000150\__000431	Phụ_nữ/N không/R khám/V được/R ở/V khoa_tiết_niệu/N à/T ?/S1
+Seikatsu01\E-NA\000160\__000432	Các/L bệnh/N liên_quan/V đến/E bộ_phận_sinh_dục_nữ/N nên/C khám/V tại/E khoa_phụ_sản/N ,/S2 chứ/R không/R phải/A khoa_tiết_niệu/V ./S1
+Seikatsu01\E-NA\000170\__000433	Bệnh/N về/V thận/N có/V những/L bệnh/N như_thế_nào/X ?/S1
+Seikatsu01\E-NA\000180\__000434	Ví_dụ/V như/A suy_thận_mãn_tính/X ,/S2 suy_thận/N do/N bị/V tiểu_đường/V ,/S2 xơ_cứng_thận/N ,/S2 bệnh_thận_đa_nang/X ,/S2 và/N hội_chứng/N hư_thận/N vân_vân/N
+Seikatsu01\E-NA\000190\__000435	Các/L bệnh/N như/C ghép_thận/N ,/S2 chạy_thận/V qua/V phúc_mạc/N ,/S2 chạy_thận/N nhân_tạo/A do/E bị/V suy_thận/V ,/S2 hay/C các/L bệnh/N về/V thận/N cũng/R đều/R được/V khám/V tại/E khoa_tiết_niệu/N ./S1
+Seikatsu01\E-NA\000200\__000436	Vậy/P toàn_bộ/N các/L bệnh/N liên_quan/V đến/E thận/N nên/C khám/V tại/E khoa_tiết_niệu/N nhỉ/N ./S1
+Seikatsu01\E-NA\000210\__000437	Vâng/I ,/S2 nếu/C có/V gì/P bất_thường/A về/V thận/N ,/S2 bạn/N nên/C đến/V khoa_tiết_niệu/N ./S1
+Seikatsu01\E-NE\000010\__000438	Khi/N bệnh_viện/N thông_thường/N chưa/R làm_việc/V ,/S2 chúng_tôi/P có_thể/R khám/V cấp_cứu/V không/R ?/S1
+Seikatsu01\E-NE\000020\__000439	Vâng/I ,/S2 được/V ./S1 Chúng_tôi/N khám/V cho/V cả/P các/L bệnh_nhân/N cấp_cứu/V vào/E ngoài/N giờ_làm_việc/N thông_thường/A của/E bệnh_viện/N ,/S2 như/A là/V vào/V lúc/N nửa_đêm/N hay/C ngày_nghỉ/N ./S1
+Seikatsu01\E-NE\000030\__000440	Trong/E các/L trường_hợp/N nào/P thì/C yêu_cầu/V cấp_cứu/V ?/S1
+Seikatsu01\E-NE\000040\__000441	Trong/E trường_hợp/N bệnh_nhân/N trong/E tình_trạng/N nguy_kịch/A nguy_hiểm/A đến/E tính_mạng/N ./S1
+Seikatsu01\E-NE\000050\__000442	Chúng_tôi/P khám/V cả/P những/L bệnh_nhân/N bị/V bệnh_nặng/V cần/V phải/V nhập_viện/V ./S1
+Seikatsu01\E-NE\000060\__000443	Đối_với/C các/L bệnh_nhân/N bị_thương/N nặng/N cần/V phải/V phẫu_thuật/V chúng_tôi/N sẽ/R tiếp_nhận/V tại/E khoa_khám_cấp_cứu/N ./S1
+Seikatsu01\E-NE\000070\__000444	Chúng_tôi/P cũng/R khám/V cho/V bệnh_nhân/N tình_trạng/N đột_nhiên/V xấu/A đi/V hoặc/N bị_thương/V ./S1
+Seikatsu01\E-NE\000080\__000445	Tuy_nhiên/C ,/S2 khi/N muốn/V khám/V ,/S2 bạn/N phải/V gọi/V điện_thoại/N hỏi_trước/V ./S1
+Seikatsu01\E-NE\000090\__000446	Nếu/C bác_sĩ/N trực/V không_thể/R khám/V được/R ,/S2 chúng_tôi/P sẽ/R giới_thiệu/V bệnh_nhận/V tới/V một/M bệnh_viện/N khác/A ./S1
+Seikatsu01\E-NE\000100\__000447	Tại/E khoa_khám_cấp_cứu/N ,/S2 chúng_tôi/P thực_hiện/V những/L bước/N kiểm_tra/V ,/S2 điều_trị/V và/C sơ_cứu/N tối_thiểu/N cần/V có/V ./S1
+Seikatsu01\E-NE\000110\__000448	Các/L bệnh_nhân/N như_thế_nào/N có_thể/R gặp/V bác_sĩ/N tại/E khoa_cấp_cứu/N ?/S1
+Seikatsu01\E-NE\000120\__000449	Chúng_tôi/N tiếp_nhận/V bệnh_nhân/N nguy_kịch/N ngoài/N giờ_hành_chính/N như/C vào/V lúc/N nửa_đêm/N hoặc/N vào/V ngày_nghỉ/N ./S1
+Seikatsu01\E-NE\000130\__000450	Cụ_thể/A trong/E trường_hợp/N nào/P thì/C được/V xem/V là/C bệnh_nhân/N nguy_kịch/N ?/S1
+Seikatsu01\E-NE\000140\__000451	Những/L bệnh_nhân/N có/V bệnh/N mãn_tính/N và/C thể_trạng/N đột_nhiên/N thay_đổi/V được/R coi/V là/C bệnh_nhân/N nguy_kịch/N ./S1
+Seikatsu01\E-NE\000150\__000452	Trong/E trường_hợp/N phát_bệnh/V bớt_ngờ/N khác/A chưa/R từng/R bị/V ,/S2 chúng_tôi/P sẽ/R khám/V cho/V bệnh_nhân/N tại/E khoa_cấp_cứu/N ./S1
+Seikatsu01\E-NE\000160\__000453	Còn_nữa/N ,/S2 trong/E những/L trường_hợp/N bị_thương/V nặng/A ,/S2 bệnh_nhân/N được/V khám/V tại/E khoa_cấp_cứu/N ./S1
+Seikatsu01\E-NE\000170\__000454	Khi/N bạn/N trong/N tình_trạng/N nguy_kịch/A và/C tính_mạng/N bị/V đe_dọa/V ,/S2 xin/V đừng/V do_dự/V hãy/R đến/V thẳng/A khoa_cấp_cứu/N ./S1
+Seikatsu01\E-NE\000180\__000455	Tại/E khoa_cấp_cứu/N ,/S2 chúng_tôi/P cũng/R tiếp_nhận/V các/L bệnh_nhân/N được/V chuyển/V đến/R bởi/E xe_cứu_thương/N ./S1
+Seikatsu01\E-NE\000190\__000456	Nếu/C bạn/N cần/V gặp/V bác_sĩ/N tại/E khoa_cấp_cứu/N ,/S2 xin/V vui_lòng/V hãy/R gọi/V điện_thoại/N đến/V bệnh_viện/N trước/N ./S1
+Seikatsu01\E-NE\000200\__000457	Tùy_thuộc/V vào/V tình_trạng/N bệnh/N của/E bạn/N ,/S2 bác_sĩ/N trực_ca/N sẽ/R thông_báo/V với/E bạn/N là/C họ/P có_thể/A khám/V cho/E bạn/N được/V hay/V không/R ./S1
+Seikatsu01\E-NE\000210\__000458	Trong/E những/L trường_hợp/N nào/P thì/C có_thể/A gặp/V được/R bác_sĩ/V tại/E khoa_cấp_cứu/N ?/S1
+Seikatsu01\E-NI\000010\__000459	Tôi/P muốn/V trao_đổi/V về/E việc/N đi/V đến/E bệnh_viện/N ./S1
+Seikatsu01\E-NI\000020\__000460	Ý/N bạn/N là/V để/E tư_vấn/V về/E các/L bệnh_nha_khoa/N à/N ?/S1
+Seikatsu01\E-NI\000030\__000461	Gần_đây/N tôi/P bị/V đau_răng/V ,/S2 nhưng/C tôi/P không/R biết/V phải/V đi/V khám/V ở/V đâu/P ./S1
+Seikatsu01\E-NI\000040\__000462	Để/E khám/V đau_răng/N thường/R bạn/N đến/V phòng_khám/N nha_khoa/N ./S1
+Seikatsu01\E-NI\000050\__000463	Bạn/N có_thể/A nói/V cho/V tôi/P biết/V những/L triệu_chứng/N có_thể/A được/V chữa_chạy/V tại/E phòng_khám/N nha_khoa/N không/R ?/S1
+Seikatsu01\E-NI\000060\__000464	Hơi/Np khó/A một_chút/N ,/S2 nhưng/C khi/N bạn/N có/V vấn_đề/N về/V răng/N như/C sâu_răng/N hay/N bệnh_nha_chu/N ,/S2 bạn/N nên/C đến/V phòng_khám/N nha_khoa/N ./S1
+Seikatsu01\E-NI\000070\__000465	Ngoài_ra/C ,/S2 những/L triêu_chứng/N như/C u/N trong/E khoang_miệng/N ,/S2 rách_môi/N ,/S2 rối_loại/N vị_giác/N hay/C liệt/N cơ_mặt/N ,/S2 tôi/N nghĩ/V cần/V khám/V ở/V khoa_răng_hàm_mặt/X ./S1
+Seikatsu01\E-NI\000080\__000466	Cũng/R có/V phòng_khám/N nha_khoa/N có_thể/A điều_trị/V răng_hàm_mặt/N ,/S2 và/N cũng/R có/V trường_hợp/N tại/N khoa_răng_hàm_mặt/N thực_hiện/V điều_trị/N liên_quan/V đến/E các/L bệnh/N về/V răng/N ./S1
+Seikatsu01\E-NI\000090\__000467	Trong/E một_vài/N trường_hợp/N ,/S2 hai/M khoa/N này/P phối_hợp/V với_nhau/N để/E điều_trj/V và/C ngay_từ_đầu/N nó/P hợp_chung/V làm_một/N tại/E một/M phòng_khám/N ./S1
+Seikatsu01\E-NI\000100\__000468	Gần_đây/N tôi/P bị/V viêm_miệng/V ,/S2 nên/C cảm_thấy/V rất/R lo_lắng/V ./S1
+Seikatsu01\E-NI\000110\__000469	Nhân_đây/N tôi/P muốn/V hỏi/V viêm_miệng/N có/V chữa/V được/V tại/E phòng_khám/N nha_khoa/N không/R ?/S1
+Seikatsu01\E-NI\000120\__000470	Vì/E tôi/P không/R có/V thời_gian/N đến/V các/L khoa/N ./S1
+Seikatsu01\E-NI\000130\__000471	Trong/E các/L ca/N viêm_miệng/V nhẹ/A ,/S2 bạn/N có_thể/A được/V chữa_trị/V tại/E một/M phòng_khám/N nha_khoa/N thông_thường/A ./S1
+Seikatsu01\E-NI\000140\__000472	Vì/E chỗ_viêm/N sưng/N lên/V như/C một/M cục_bứu/N ,/S2 nên/C có_lẽ/N tình_trạng/N của/E tôi/P cũng/R khá/R nặng/A ./S1
+Seikatsu01\E-NI\000150\__000473	Nếu/C bạn/N có/V triệu_chứng/N nghiêm_trọng/A ,/S2 trước_tiên/N bạn/N nên/V tìm/V một/M phòng_khám/N nha_khoa/N có/V kết_hợp/V với/E răng_hàm_mặt/N ./S1
+Seikatsu01\E-NI\000160\__000474	Bạn/N có_thể/A chỉ/V cho/V tôi/P biết/V về/E việc/N điều_trị/V răng/N được/V thực_hiện/V tại/E khoa_răng_hàm_mặt/X được/R không/R ?/S1
+Seikatsu01\E-NI\000170\__000475	Nhiều/A trường_hợp/N cần/V phải/V phẫu_thuật/V ở/V khoa_răng_hàm_mặt/X để/E loại_bỏ/V răng/N bị/V chèn/V trong/E nướu/N và/C xương/N như/C răng/N bị/V mọc/V lệch/N ,/S2 ngầm/N ./S1
+Seikatsu01\E-NI\000180\__000476	Răng/Np bị/V mọc/V lệch/N ,/S2 ngầm/N phổ_biến/V nhất_là/N răng_khôn/N ./S1
+Seikatsu01\E-NI\000190\__000477	Phẫu_thuật/N răng_khôn/N không_thể/R thực_hiện/V được/R ở/V một/M phòng_khám/N nha_khoa/N thông_thường/A à/T ?/S1
+Seikatsu01\E-NI\000200\__000478	Đúng/A như/A tên_gọi/N của/E khoa_răng_hàm_mặt/N ,/S2 chúng_tôi/N khuyên/V các/L bạn/N nên/C đến/V khoa_răng_hàm_mặt/N trong/E trường_hợp/N cần/V phải/V điều_trị/V về/R ngoại_khoa/V ./S1
+Seikatsu01\E-NI\000210\__000479	Ý/N bạn/N là/V phòng_khám/N răng_hàm_mặt/N sẽ/R điều_trị/V tốt/A hơn/R phòng_khám/N nha_khoa/N à/T ?/S1
+Seikatsu01\E-NU\000010\__000480	Xin_lỗi/V ,/S2 đây_là/N lần_đầu/N tôi/P đến/V khám/V ./S1
+Seikatsu01\E-NU\000020\__000481	Xin_chào/N ,/S2 tôi/P có_thể/R giúp/V gì/N cho/E bạn/N ?/S1
+Seikatsu01\E-NU\000030\__000482	Tôi/P được/V biết/V ở/V đây/P tiếp_nhận/V cả/T nha_khoa_nhi/N nữa/R ./S1
+Seikatsu01\E-NU\000040\__000483	Vâng/I ,/S2 chúng_tôi/P có/V khám/V cả/P nha_khoa_nhi/N ./S1
+Seikatsu01\E-NU\000050\__000484	Trẻ/N đến/V mấy/L tuổi/N có_thể/N được/V khám/V nha_khoa_nhi/N ?/S1
+Seikatsu01\E-NU\000060\__000485	Trẻ_em/N đến/V mười/N hai/M tuổi/N ./S1
+Seikatsu01\E-NU\000070\__000486	Con/N tôi/P bị/V sâu_răng/V ./S1 Trường_hợp/N này/P cũng/R khám/V ở/V nha_khoa_nhi/N nhỉ/I ?/S1
+Seikatsu01\E-NU\000080\__000487	Được/V ,/S2 ngoài/N điều_trị/N sâu_răng/N ,/S2 nha_sĩ/N còn/R cho/V bạn/N lời_khuyên/N chăm_sóc/V răng/N sau_đó/A và/C hướng_dẫn/V cách/V chăm_sóc/V bảo_vệ/N khỏi/V sâu_răng/N ./S1
+Seikatsu01\E-NU\000090\__000488	Con/N tôi/P sợ/V tiếng/N máy_mài_răng/N ,/S2 nhiều/A khi/N giữa_chừng/N phải/V ngưng/V việc/N điều_trị/V ./S1
+Seikatsu01\E-NU\000100\__000489	Chúng_tôi/N có_thể/R vừa/R chấm/V thuốc_sâu_răng/N vừa/R theo_dõi/V biếu_hiện/N của/E cháu/N cho/E đến/E khi/N cháu/N quen/V dần/R ./S1 Nên/N bạn/N có_thể/A yên_tâm/A ./S1
+Seikatsu01\E-NU\000110\__000490	Tôi/P có_thể/R ngồi/V cùng_với/N cháu/N khi/N khám/V được/R không/R ?/S1
+Seikatsu01\E-NU\000120\__000491	Bạn/N có_thể/R ngồi/V cạnh/N cháu/N và/C theo_dõi/V quá_trình/N điều_trị/V ./S1
+Seikatsu01\E-NU\000130\__000492	Tôi/P hiểu/V rồi/R ./S1 Lần_sau/N tôi/P sẽ/R dẫn/V cháu/N đến/V khám/V ./S1
+Seikatsu01\E-NU\000140\__000493	Xin_chào/N ,/S2 bạn/N có/V lịch_hẹn/N khám/V trước/N không/R ?/S1
+Seikatsu01\E-NU\000150\__000494	Hôm_nay/N tôi/P muốn/V hỏi/V về/E việc_điều_trị/N của/E con/N tôi/P chứ/R không/R phải/A của/E tôi/P ./S1
+Seikatsu01\E-NU\000160\__000495	Vâng/I ,/S2 tại/N viện/N chúng_tôi/N có/V các/L chuyên_gia/N về/V nha_khoa_nhi/N ./S1
+Seikatsu01\E-NU\000170\__000496	Thực_ra/N con/N tôi/P đang/R bị/V thêm/V một/M răng_sâu/N mới/A ./S1
+Seikatsu01\E-NU\000180\__000497	Triệu_chứng/N cũng/R không/R nặng/A nhỉ/I ?/S1
+Seikatsu01\E-NU\000190\__000498	Cháu/N hay/C bị/V buốt_răng/V ./S1
+Seikatsu01\E-NU\000200\__000499	Vậy_mà/C ,/S2 bảo/V dắt/V đi/V nha_sĩ/V cháu/N không/R nghe/V ./S1
+Seikatsu01\E-NU\000210\__000500	Chắc/A là/V cháu/N sợ/V các/L máy_móc/N y_khoa/N à/T ?/S1
+Seikatsu01\E-O_\000010\__000501	Thật_ra/N là/V ,/S2 tôi/P bị/V đau_bụng/V từ/E tối_qua/N ./S1
+Seikatsu01\E-O_\000020\__000502	Bạn/N cảm_thấy/V đau/V ở/V đâu/P trong/E bụng/N ?/S1
+Seikatsu01\E-O_\000030\__000503	Tôi/P thấy/V đau/V ở/V quanh/N rốn/N ./S1
+Seikatsu01\E-O_\000040\__000504	Bạn/N có/V bị/V tiêu_chảy/V không/R ?/S1
+Seikatsu01\E-O_\000050\__000505	Tôi/P không/R cảm_thấy/V mắc_đại_tiện/N hôm_nay/N ,/S2 nên/C tôi/P cũng/R không/R biết/V ./S1
+Seikatsu01\E-O_\000060\__000506	Để/E đề_phòng/V ,/S2 tôi/P có/V nên/V đến/V bệnh_viện/N không/R ?/S1
+Seikatsu01\E-O_\000070\__000507	Bạn/N nên/C gặp/V một/M bác_sĩ/N chuyên_khoa/N để/E khám/V nhé/N ./S1
+Seikatsu01\E-O_\000080\__000508	Khi/N tôi/P bị/V đau_bụng/V ,/S2 tôi/P nên/V đến/R khoa/N nào/P trong/E bệnh_viện/N ?/S1
+Seikatsu01\E-O_\000090\__000509	Tôi/P nghĩ/V khoa_nội/N hoặc/N khoa_tiêu_hóa/N là/V hợp_lý/A ,/S2 nhưng/C khoa_tiêu_hóa/N thì/N sẽ/R chuyên/A hơn/R ./S1
+Seikatsu01\E-O_\000100\__000510	"/S2 Cơ_quan_tiêu_hóa/X "/S2 là/V chỉ/R bộ_phận/N gì/P ?/S1
+Seikatsu01\E-O_\000110\__000511	Từ/E cơ_quan_tiêu_hóa/N nói/V đến/E gồm/V thực_quản/N ,/S2 dạ_dày/N và/C ruột/N ./S1
+Seikatsu01\E-O_\000120\__000512	Ruột/N có/V ruột_già/N và/C ruột_non/N phải/A không/R ?/S1
+Seikatsu01\E-O_\000130\__000513	Ruột_già/N bắt_đầu/V từ/V manh_tràng/N và/C dẫn/V đến/V ruột_két_lên/N ,/S2 ruột_kết_ngang/N ,/S2 ruột_kết_xuống/N ,/S2 đại_tràng/N sigma/N ,/S2 trực_tràng/N và/C hậu_môn/N ./S1
+Seikatsu01\E-O_\000140\__000514	Tôi/P nghe_nói/V rằng/C ruột_già/N rất/R dài/A ./S1
+Seikatsu01\E-O_\000150\__000515	Ở/E người_lớn/N ruột_già/N dài/A khoảng/A hai/M mét/N ./S1
+Seikatsu01\E-O_\000160\__000516	Cơ_quan_tiêu_hóa/X còn/V có/V gan/N ,/S2 túi_mật/N ,/S2 ống_dẫn_mật/N và/C tuyến_tụy/N ./S1
+Seikatsu01\E-O_\000170\__000517	Gan/Np ,/S2 túi_mật/N ,/S2 ống_dẫn_mật/N và/C tuyến_tụy/N này/P là/V gì/P ?/S1
+Seikatsu01\E-O_\000180\__000518	Chúng/P là/V cơ_quan_tiêu_hóa/N trong/E cơ_thể/N chúng_ta/N ,/S2 chúng/R có/V nhiệm_vụ/N hỗ_trợ/V tiêu_hóa/N thức_ăn/N ./S1
+Seikatsu01\E-O_\000190\__000519	Gan/N là/V cơ_quan/N phân_giải/V chất_cồn/N phải/A không/R nhỉ/I ?/S1
+Seikatsu01\E-O_\000200\__000520	Tuyến_tụy/N đóng/V vai_trò/N gì/P ?/S1
+Seikatsu01\E-O_\000210\__000521	Chất/N mà/C tuyến_tụy/N tiết/N ra/V gọi_là/N dịch_tụy/N là/V chất_men/N giúp/V phân_giải/N đường/N ,/S2 chất_đạm/N và/C chất_béo/N ./S1
+Seikatsu01\E-SA\000010\__000522	Sự/Nc khác_nhau/A giữa/E ngoại_khoa/N và/C khoa_chỉnh_hình/N là/V gì/P ?/S1
+Seikatsu01\E-SA\000020\__000523	Ngoại_khoa/N là/V phân_ngành/N trong/E y_khoa/N liên_quan/V đến/E điều_trị/N bệnh/N hoặc/N tổn_thường/A bằng/E cách/N tác_động/N từ/E bên_ngoài/N chẳng_hạn/N như/C phẫu_thuật/N ./S1
+Seikatsu01\E-SA\000030\__000524	Trong/E lĩnh_vực/N ngoại_khoa/N ,/S2 ngoài/E chấn_thương_chỉnh_hình/X ,/S2 còn/C có/V rất/R nhiều/A khoa/N như/C giải_phẫu_thần_kinh/X ,/S2 giải_phẫu_tim_mạch/X và/N ngoại_khoa_nhi/N ./S1
+Seikatsu01\E-SA\000040\__000525	Khoa_chỉnh_hình/N là/V một/M khoa_ngoại/N ,/S2 là/V nơi/N nghiên_cứu/V thay_đổi/N hình_dạng/N và/C các/L rối_loạn/N chức_năng/N của/E hệ_cơ_xương/N như/C xương/N ,/S2 khớp/N ,/S2 cơ/N và/C các/L dây_thần_kinh/N ./S1
+Seikatsu01\E-SA\000050\__000526	Bạn/N có_thể/A nói/V rõ/A cho/E tôi/P biết/V về/E chỉnh_hình/N được/R không/R ?/S1
+Seikatsu01\E-SA\000060\__000527	Nếu/C bạn/N ngã/V và/N bị/V trẹo/V xương_gót_chân/N ,/S2 bạn/N hãy/R đến/V khoa_chấn_thương_chỉnh_hình/N ./S1
+Seikatsu01\E-SA\000070\__000528	Nếu/C bạn/N bị_thương/V nặng/A đến/E mức/N cần/V phải/V phẫu_thuật/V ,/S2 bạn/N hãy/R đến/V khám/V ở/V ngoại_khoa/N ./S1
+Seikatsu01\E-SA\000080\__000529	Khi/N tôi/P ngã/V và/N bị_thương/V chảy_máu/N ,/S2 tôi/P có/V nên/V đến/R khoa_chỉnh_hình/N không/R ?/S1
+Seikatsu01\E-SA\000090\__000530	Trong/E trường_hợp/N bị_thương/V chảy_máu/N ,/S2 bạn/N có_thể/A đến/V ngoại_khoa/N cũng/R được/V ,/S2 nhưng/C chẳng_may/N trường_hợp/N có/V tổn_thương/N đến/V xương/N tôi/N nghĩ/V bạn/N nên/C đến/V khoa_chỉnh_hình/N là/V tốt_nhất/N ./S1
+Seikatsu01\E-SA\000100\__000531	Ngoài/E những/L trường_hợp/N kể/V trên/N ,/S2 khi_nào/N tôi/P nên/V đến/V khoa_chỉnh_hình/N ?/S1
+Seikatsu01\E-SA\000110\__000532	Nếu/C bạn/N bị/V đau/V trong/E người/N ,/S2 trước_tiên/N bạn/N nên/C đến/V khoa_chấn_thương_chỉnh_hình/N ./S1
+Seikatsu01\E-SA\000120\__000533	Ngay_cả/N khi/N chúng_ta/N bị/V đau/V trong/E người/N ,/S2 có/V trường_hợp/N nào/P chúng_ta/N nên/C đến/V khoa/N khác/A được/R không/R ?/S1
+Seikatsu01\E-SA\000130\__000534	Có/V ./S1 Nếu/N phát_hiện/V bệnh_nội_khoa/N ,/S2 khoa/N khác/A có/V chuyên_môn/N hơn/A ./S1
+Seikatsu01\E-SA\000140\__000535	Bệnh/N nội_khoa/N không/R được/V chữa_trị/V tại/E khoa_chỉnh_hình/N phải/A không/R ?/S1
+Seikatsu01\E-SA\000150\__000536	Vâng/I ,/S2 khoa_chỉnh_hình/N chỉ/R có/V chuyên_môn/N đối_với/N những/L rối_loạn/N về/V xương/N hay/C cơ/N ,/S2 vậy/N nên/C dù/N bạn/N bị/V đau/V trong/E người/N nhưng/C chỉ/R trường_hợp/N chấn_thương/V tác_động/N từ/E bên_ngoài/N mới/A là/V đối_tượng/N khám/V của/E khoa/N ./S1
+Seikatsu01\E-SA\000160\__000537	Khi/N chúng_ta/P tự_mình/N không_thể/R xác_định/V được/V bệnh_nội/V hay/N vết_thương/N ngoài/N ,/S2 chúng_ta/N nên/C làm_gì/X ?/S1
+Seikatsu01\E-SA\000170\__000538	Bạn/N không/R cần/V phải/V lo/V vì/E bác_sĩ/N sẽ/R xét_nghiệm/V tình_trạng/N của/E bệnh_nhân/N ./S1 Nếu/C bạn/N bị/V đau/V trong/E người/N ,/S2 tôi/N khuyên/V bạn/N nên/V đến/V khoa_chỉnh_hình/N ./S1
+Seikatsu01\E-SA\000180\__000539	Tôi/P hiểu/V rồi/R ./S1 Khi/N chúng_ta/N bị/V đau/V trong/E người/N ,/S2 chúng_ta/N nên/C đến/V khoa/N phẫu_thuật/V chỉnh_hình/N để/E được/V hướng_dẫn/V từ/E các/L bác_sĩ/N ./S1
+Seikatsu01\E-SA\000190\__000540	Và/C khi/N chúng_ta/N bị_ngã/N ,/S2 chúng_ta/N nên/C tự/N quyết_định/V xem/V chúng_ta/N nên/C đến/V khoa_chỉnh_hình/N hay/C ngoại_khoa/N thông_thường/A ,/S2 phải/A không/R ?/S1
+Seikatsu01\E-SA\000200\__000541	Vâng/N ./S1 Về/E cơ_bản/N tôi/N nghĩ/V bạn/N nên/C đến/V khoa_phẫu_thuật_chỉnh_hình/N ./S1
+Seikatsu01\E-SA\000210\__000542	Sau_đó/N ,/S2 tới/V bệnh_viện/N bạn/N hãy/R hỏi/V thêm/R chi/N hơn/A ./S1 Nhân_viên/N bệnh_viện/N sẽ/R hướng_dẫn/V cho/V bạn/N đến/V khoa/N thích_hợp/N ./S1
+Seikatsu01\E-SE\000010\__000543	Bạn/N có/V biết/V các/L thuật_ngữ/N hay/C dùng/V để/E diễn_tả/V về/V ngoại_khoa_nhi/N không/N ?/S1
+Seikatsu01\E-SE\000020\__000544	Không/R ,/S2 tôi/N không/R biết/V ./S1 Các/L thuật_ngữ/N đó/P là/V gì/P ?/S1
+Seikatsu01\E-SE\000030\__000545	Đó/P là/V “/N trẻ_em/N không/R phải/A là/V mô_hình/N thu_nhỏ/N của/E người_lớn/N ”./N
+Seikatsu01\E-SE\000040\__000546	Thuật_ngữ/N này/P thể_hiện/V sự_thật/N là/V vì/E cơ_thể/N trẻ_em/N chưa/R phát_triển/V hoàn_thiện/V như/C người_lớn/N ,/S2 nên/C không_thể/N áp_dụng/V cùng/A một/M phương_thức/N phẫu_thuật/V trên/E cả_hai/N ./S1
+Seikatsu01\E-SE\000050\__000547	Đúng_vậy/N ,/S2 các/L chức_năng/N thể_chất/N của/E trẻ_em/N chưa/R trưởng_thành/V hết/V ./S1
+Seikatsu01\E-SE\000060\__000548	Vâng/I ,/S2 hơn_hết/N ,/S2 các/L chức_năng/N thể_chất/N của/E trẻ_em/N thay_đổi/V rất/R nhanh_chóng/A khi/N dậy_thì/N ./S1
+Seikatsu01\E-SE\000070\__000549	Với/E trẻ_em/N ,/S2 phải/V có/V kiến_thức/N đầy_đủ/A về/E đặc_trưng/N chức_năng/N thể_chất/N của/E trẻ/N ,/S2 và/N phải/V điều_trị/V trước/N và/C sau/N phẫu_thuật/V ./S1
+Seikatsu01\E-SE\000080\__000550	Vậy/P trong/E trường_hợp/N của/E trẻ_em/N ,/S2 cách_sử_dụng/N thuốc/N hay/C cách/N truyền_dịch/N khác/A với/E người_lớn/N à/T ?/S1
+Seikatsu01\E-SE\000090\__000551	Vâng/I ,/S2 rất/R nhiều/A khía_cạnh/N như/C là/V cách_sử_dụng/N thuốc/N cũng/R khác/A so_với/V người_lớn/N ./S1
+Seikatsu01\E-SE\000100\__000552	Các/L việc/N hiển_nhiên/V với/E người_lớn/N không/R áp_dụng/V với/E trẻ_em/N trong/E tất_cả/N các/L khía_cạnh/N ./S1
+Seikatsu01\E-SE\000110\__000553	Bới_vì/V các/L phương_pháp/N điều_trị/N khác/A với/E người_lớn/N ,/S2 khoa_phẫu_thuật_nhi/X là/V một/M khoa/N hoàn_toàn/A độc_lập/A ./S1
+Seikatsu01\E-SE\000120\__000554	Không_chỉ/N thay_đổi/V về/E thể_chất/N của/E bệnh_nhân/N ,/S2 các/L thay_đổi/N phát_triển/V về/E tâm_lý/N của/E bệnh_nhân/N cũng/R không_được/V bỏ_quên/A ./S1
+Seikatsu01\E-SE\000130\__000555	Những/L việc/N như/C nhập_viện/N và/C phẫu_thuật/V rất/R đáng_sợ/A đối_với/E trẻ_em/N ./S1
+Seikatsu01\E-SE\000140\__000556	Ví_dụ/N ,/S2 với/E trẻ_em/N trong/E tuổi_đi_học/N ,/S2 bệnh_viện/N có_thể/A được/V sử_dụng/V cho/R mục_đích/N giáo_dục/N ./S1
+Seikatsu01\E-SE\000150\__000557	Cũng/R có_thể/A nói_rằng/V một_trong_những/N đặc_tính/N của/E phẫu_thuật/N nhi_khoa/N là/V phải/V hỗ_trợ/V tinh_thần/N cho/V trẻ_em/N ./S1
+Seikatsu01\E-SE\000160\__000558	Xin_lỗi/V ,/S2 tôi/P muốn/V biết/V các/L bệnh/N được/V điều_trị/V tại/E ngoại_khoa/N nhi_khoa/N ./S1
+Seikatsu01\E-SE\000170\__000559	Các/L bệnh/N được/V điều_trị/V tại/E ngoại_khoa_nhi/N nhỉ/N ,/S2 có/V rất/R nhiều/A bệnh/N được/V điều_trị/V tại/E khoa/N này/P ./S1
+Seikatsu01\E-SE\000180\__000560	Nói/V rõ/A hơn/R ,/S2 đó/P là/V ngoại_khoa/N chung/V dành/V cho/R bệnh_nhi/A ./S1
+Seikatsu01\E-SE\000190\__000561	Phạm_vi/N tiếp_nhận/N tại/E ngoại_khoa/N nói_chung/N có/V chữa_trị/N nội_tạng/A như/C cơ_quan/N hô_hấp/N ,/S2 cơ_quan/N tiêu_hóa/V ,/S2 thận/N hay/N lá_lách/V ,/S2 và/N tổ_chức/N mô_mềm/A ở/E da/N vân_vân/N
+Seikatsu01\E-SE\000200\__000562	Tôi/P hiểu/V rồi/R ./S1 Nhưng/C không/R phải/A thận/N thuộc_về/N khoa_tiết_niệu/N à/T ?/S1
+Seikatsu01\E-SE\000210\__000563	Các/L bệnh/N về/V thận/N thường/R được/V chữa_trị/V tại/E khoa_tiết_niệu/N ,/S2 nhưng/C ngoại_khoa_nhi/X cũng/R có_thể/A chữa_trị/V được/R ./S1
+Seikatsu01\E-SI\000010\__000564	Vậy/P ,/S2 bạn/N muốn/V trao_đổi/V về/V cách/N chữa_trị/V các/L vết_thương/N ./S1 Triệu_chứng/N của/E bạn/N là/V gì/P ?/S1
+Seikatsu01\E-SI\000020\__000565	Hôm_qua/N tôi/P bị/V bỏng/N ngón_tay/N do/E nước_sôi/N ./S1
+Seikatsu01\E-SI\000030\__000566	Bạn/N bị/V bỏng/N ngón_tay/N với/E nước_sôi/N ./S1 Bạn/N bị/V bỏng/N diện_rộng/V nhỉ/N ?/S1
+Seikatsu01\E-SI\000040\__000567	Vâng/N ./S1 Chúng/N trông/V tệ/A lắm/R ./S1 Tôi/Np quấn/V chúng/N bằng/E băng_cá_nhân/N để/E sơ_cứu/V tạm_thời/A ./S1
+Seikatsu01\E-SI\000050\__000568	Với/E vết_bỏng/N nặng/A như_vậy/N ,/S2 tại_sao/X bạn/N không/R đến/V gặp/V bác_sĩ/N thay_vì/N tự/N chữa_trị/V như_vậy/X ?/S1
+Seikatsu01\E-SI\000060\__000569	Vậy/P ,/S2 bạn/N nghĩ/V tôi/P nên/C đến/V gặp/V bác_sĩ/N chỉ_vì/N bị/V bỏng/N ngón_tay/N à/N ./S1
+Seikatsu01\E-SI\000070\__000570	Tự/P chữa_trị/V vết_bỏng/N theo/V cách_riêng/N của/E bạn/N có_thể/A để_lại/V sẹo/N đấy/N ./S1
+Seikatsu01\E-SI\000080\__000571	Nhưng/C tôi/P cần/V đến/V khoa/N nào/P để/V chữa/V bỏng/N ?/S1
+Seikatsu01\E-SI\000090\__000572	Nếu/C bị/V bỏng/N bạn/N nên/C đến/V khám/V tại/E khoa_da_liễu/N hoặc/N ngoại_khoa/V chỉnh_hình/N ./S1
+Seikatsu01\E-SI\000100\__000573	Tôi/P biết/V khoa_da_liễu/N ./S1 Nhưng/N còn/V ngoại_khoa/N chỉnh_hình/N là/V khoa/N như_thế_nào/X ?/S1
+Seikatsu01\E-SI\000110\__000574	Ngoại_khoa/N chỉnh_hình/N chẳng/R phải/V là/V thực_hiện/V phẫu_thuật_chỉnh_hình/N chẳng_hạn/N để/E làm_đẹp/V khuân_mặt/N đó/P sao/P ?/S1
+Seikatsu01\E-SI\000120\__000575	Việc/N phẫu_thuật/V chỉnh_hình_thẩm_mỹ/X là/V khoa/N có/V tên/N là/C phẫu_thuật/N thẩm_mĩ/V là/V một/M chuyên_môn/N mở_rộng/N của/E ngoại_khoa/N chỉnh_hình/N ./S1
+Seikatsu01\E-SI\000130\__000576	Phẫu_thuật_thẩm_mỹ/X có/V khác/A với/E chỉnh_hình/N không/R ?/S1
+Seikatsu01\E-SI\000140\__000577	Phẫu_thuật_thẩm_mỹ/X và/N chỉnh_hình/A là/V hoàn_toàn/A khác_nhau/A ./S1
+Seikatsu01\E-SI\000150\__000578	Bệnh/N về/V xương/N và/C cơ/N được/V chữa_trị/V tại/E ngoại_khoa/N chỉnh_hình/N ./S1
+Seikatsu01\E-SI\000160\__000579	Ví_dụ/V bệnh/N về/V xương/N và/C cơ/N là/V bệnh/N gì/P ?/S1
+Seikatsu01\E-SI\000170\__000580	Như/C là/V đau_vai/N ,/S2 bể_xương/N ,/S2 và/N trẹo_xương/N ./S1
+Seikatsu01\E-SI\000180\__000581	Vậy/P ,/S2 phẫu_thuật_thẫm_mỹ/X chữa/V bệnh/N gì/P ?/S1
+Seikatsu01\E-SI\000190\__000582	Phẫu_thuật_thẩm_mỹ/X thực_hiện/V điều_trị/N vết_bỏng/N ./S1 Tại/E khoa/N phẫu_thuật_thẩm_mỹ/X cũng/R sẽ/R tái_tạo/V lại/R khuân_mặt/N bị/V biến_dạng/V của/E những/L người/N bị_thương/V nặng/A do/E tai_nạn/N chẳng_hạn/N ./S1
+Seikatsu01\E-SI\000200\__000583	Ồ/N ,/S2 tại/E khoa/N này/P có_thể/A tái_tạo/V lại/R bộ_mặt/N bị_thương/V nặng/A do/E tai_nạn/N à/N ?/S1
+Seikatsu01\E-SI\000210\__000584	Còn/C tùy_vào/V mức_độ/N nặng/A ra_sao/N ,/S2 nhưng/C phẫu_thuật_thẩm_mỹ/X sẽ/R điều_trị/V nếu/C việc/N điều_trị/V liên_quan/V đến/E ngoại_hình/N ./S1
+Seikatsu01\E-SO\000010\__000585	Xin_chào/N ,/S2 tôi/P muốn/V hỏi/V một_số/N thông_tin/N ,/S2 có/V được/R không/R ạ/N ./S1
+Seikatsu01\E-SO\000020\__000586	Vâng/I ,/S2 tôi/P có_thể/A làm_gì/N cho/V bạn/N ?/S1
+Seikatsu01\E-SO\000030\__000587	Em_trai_tôi/N bị/V tai_nạn/N vào/V tháng_trước/N ./S1
+Seikatsu01\E-SO\000040\__000588	Vết_thương/N của/E em_tôi/N đang/R lành/V ,/S2 nhưng/C cơ_bắp_chân/N bị_yếu/N do/N nhập_viện/V quá/R lâu/A ./S1
+Seikatsu01\E-SO\000050\__000589	Tôi/P xin/V chia_buồn/V ./S1 Anh_ấy/N có_thể/A đi_lại/V được/R chưa/R ?/S1
+Seikatsu01\E-SO\000060\__000590	Không/R ,/S2 nó/P vẫn/R không_thể/R tự/V đi_lại/V được/R ./S1
+Seikatsu01\E-SO\000070\__000591	Tôi/P nghe_nói/V nó/P cần_được/V điều_trị/N phục_hồi/V chức_năng/N để/V có_thể/V tự/N đi_lại/V được/R ./S1
+Seikatsu01\E-SO\000080\__000592	Bệnh_viện/N nơi/N em_tôi/N đang/R điều_trị/V không/R có/V dịch_vụ/N phục_hồi/V chức_năng/N ,/S2 nên/C tôi/P đến/V đây/P để/E tìm/V trước/N về/N dịch_vụ/N này/P ./S1
+Seikatsu01\E-SO\000090\__000593	Tôi/P không/R biết/V dịch_vụ/N phục_hồi/V chức_năng/N có/V ở/V đâu/P ./S1
+Seikatsu01\E-SO\000100\__000594	Tôi/P có_thể/A đến/V đâu/N để/E hỏi/V về/E việc/N phục_hồi/V chức_năng/N ?/S1
+Seikatsu01\E-SO\000110\__000595	Tôi/P hiểu/V rồi/R ,/S2 tôi/P sẽ/R thử/V kiểm_tra/V xem/R có/V khoa_phục_hồi_chức_năng/N ở/E các/L bệnh_viện/N liên_kết/N của/E chúng_tôi/P không/R ./S1
+Seikatsu01\E-SO\000120\__000596	Văn_phòng/N thành_phố/N cũng/R có/V một/M bộ_phận/N nơi/N bạn/N có_thể/A hỏi/V thông_tin/N ./S1
+Seikatsu01\E-SO\000130\__000597	Có/V đúng/A thế/N không/R ?/S1 Xin_hãy/V kiểm_tra/V giúp/V xem/V có/V khoa_phục_hồi/N chức_năng/N không/R ./S1
+Seikatsu01\E-SO\000140\__000598	Còn_nữa/N ,/S2 khi/N đến/V văn_phòng/N thành_phố/N để/E hỏi/V ,/S2 có/V cần/V phải/V đúng/A em_trai_tôi/N đi/V không/R ?/S1
+Seikatsu01\E-SO\000150\__000599	Tôi/P nghĩ/V họ/P sẽ/R chấp_nhận/V thành_viên/N gia_đình/N đi/V thay_mặt/V ./S1
+Seikatsu01\E-SO\000160\__000600	Xin_lỗi/V ,/S2 tôi/P có/V nghe_rằng/N tôi/P có_thể/A hỏi/V thông_tin/N về/E dịch_vụ/N phục_hồi/V chức_năng/N ở/E văn_phòng/N thành_phố/N này/P ./S1 Có/V đúng/A vậy/P không/R ?/S1
+Seikatsu01\E-SO\000180\__000601	Phòng/N nào/N ở/E văn_phòng/N thành_phố/N tôi/P nên/V đến/V ?/S1
+Seikatsu01\E-SO\000190\__000602	Bạn/N không/R phải/A đến/V văn_phòng/N thành_phố/N mà/C là/V một/M trung_tâm/N liên_kết/V ./S1
+Seikatsu01\E-SO\000200\__000603	Tôi/P sẽ/R cho/V bạn/N số_điện_thoại/N của/E trung_tâm/N này/P ./S1 Xin_hãy/V gọi/V và/N đặt/V lịch_hẹn/N ./S1
+Seikatsu01\E-SO\000210\__000604	Tôi/P đang/R nói_chuyện/V với/E người/N cần/V sử_dụng/V dịch_vụ/N phục_hồi/V chức_năng/N phải/A không/R ?/S1
+Seikatsu01\E-SU\000010\__000605	Tôi/P thấy/V có/V quảng_cáo/N về/V phẫu_thuật_thẩm_mỹ/N có_thể/R hút_mỡ/V trong/E chuyên_mục/N quảng_cáo/N của/E một/M tờ/N tạp_chí/N ./S1
+Seikatsu01\E-SU\000020\__000606	Cơ_thể/N thay_đổi/V rõ_rệt/N trước/N và/C sau/N phẫu_thuật/V theo/V như/C trong/E quảng_cáo/N ,/S2 nên/C tôi/P cũng/R muốn/V làm/V ./S1
+Seikatsu01\E-SU\000030\__000607	Bạn/N muốn/V phẫu_thuật_thẩm_mỹ/X hút_mỡ/N à/T ?/S1
+Seikatsu01\E-SU\000040\__000608	Không/R ./S1 Trước_khi/N thực_sự/A gặp/V một/M bác_sĩ/N ,/S2 tôi/N không/R tin/V chắc/A vào/V kết_quả/N như/A trên/N quảng_cáo/N có/V thật/R không/A ./S1
+Seikatsu01\E-SU\000050\__000609	Vì/C tôi/P là/V người/N nước_ngoài/N và/C tiếng_Nhật/N của/E tôi/N không/R giỏi/A lắm/R ,/S2 nên/C tôi/P cũng/R rất/R ngại/V đi/V đến/E bệnh_viện/N ./S1
+Seikatsu01\E-SU\000060\__000610	Thực_ra/N là/V ,/S2 có/V rất/R nhiều/A thứ/N cần/V phải/V cẩn_thận/A khi/N thực_hiện/V phẫu_thuật_thẩm_mỹ/X ./S1
+Seikatsu01\E-SU\000070\__000611	Trước_tiên/N ,/S2 một/M mẩu/N quảng_cáo/N trên/A tạp_chí/N hay/C trên/E xe_lửa/N có_thể/N là/V có/V phần_phóng_đại/N ./S1
+Seikatsu01\E-SU\000080\__000612	Ý/N bạn/N là/V nội_dung/N trên/N quảng_cáo/N là/V nói_dối/N à/T ?/S1
+Seikatsu01\E-SU\000090\__000613	Tôi/P không/R nói/V hoàn_toàn/A là/V nói_dối/N ,/S2 nhưng/C bạn/N nên/N nghi_ngờ/V về/E các/L phòng_khám/N có/V những/L quảng_cáo/N quá_lố/A như_vậy/X ./S1
+Seikatsu01\E-SU\000100\__000614	Trong/E một_vài/N trường_hợp/N nghiêm_trọng/A ,/S2 phẫu_thuật_thẩm_mỹ/X được/V thực_hiện/V bởi/E một/M bác_sĩ/N nghiệp_dư/A hoặc/N không/R có/V kinh_nghiệm/N để/E nhằm/V mục_đích/N bù_đắp/V chi_phí_quảng_cáo/X ./S1
+Seikatsu01\E-SU\000110\__000615	Thật/R đáng_sợ/A để/E cho/V một/M bác_sĩ/N không/R có/V kinh_nghiệm/N thực_hiện/V các/L thủ_thuật/N thẩm_mỹ/N ./S1
+Seikatsu01\E-SU\000120\__000616	Vì/E phẫu_thuật_thẩm_mỹ/X liên_quan/V tới/E việc/N thay_đổi/V cơ_thể/N bạn/N ,/S2 xin_hãy/V đến/E một/M bệnh_viện/N đáng/V tin_cậy/V ./S1
+Seikatsu01\E-SU\000130\__000617	Tôi/P nên/V đến/V đâu/N để/E làm/V phẫu_thuật_thẩm_mỹ/X ?/S1
+Seikatsu01\E-SU\000140\__000618	Tôi/P nghĩ/V sẽ/R an_toàn/V khi/N đi/V phẫu_thuật_thẩm_mỹ/X tại/E một/M bệnh_viện/N có/V bác_sĩ/N phẫu_thuật_thẩm_mỹ/N làm_đẹp/N được/V học/V về/V phẫu_thuật_thẩm_mỹ/X ,/S2 chỉnh_hình/N ./S1
+Seikatsu01\E-SU\000150\__000619	Phẫu_thuật_thẩm_mỹ/X là/V gì/P ?/S1
+Seikatsu01\E-SU\000160\__000620	Phẫu_thuật_thẩm_mỹ/X và/N phẫu_thuật/V thẩm_mỹ/N làm_đẹp/N khác_nhau/N ra/V sao/P ?/S1
+Seikatsu01\E-SU\000170\__000621	Phẫu_thuật_thẩm_mỹ/X làm_đẹp/N là/V một/M phần/N của/E Phẫu_thuật_thẩm_mỹ/N ./S1
+Seikatsu01\E-SU\000180\__000622	Cả/P phẫu_thuật_thẩm_mỹ/X làm_đẹp/N và/C phẫu_thuật/V thẩm_mỹ/N đều/R là/V phẫu_thuật/N để/E chỉnh_sửa/V bề_ngoài/N và/C hình_dáng/N của/E con_người/N ./S1
+Seikatsu01\E-SU\000190\__000623	Tuy_nhiên/C ,/S2 mục_đích/N của/E phẫu_thuật_thẩm_mỹ/N làm_đẹp/N và/C phẫu_thuật/V thẩm_mỹ/N khác_nhau/N ./S1
+Seikatsu01\E-SU\000200\__000624	Mục_tiêu/N của/E phẫu_thuật_thẩm_mỹ/N là/V để/E phục_hồi/V như/C ban_đầu/N một/M bộ_phận/N của/E cơ_thể/N đã/R bị/V mất/V hay/N một/M bộ_phận/N chưa/R hoàn_chỉnh/V do/E bị_thương/N hay/V bỏng/N ./S1
+Seikatsu01\E-SU\000210\__000625	Các/L triệu_chứng/N như/C là/V nhiều/A ngón_tay/N hay/A tai/N bị/V mất/V bẩm_sinh/N ,/S2 có_thể/A được/V chữa/V khỏi/R bởi/E phẫu_thuật_thẩm_mỹ/X ./S1
+Seikatsu01\E-TA\000010\__000626	Tôi/P bị/V bệnh_trĩ/V và/N tôi/P không/R biết/V tôi/P nên/C nói/V với/E ai/N ./S1
+Seikatsu01\E-TA\000020\__000627	Tôi/P có/V nên/V khám/V bệnh_trĩ/V với/E một/M bác_sĩ/N khoa_nội/N không/R ?/S1
+Seikatsu01\E-TA\000030\__000628	Nếu/C bạn/N gặp/V vấn_đề/N về/V phần/N lưng_dưới/N ,/S2 bạn/N nên/C đến/V khoa/N đại_tràng/N ,/S2 hậu_môn/N ./S1
+Seikatsu01\E-TA\000040\__000629	Bạn/N có_thể/A nói/V thêm/V cho/E tôi/P biết/V về/E khoa/N đại_tràng/N ,/S2 hậu_môn/N không/R ?/S1
+Seikatsu01\E-TA\000050\__000630	Khoa/Np đại_tràng/N ,/S2 hậu_môn/N là/V chuyên_khoa/N chữa/V các/L bệnh/N về/V phần/N lưng_dưới/N hay/V ruột_già/N ./S1
+Seikatsu01\E-TA\000060\__000631	Tên_gọi/N của/E khoa/N này/P nhiều/A trường_hợp/N chỉ/R đơn_thuần/N gọi_là/N khoa/N hậu_môn/N hay/N cũng/R có/V trường_hợp/N gọi_là/N khoa/N dạ_dày/N ,/S2 hậu_môn/N ./S1
+Seikatsu01\E-TA\000070\__000632	Khoa/Np đại_tràng/N hậu_môn/N có/V chữa/V các/L bệnh/N liên_quan/V tới/V hậu_môn/N không/R ?/S1
+Seikatsu01\E-TA\000080\__000633	Khoa/Np đại_tràng/V chữa/V nhiều/A bệnh/N liên_quan/V đến/V từ/E hậu_môn/N đến/E ruột_già/N bao_gồm/V đại_diện/N là/V bệnh_trĩ/N ,/S2 bệnh_chàm_mông/N và/C polyp/N trong/E ruột/N ,/S2 ung_thư/N đại_tràng/N ,/S2 táo_bón/N và/C tiêu_chảy/N ,/S2 suy_nhược/N cơ_vòng/N hậu_môn/A ./S1
+Seikatsu01\E-TA\000090\__000634	Khi/N tôi/P bị/V bệnh_trĩ/V ,/S2 nếu/C không/R có/V phòng_khám/N hậu_môn/N gần/A nhà/N ,/S2 tôi/P đi/V khám/V ở/E khoa_tiêu_hóa/N hay/N khoa_nội/N có/V được/R không/R ?/S1
+Seikatsu01\E-TA\000100\__000635	Bạn/N có_thể/A đến/V khám/V bệnh_trĩ/N ở/V khoa_tiêu_hóa/N hay/N khoa_nội/V ,/S2 nhưng/C tôi/P khuyên/V là/V không/R nên/V ./S1
+Seikatsu01\E-TA\000110\__000636	Cũng/R có/V trường_hợp/N mắc_bệnh/V mà/C nếu/C không/R có/V bác_sĩ/N chuyên_khoa/N giàu/A kinh_nghiệm/N thì/N khó/A có_thể/A chữa/V được/R ./S1
+Seikatsu01\E-TA\000120\__000637	Để/E tránh/V di_chứng/N sau_này/N hay/C chẩn_đoán/V sai/N ,/S2 bạn/N nên/C cố_gắng/V đến/V khám/V ở/E bệnh_viên/N có/V các/L bác_sĩ/N chuyên_khoa/N ./S1
+Seikatsu01\E-TA\000130\__000638	Tôi/P bị/V đi_tiểu/V ra/V máu/N ,/S2 nhưng/C tôi/P không/R thấy/V khó_chịu/V gì/N nên/C tôi/P không/R làm_gì/N cả/T ./S1
+Seikatsu01\E-TA\000140\__000639	Với/E trường_hợp/N triệu_chứng/N bệnh/N của/E tôi/P rất/R nhẹ/A ,/S2 tôi/P có/V nên/V đến/R phong_khám/V khoa_đại_tràng/N không/R ?/S1
+Seikatsu01\E-TA\000150\__000640	Triệu_chứng/N nhẹ/A có/V nghĩa_là/N có_thể/R bạn/N sẽ/R được/V chữa/V khỏi/V ngay/T từ/E giai_đoạn/N đầu/N ./S1
+Seikatsu01\E-TA\000160\__000641	Việc/N chữa_trị/V ở/E giai_đoạn/N nghiêm_trọng/A có_thể/N sẽ/R rất/R khó_khăn/A hoặc/N để_lại/N di_chứng/N ,/S2 vậy/N bạn/N nên/N ngay_khi/V thấy/V bất_thường/N bạn/N hãy/R đi/V khám/V ngay/R đừng/R do_dự/V ./S1
+Seikatsu01\E-TA\000170\__000642	Trước_mắt/N nên/C bố_trí/V thời_gian/N để/E đi/V gặp/V bác_sĩ/N ./S1
+Seikatsu01\E-TA\000180\__000643	Nếu/C bạn/N bị/V máu/N trong/E nước_tiểu/N ,/S2 có/V nguy_cơ/N bạn/N bị/V ung_thư/N đại_tràng/N ,/S2 nên/C bạn/N không/R nên/V xem_nhẹ/N triệu_chứng/N này/P ./S1
+Seikatsu01\E-TA\000200\__000644	Khoa_đại_tràng/N ,/S2 hậu_môn/V phần_lớn/N cung_cấp/V điều_trị/V bằng/E thuốc/N ,/S2 điều_trị/N phẫu_thuật/V và/N hướng_dẫn/V về/V cách/V sinh_hoạt/N khoa_học/N ./S1
+Seikatsu01\E-TA\000210\__000645	Trong/E điều_trị/N bằng/E thuốc/N ,/S2 chúng_ta/N dùng/V thuốc_thoa/N ,/S2 thuốc/N nhét/V hậu_môn/N ,/S2 và/N thuốc_viên/N ./S1
+Seikatsu01\E-TE\000010\__000646	Gần_đây/N tôi/P rất/R khó_chịu/A vì/C cứ/R bị/V chảy_nước_mũi/N ./S1
+Seikatsu01\E-TE\000020\__000647	Bạn/N bị/V cảm/V à/N ?/S1
+Seikatsu01\E-TE\000030\__000648	Lần_này/N không/R giống/A cảm_lạnh/N thông_thường/A tôi/P hay/V bị/V ./S1
+Seikatsu01\E-TE\000040\__000649	Bạn/N có/V triệu_chứng/N gì/N khác/A với/E mọi/L lần/N bị_cảm/V ?/S1
+Seikatsu01\E-TE\000050\__000650	Lần_này/N tôi/P chỉ/R bị/V chảy/V nước_mũi/N ,/S2 mà/C không/R bị/V sốt/V hay/V viêm_họng/N ./S1
+Seikatsu01\E-TE\000060\__000651	Bạn/N có/V các/L triệu_chứng/N khác/A hay/C thấy/V người/N yếu/A đi/V không/R ?/S1
+Seikatsu01\E-TE\000070\__000652	Tôi/P hầu_như/R không_có/V triệu_chứng/N gì/N khác/A ngoài/N chảy/V nước_mũi/N ,/S2 tôi/N thấy/V khá/R khỏe/A ,/S2 nên/C tôi/P cảm_thấy/V hơi/R lạ/A ./S1
+Seikatsu01\E-TE\000080\__000653	Bạn/N có_thể/A bị/V dị_ứng/N viêm_mũi/V hay/N dị_ứng/N phấn_hoa/V chăng/N ./S1
+Seikatsu01\E-TE\000090\__000654	Nếu/C bị/V dị_ứng/N ,/S2 tôi/P nên/V đến/V bệnh_viện/N nào/P ?/S1
+Seikatsu01\E-TE\000100\__000655	Nếu/C bạn/N bị/V dị_ứng/N viêm_mũi/V ,/S2 bạn/N nên/C đến/V bệnh_viện/N tai_mũi_họng/N ./S1
+Seikatsu01\E-TE\000110\__000656	Ở/E khoa/N tai_mũi_họng/N sẽ/R khám/V kiểm_tra/V phần_nào/N của/E cơ_thể/N ?/S1
+Seikatsu01\E-TE\000120\__000657	Tập_trung/V vào/V khám/N ,/S2 kiểm_tra/V các/L bệnh/N liên_quan/V tới/E tai/N ,/S2 mũi/N ,/S2 họng/N ,/S2 vì_thế/C gọi_là/N khoa/N tai_mũi_họng/N ./S1
+Seikatsu01\E-TE\000130\__000658	Nếu/C bị/V dị_ứng/N ,/S2 chẳng_phải/N nên/C đến/V khoa/N chuyên/A về/E dị_ứng/N hay/C sao/P ?/S1
+Seikatsu01\E-TE\000140\__000659	Vâng/N có_lẽ/N nên/C như_thế/N ,/S2 nhưng/C gần_đây/N không/R có/V bệnh_viện/N chuyên/A về/E dị_ứng/N nào/N cả/T ./S1
+Seikatsu01\E-TE\000150\__000660	Tôi/P nghĩ/V bệnh_viện/N tai_mũi_họng/N cũng/R chữa_trị/V bệnh/N dị_ứng/N ./S1
+Seikatsu01\E-TE\000160\__000661	Alo/Np ,/S2 bạn/N tôi/P giới_thiệu/V tôi/P liên_hệ/V với/E bạn/N ./S1
+Seikatsu01\E-TE\000170\__000662	Vâng/I ,/S2 tôi/P là/V Yamada/Np thuộc/V bệnh_viện/N tai_mũi_họng/Np ./S1
+Seikatsu01\E-TE\000180\__000663	Bạn/N có_thể/A cho/V tôi/P biết/V bạn/N muốn/V hỏi/V gì/P không/R ?/S1
+Seikatsu01\E-TE\000190\__000664	Tôi/P hình_như/R bị/V cảm_lạnh/V rồi/R ./S1 Tôi/Np có_thể/R gặp/V bác_sĩ/N trong/E bệnh_viện/N tai_mũi_họng/N được/R không/R ?/S1
+Seikatsu01\E-TE\000200\__000665	Vâng/N được/V ạ/N ./S1 Bệnh_viện/N tai_mũi_họng/N có/V chữa/V cả/P bệnh_cảm/N ./S1
+Seikatsu01\E-TE\000210\__000666	Tôi/P được/V giới_thiệu/V đây/P là/V bệnh_viện/N gần/A văn_phòng/N tôi/P nhất/R ./S1 Bạn/N có_thể/A khám/V cho/V tôi/N không/R ?/S1
+Seikatsu01\E-TI\000010\__000667	Tôi/P đang/R tìm/V một/M phòng_khám/N và/C có/V vài/L câu_hỏi/N muốn/V hỏi/V bạn/N ./S1
+Seikatsu01\E-TI\000030\__000668	Trong/E khoa/N phụ_sản/N ,/S2 bác_sĩ/N có_thể/R khám/V cơ_quan_sinh_dục/X nữ/N không/R ?/S1
+Seikatsu01\E-TI\000040\__000669	Có/V ,/S2 trong/E khoa/N phụ_sản/N người_ta/N có/V khám/V cơ_quan_sinh_dục/X nữ/N ./S1
+Seikatsu01\E-TI\000050\__000670	Nếu/C nói/V về/E bộ_phận/N cơ_thể/N ,/S2 chủ_yếu/A là/V bệnh/N về/V tử_cung/N ,/S2 buồng_trứng/N ,/S2 ống_dẫn_trứng/N ,/S2 âm_đạo/N và/C âm_hộ/N ./S1
+Seikatsu01\E-TI\000060\__000671	Có_nghĩa/N là/V bạn/N có_thể/A khám/V mọi/N thứ/N ở_đây/N ./S1
+Seikatsu01\E-TI\000070\__000672	Vâng/N ./S1 Tuy_nhiên/N người_ta/N chia/V ra/R làm/V khoa_sản/N và/C khám/V phụ_khoa/N ./S1
+Seikatsu01\E-TI\000080\__000673	Về/E các/L triệu_chứng/N của/E tôi/P ,/S2 tôi/N không/R biết/V nên/C đến/V khoa/N nào/P khám/V ./S1
+Seikatsu01\E-TI\000090\__000674	Trong/E khoa_sản/N ,/S2 bác_sĩ/N lo/V cho/E việc/N sinh_đẻ/V ./S1
+Seikatsu01\E-TI\000100\__000675	Nghĩa_là/N việc/N mang_thai/V ,/S2 sinh/V con/N và/C hậu_sinh/N được/V khám/V và/N điều_trị/V tại/E đây/P ./S1
+Seikatsu01\E-TI\000110\__000676	Trong/E khám/N phụ_khoa/N ,/S2 họ/P có/V chữa_trị/N những/L bệnh/N hoàn_toàn/N khác/A à/T ?/S1
+Seikatsu01\E-TI\000120\__000677	Phụ_khoa/N chữa_trị/V các/L bệnh/N u_bướu/N liên_quan/V đến/E bộ_phận/N sinh_dục/N nữ/N như/C u_xơ_tử_cung/X ./S1
+Seikatsu01\E-TI\000130\__000678	Phụ_khoa/N chữa_trị/V các/L bệnh/N nội_tiết/N như/C kinh_nguyệt/N không/R đều/A ,/S2 các/L bệnh/N lây/N qua/V đường_tình_dục/N và/C rối_loạn/V thời_kỳ/N mãn_kinh/N ./S1
+Seikatsu01\E-TI\000140\__000679	Vô_sinh/N có/V nằm/V trong/E khoa_sản/N không/R ?/S1
+Seikatsu01\E-TI\000150\__000680	Vô_sinh/N sẽ/R khám/V về/V phụ_khoa/N ./S1
+Seikatsu01\E-TI\000160\__000681	Trong/E khoa_sản/N ,/S2 sẽ/R khám/V hết/V toàn_bộ/N liên_quan/V tới/E việc/N sinh_nở/V nhỉ/N ?/S1
+Seikatsu01\E-TI\000170\__000682	Vâng/I ,/S2 họ/P khám/V liên_quan/V đến/E việc/N mang_thai/V ,/S2 hay/C sinh_nở/N và/C hậu_sản/N ./S1
+Seikatsu01\E-TI\000180\__000683	Họ/P khám/V việc/N mang_thai/V như_thế_nào/X ?/S1
+Seikatsu01\E-TI\000190\__000684	Đầu_tiên/N ,/S2 họ/P kiểm_tra/V xem/V bạn/N có/V mang_thai/N hay/C không/R ./S1
+Seikatsu01\E-TI\000200\__000685	Trong/E thời_kì/N mang_thai/N ,/S2 họ/P sẽ/R kiểm_tra/V thường_xuyên/A định_kỳ/N để/E theo_dõi/V tình_trạng/N cơ_thể/N ./S1
+Seikatsu01\E-TI\000210\__000686	Tôi/P phải/V kiểm_tra/V thường_xuyên/A đến/T mức/N nào/P từ/E lúc/N mang_thai/V đến/E khi/N sinh/V ?/S1
+Seikatsu01\E-TO\000010\__000687	Móng_tay/N tôi/P bị/V nứt/V ,/S2 bác_sĩ/N da_liễu/N sẽ/R khám/V cho/E tôi/P chứ/T ?/S1
+Seikatsu01\E-TO\000020\__000688	Vâng/N ./S1 Nếu/N về/V móng_tay/V ,/S2 bạn/N tới/V khoa_da_liễu/N là/V có_thể/N khám/V được/R ./S1
+Seikatsu01\E-TO\000030\__000689	Nhân_tiện/N ,/S2 bạn/N có_thể/A nói/V cho/V tôi/P biết/V về/E phạm_vi/N khám/V ,/S2 và/N chữa_trị/N của/E khoa_da_liễu/N không/R ?/S1
+Seikatsu01\E-TO\000040\__000690	Cơ_bản/N là/V ,/S2 khoa_da_liễu/N chữa_trị/V toàn_bộ/N các/L bộ_phận/N có_thể/R nhìn/V thấy/V từ/E bên_ngoài/N của/E chúng_ta/P ./S1
+Seikatsu01\E-TO\000050\__000691	Khi/N bạn/N nói/V về/E bộ_phận/N có_thể/N nhìn_thấy/V từ/E bên_ngoài/N ,/S2 ya/N là/V có/V bao_gồm/N tóc/N và/C mắt/N không/R ?/S1
+Seikatsu01\E-TO\000060\__000692	Có/V ,/S2 bác_sĩ/N da_liễu/N khám/V các/L bộ_phận/N gắn_liền/V với/E da/N như/A móng_tay/A ,/S2 tóc/N ,/S2 mí_mắt/N ,/S2 hay/C môi/N ./S1
+Seikatsu01\E-TO\000070\__000693	Còn_về/N nhãn_cầu/N ,/S2 không/R khám/V được/V tại/E khoa_da_liễu/N ./S1 Xin_hãy/V đến/R phòng_khám_mắt/N ./S1
+Seikatsu01\E-TO\000080\__000694	Với/E các/L bệnh/N về/V tóc/N ,/S2 tại/E khoa_da_liễu/N có_thể/R khám/V được/R ví_dụ/V bệnh/N gì/P ?/S1
+Seikatsu01\E-TO\000090\__000695	Phạm_vi/N điều_trị/N của/E khoa_da_liễu/N chủ_yếu/A là/V bệnh_rụng_tóc/N ,/S2 viêm_da_đầu/N do/E rụng_tóc/N hay/N bị_chấy/V ./S1
+Seikatsu01\E-TO\000100\__000696	Có_thể/A chữa_trị/V tóc_bạc/N và/C hói/N do/N lớn_tuổi/A tại/E phòng_khám/N da_liễu/N không/R ?/S1
+Seikatsu01\E-TO\000110\__000697	Tóc_bạc/N và/N hói/N do/N tuổi_tác/N không/R phải/A là/V bệnh/N ,/S2 nên/C chữa_trị/V bằng/N thuốc/N là/C không_thể/N được/V ,/S2 nhưng/C chúng_tôi/P có_thể/A tư_vấn/V cho/E bạn/N ./S1
+Seikatsu01\E-TO\000120\__000698	Chúng_tôi/N đôi_khi/N chỉ_định/V các/L loại/N thuốc/N để/E phòng_ngừa/V bệnh_rụng_tóc/N ,/S2 nhưng/C nó/P là/V một/M biện_pháp/N chữa_trị/N không/R được/V bảo_đảm/V và/N kết_quả/N khác_nhau/A với/E mỗi_người/N ./S1
+Seikatsu01\E-TO\000130\__000699	Ví_dụ/N ,/S2 nếu/C trẻ_nhỏ/V tự/N nhổ/V tóc/N của/E mình/P ,/S2 nên/C đến/V khoa/N nào/P ?/S1
+Seikatsu01\E-TO\000140\__000700	Nếu/C chúng/P tự/P nhổ/V tóc/N ,/S2 đó_là/N bệnh/N rối_loạn/V về/V nhổ/V tóc/N ,/S2 có_thể/A là/V do/E căng_thẳng/A ./S1 Vậy/N nên/C hãy/R xin/V tư_vấn/V tạnội_khoa/N tâm_lý/N ./S1
+Seikatsu01\E-TO\000150\__000701	Nếu/C da_đầu/V bạn/N bị/V khô_ráp/V do/E rụng/N tóc/N ,/S2 bác_sĩ/N da_liễu/N sẽ/R chữa_trị/V cho/E bạn/N ./S1
+Seikatsu01\E-TO\000160\__000702	Ở/E nước/N tôi/P ,/S2 tôi/P được/V chẩn_đoán/V mắc_bệnh/N "/S2 xơ_cứng/N bì/N toàn_thân/N ",/N tôi/P có_phải/V gặp/V bác_sĩ/N da_liễu/N không/R ?/S1
+Seikatsu01\E-TO\000170\__000703	Với/E bệnh/N xơ_cứng_bì/N ,/S2 bạn/N nên/C xin/V tư_vấn/V tại/E khoa_da_liễu/N hoặc/N khoa_nội/A ./S1
+Seikatsu01\E-TO\000180\__000704	Nếu/C bạn/N đã/R biết/V mình/P bị/V xơ_cứng_bì/N ,/S2 bạn/N có_thể/A đến/V khoa/N về/V phong_thấp/N ./S1
+Seikatsu01\E-TO\000190\__000705	Tôi/P sống/V tại/E tỉnh_lẻ/N nên/C không/R có/V bệnh_viện/N lớn/A ở/E gần/A đó/P ./S1
+Seikatsu01\E-TO\000200\__000706	Vậy/P trước_tiên/N xin_hãy/N đến/V khoa_da_liễu/N hoặc/N khoa_nội/A để/E trao_đổi/V với/E bác_sĩ/N ./S1
+Seikatsu01\E-TO\000210\__000707	Tại_sao/N phòng_khám/N da_liễu/N chữa_trị/V các/L bệnh/N về/V móng/N và/C tóc/N ?/S1
+Seikatsu01\E-TU\000010\__000708	Nhãn_khoa/N là/V khoa/N gì/P ?/S1
+Seikatsu01\E-TU\000020\__000709	Nhãn_khoa/N là/V nơi/N mà/N bệnh_nhân/N có_thể/A đến/V nếu/C họ/N bị/V bệnh/N hay/C có/V bất_thường/N về/V mắt/N ./S1
+Seikatsu01\E-TU\000030\__000710	Nếu/C bạn/N gặp/V khó_khăn/A khi/N nhìn/V các/L vật/N hoặc/N tầm_nhìn/A bị/V hạn_chế/V ,/S2 bạn/N có_thể/A đến/V nhãn_khoa/V ./S1
+Seikatsu01\E-TU\000040\__000711	Chẳng_hạn/N mí_mắt/N của/E tôi/P bị_sứng/V ,/S2 tôi/P có_thể/A xin/V tư_vấn/V tại/E nhãn_khoa/N nhỉ/N ?/S1
+Seikatsu01\E-TU\000050\__000712	Bạn/N có_thể/A xin/V tư_vấn/V tại/E khoa_nhẫn/N về/V bất_cứ/N vấn_đề/N gì/P liên_quan/V đến/E mắt/N ./S1 Ví_dụ/V ,/S2 nếu/C bạn/N bị/V sưng/N mí_mắt/A ,/S2 bị/V mỏi_mắt/V hoặc/N thấy/V các/L vật/N lạ/A trong/E mắt/N vân_vân/N
+Seikatsu01\E-TU\000060\__000713	Vâng/N ./S1 Tôi/Np có_thể/R giúp/V gì/N cho/E bạn/N ?/S1
+Seikatsu01\E-TU\000070\__000714	Tôi/P không/R né/V được/R và/N một/M trái_banh/N trúng/V mặt/N tôi/P ./S1 Tròng_trắng/V mắt/N tôi/P trở_nên/V rất/R đỏ/A ./S1
+Seikatsu01\E-TU\000080\__000715	Tôi/P có_thể/A xin/V tư_vấn/V tại/E đây/P không/R ?/S1
+Seikatsu01\E-TU\000090\__000716	Loại/N bóng/N gì/P trúng/V mặt/N bạn/N ?/S1
+Seikatsu01\E-TU\000100\__000717	Một/M đứa_trẻ/N đá/N trái_bóng/A và/C nó/P mềm/A như/C bóng_cao_su/N ./S1
+Seikatsu01\E-TU\000110\__000718	Bạn/N trông/V có_vẻ/N không/R bị/V bầm/A ,/S2 nhưng/C bạn/N có/V bị/V đau_đầu/V không/R ?/S1
+Seikatsu01\E-TU\000120\__000719	Không/R ,/S2 tôi/N không/R bị/V ./S1 Tôi/N không/R bị/V đau_đầu/V hay/V đau_mắt/V gì/N cả/T ./S1
+Seikatsu01\E-TU\000130\__000720	Tôi/P không/R để_ý/V cho/E đến/E khi/N vợ/N tôi/P nói/V với/E tôi/P về/E con_mắt/N bị/V đỏ/A ./S1
+Seikatsu01\E-TU\000140\__000721	Tôi/P hiểu/V rồi/R ./S1 Xin_hãy/V điền/N vào/V mẫu/N câu_hỏi/N này/P trước/N ./S1
+Seikatsu01\E-TU\000150\__000722	Đây/P có_phải/V là/V trường_hợp/N tròng_trắng/N bị/V chảy_máu/V không/R ?/S1
+Seikatsu01\E-TU\000160\__000723	Xin_hãy/N xin/V tư_vấn/V từ/E bác_sĩ/N để/E xem/V có_phải/N chỉ/R đơn_thuần/A là/V bị/V chảy_máu/V trong/E kết_mạc/N hay_là/N bệnh/N gì/P khác/A ./S1
+Seikatsu01\E-TU\000170\__000724	Kết_mạc/N là/V tròng_trắng_mắt/N à/T ?/S1
+Seikatsu01\E-TU\000180\__000725	Kết_mạc/N là/V lớp_màng/N trong_suốt/N bao_bọc/V lớp/N mặt_ngoài/N của/E tròng_trắng_mắt/N ./S1
+Seikatsu01\E-TU\000190\__000726	Chúng/P được/V gọi_là/N kết_mạc/A vì/E chúng/N là/V lớp_màng/N nối_liền/V phía_trong/N mí_mắt/N và/C bề_mặt/N tròng_trắng/V ./S1
+Seikatsu01\E-TU\000200\__000727	Nếu/C bạn/N đã/R điền/N vào/V mẫu/N câu_hỏi/N ,/S2 xin/V hãy/R nộp/V ở/E đây/P ./S1
+Seikatsu01\E-TU\000210\__000728	Tôi/P muốn/V biết_rằng/V tôi/P có_thể/A xin/V tư_vấn/V ở/E phòng_khám/N mắt/N này/P hay/A không/R ./S1
+Seikatsu01\E-U_\000010\__000729	Xin_lỗi/V ,/S2 tôi/P muốn/V hỏi/V bạn/N một/M việc/N ./S1
+Seikatsu01\E-U_\000020\__000730	Vâng/I ,/S2 có/V vấn_đề/N gì/P vậy/P ?/S1 Xin/V hãy/R cứ/R hỏi/V tôi/P ./S1
+Seikatsu01\E-U_\000030\__000731	Tôi/P cảm_thấy/V không/R khỏe/A nên/C tôi/P đã/R đến/V bệnh_viện/N ./S1 Bạn/N có_thể/A chỉ/V cho/V tôi/P biết/V tôi/P nên/C khám/V tại/E khoa/N nào/P không/R ?/S1
+Seikatsu01\E-U_\000040\__000732	Bạn/N thấy/V không/R khỏe/A ra_sao/X ?/S1
+Seikatsu01\E-U_\000050\__000733	Tôi/P bị/V đau_đầu/V nặng/A ./S1
+Seikatsu01\E-U_\000060\__000734	Nếu/C bạn/N bị/V đau_đầu/V ,/S2 tôi/P khuyên/V bạn/N nên/V khám/V tại/E khoa_thần_kinh/N ./S1
+Seikatsu01\E-U_\000070\__000735	Khoa_thần_kinh/N ?/S1 Tôi/P biết/V rõ/A nơi/N đó/P lắm/R ./S1
+Seikatsu01\E-U_\000080\__000736	Khoa_thần_kinh/N chữa_trị/V các/L bệnh/N gây_ra/N bởi/N sự_rối_loạn/N ở/V các/L bộ_phận/N của/E hệ_thần_kinh/N ./S1
+Seikatsu01\E-U_\000090\__000737	Đối_với/N đau/V nhức/V đầu/N ,/S2 họ/P cũng/R có_thể/A chữa_trị/V các/L bệnh/N như/C đau/V nửa/N đầu/N mãn_tính/N tại/E khoa_thần_kinh/N ./S1
+Seikatsu01\E-U_\000100\__000738	Họ/P cũng/R chữa_trị/V các/L bệnh/N nguy_hiểm/N đến/V tính_mạng/N như/C xuất_huyết_não/N và/C khối_u_não/N ./S1
+Seikatsu01\E-U_\000110\__000739	Họ/P có_thể/A chữa_trị/V hầu_hết/N các/L ca/N đau_đầu/V ,/S2 vậy_nên/N bạn/N nên/C đến/V đó/P để/E khám/V ./S1
+Seikatsu01\E-U_\000120\__000740	Tôi/P có_thể/R hỏi/V bạn/N một/M câu/N không/R ?/S1
+Seikatsu01\E-U_\000130\__000741	Xin_chào/N ,/S2 có/V vấn_đề/N gì/P vậy/P ?/S1 Xin/V đừng/V ngại/V hỏi/V tôi/P gì/T cả/T ./S1
+Seikatsu01\E-U_\000140\__000742	Tôi/P muốn/V biết/V tôi/P nên/C đến/V khoa/N nào/P cho/E những/L triệu_chứng/N của/E tôi/P ./S1
+Seikatsu01\E-U_\000150\__000743	Hôm_nay/N bạn/N đến/V đây/P vì/E bị/V triệu_chứng/N gì/P ?/S1
+Seikatsu01\E-U_\000160\__000744	Tay/N và/N chân/N tôi/P bị/V tê/N ./S1
+Seikatsu01\E-U_\000170\__000745	Nếu/C tay/N và/C chân/N bạn/N cảm_thấy/V bị/V tê/N ,/S2 bạn/N nên/C đến/V khoa_thần_kinh/N đi/V ?/S1
+Seikatsu01\E-U_\000180\__000746	Khoa_thần_kinh/N là/V khoa/N như_thế_nào/X ?/S1
+Seikatsu01\E-U_\000190\__000747	Họ/P điều_trị/V các/L bệnh/N về/E các/L rối_loạn/N của/E hệ_thần_kinh/N ./S1
+Seikatsu01\E-U_\000200\__000748	Có/V nhiều/A loại/N tê_liệt/N khác_nhau/A ./S1
+Seikatsu01\E-U_\000210\__000749	Có/V các/L trường_hợp/N như/C bị/V đau/V dây_thần_kinh/N ./S1
+Seikatsu01\F-A_\000010\__000750	Bạn/N có_thể/A nói/V cho/V tôi/P biết/V thêm/V về/E việc/N kiểm_tra/V sức_khỏe/N tiền_sản/V không/R ?/S1
+Seikatsu01\F-A_\000020\__000751	Vâng/N ./S1 Đây/P có_phải/V là/V lần_đầu/N bạn/N mang_thai/N và/C sinh/V ở/V Nhật/Np đúng/A không/R ?/S1
+Seikatsu01\F-A_\000030\__000752	Vâng/N vì/C là/V lần_đầu/N mang_thai/N và/C sinh/V con/N nên/C có/V rất/R nhiều/A thứ/N tôi/P không/R biết/V ./S1
+Seikatsu01\F-A_\000040\__000753	Đừng/V lo/V ,/S2 tôi/P sẽ/R giải_thích/V một_cách/N dễ_hiểu/A cho/E bạn/N ./S1
+Seikatsu01\F-A_\000050\__000754	Kiểm_tra/V sức_khỏe/N tiền_sản/V được/V thực_hiện/V để/E các/L bà_mẹ/N để/E sinh_con/V khỏe_mạnh/A và/N an_toàn/A ./S1
+Seikatsu01\F-A_\000060\__000755	Kiểm_tra/V sức_khỏe/N tiền_sản/V có/V được/R quy_định/N bởi/E pháp_luật/N không/R ?/S1
+Seikatsu01\F-A_\000070\__000756	Có/V ,/S2 kiểm_tra/V sức_khỏe/N tiền_sản/V được/V quy_định/N trong/E luật/N bảo_vệ/V sức_khỏe/N bà_mẹ/N và/C trẻ_em/N ./S1
+Seikatsu01\F-A_\000080\__000757	Luật/N về/V bảo_vệ/N sức_khỏe/N bà_mẹ/N trẻ_em/N là/V luật/N gì/P ?/S1
+Seikatsu01\F-A_\000090\__000758	Luật/N về/V bảo_vệ/N sức_khỏe/N bà_mẹ/N trẻ_em/N là/V luật/N được/V ban_hành/V để/E duy_trì/V và/C đảm_bảo/V sức_khỏe/N của/E người_mẹ/N và/C trẻ_sơ_sinh/N ./S1
+Seikatsu01\F-A_\000100\__000759	Luật/N này/P ghi/V rõ/A hướng_dẫn/V về/V sức_khỏe/N và/C kiểm_tra/V sức_khỏe/N ,/S2 việc_khám_bệnh/N và/C các/L biện_pháp/N khác/A dành/V cho/E người_mẹ/N và/C em_bé/A ./S1
+Seikatsu01\F-A_\000110\__000760	Tôi/P bắt_buộc/V phải/V khám/V sức_khỏe/N tiền_sinh/V à/T ?/S1
+Seikatsu01\F-A_\000120\__000761	Toàn_bộ/N các/L bà_mẹ/N mang_thai/N được/V khuyến_khích/V nên/V kiểm_tra/V sức_khỏe/N tiền_sản/V ./S1
+Seikatsu01\F-A_\000130\__000762	Tôi/P có_thể/A sinh/V con/N tại/E một/M phòng_khám/N mà/C không/R cần/V kiểm_tra/V sức_khỏe/N tiền_sinh/V được/R không/R ?/S1
+Seikatsu01\F-A_\000140\__000763	Hiếm/N có/V trường_hợp/N như/C vậy/P nhưng/C cũng/R có/V một_vài/N bà_mẹ/N mang_thai/N mà/C chưa/R từng/R kiểm_tra/V sức_khỏe/N tiền_sinh/V ,/S2 chỉ/R khi/N chuyển_dạ/V mới/R tới/V bệnh_viện/N ./S1
+Seikatsu01\F-A_\000150\__000764	Các/L phòng_khám/N xử_lý/V những/L trường_hợp/N không/R khám/V tiền_sản/N ,/S2 chỉ/R khi/N chuyển_dạ/V mới/R tới/V bệnh_viện/N ra_sao/X ?/S1
+Seikatsu01\F-A_\000160\__000765	Đột_nhiên/N tới/V bệnh_viện/N ,/S2 bác_sĩ/N đương_nhiên/N sẽ/R không/R có/V thông_tin/N về/E sự_phát_triển/N của/E thai_nhi/N ,/S2 và/N tình_trạng/N của/E người_mẹ/N và/C đứa_bé/A ./S1
+Seikatsu01\F-A_\000170\__000766	Vì/E lý_do/V đó/P ,/S2 bác_sĩ/N rất/R khó_khăn/A khi/N phán_đoán/V liệu/V người_mẹ/N đó/P sinh/V con/N an_toàn/V tại/E viện/N này/P hay/V không/R ./S1
+Seikatsu01\F-A_\000180\__000767	Có_nghĩa/N là/V bệnh_viện/N có_thể/R từ_chối/V nhập_viện/N sinh/V của/E sản_phụ/N đó/P à/T ?/S1
+Seikatsu01\F-A_\000190\__000768	Vâng/I ,/S2 chỉ/R một_vài/N phòng_khám/N chấp_nhận/V các/L bà_mẹ/N không/R có/V thông_tin/N về/V khám/V sức_khỏe/N tiền_sản/V ./S1
+Seikatsu01\F-A_\000200\__000769	Để/E sinh_con/V được/R khỏe_mạnh/A và/N an_toàn/A ,/S2 người_ta/N khuyến_khích/V các/L sản_phụ/N đi/V kiểm_tra/V tiền_sản/N định_kỳ/N ./S1
+Seikatsu01\F-A_\000210\__000770	Tôi/P hiểu/V rồi/R ./S1 Tôi/P nhất_định/V sẽ/R thực_hiện/V kiểm_tra/V sức_khỏe/N tiền_sản/V để/E chuẩn_bị/V cho/E việc_sinh_con/N của/E mình/N ./S1
+Seikatsu01\F-I_\000010\__000771	Ở/E Nhật/Np có/V sổ_tay/N bà_mẹ/N trẻ_em/N ,/S2 phải/A không/R ?/S1
+Seikatsu01\F-I_\000020\__000772	Vâng/I ,/S2 có/V ./S1
+Seikatsu01\F-I_\000030\__000773	Vì/C đây/P là/V lần_đầu/N sinh/V con/N tại/E Nhật/Np ,/S2 tôi/N không/R biết/V dùng/V nó/N như_thế_nào/N ./S1
+Seikatsu01\F-I_\000040\__000774	Bạn/N có_thể/A nói/V thêm/V cho/E tôi/P biết/V về/E sổ_tay/N bà_mẹ/N trẻ_em/N được/R không/R ?/S1
+Seikatsu01\F-I_\000050\__000775	Vâng/N ./S1 Trước_tiên/N bạn/N muốn/V biết/V gì/P ?/S1
+Seikatsu01\F-I_\000060\__000776	Sổ_tay/N bà_mẹ/N trẻ_em/N dùng/V để/E làm_gì/X ?/S1
+Seikatsu01\F-I_\000070\__000777	Sổ_tay/N bà_mẹ/N trẻ_em/N được/V phát/V cho/V tất_cả/N sản_phụ/N khi/N họ/N mang_thai/V tại/E Nhật/Np ./S1
+Seikatsu01\F-I_\000080\__000778	Tất_cả/L sản_phụ/N đều/R nhận/V được/R nhỉ/N ./S1
+Seikatsu01\F-I_\000090\__000779	Đúng/A thế/T ./S1 Việc/N đó/P được/V quy_định/N bởi/E luật/N bảo_vệ/V sức_khỏe/N bà_mẹ/N trẻ_em/N ./S1
+Seikatsu01\F-I_\000100\__000780	Luật/N bảo_vệ/V sức_khỏe/N bà_mẹ/N trẻ_em/N à/T ?/S1
+Seikatsu01\F-I_\000110\__000781	Vâng/I ,/S2 luật/N này/P quy_định/N nhằm/V hướng_dẫn/V bảo_vệ/N sức_khỏe/N và/C các/L việc/N khám/V sức_khỏe/N đối_với/N bà_mẹ/N và/C trẻ_nhỏ/V ./S1
+Seikatsu01\F-I_\000120\__000782	Tôi/P sẽ/R được/V nhận/V sổ_tay/N bà_mẹ/N trẻ_em/N theo/E luật/N chứ/N ?/S1
+Seikatsu01\F-I_\000130\__000783	Vâng/N ./S1 Tất_nhiên/A là/V được/V rồi/R ./S1
+Seikatsu01\F-I_\000140\__000784	Ở/E nước/N tôi/P không/R có/V sổ_tay/N bà_mẹ/N trẻ_em/N ./S1
+Seikatsu01\F-I_\000150\__000785	Vậy_nên/N ,/S2 tôi/P mới/R biết/V điều/N này/P lần_đầu/V ./S1
+Seikatsu01\F-I_\000160\__000786	À/I ,/S2 sổ_tay/N bà_mẹ/N trẻ_em/N là/V chế_độ/N riêng/A của/E Nhật/Np ./S1
+Seikatsu01\F-I_\000170\__000787	Ngay_cả/N người/N nước_ngoài/N như/C tôi/P cũng/R nhận/V được/R à/T ?/S1
+Seikatsu01\F-I_\000180\__000788	Bất_kể/V quốc_tịch/N hay/C tuổi_tác/N ,/S2 phụ_nữ/N mang_thai/N đang/R sinh_sống/V tại/E Nhật/Np đều/R có_thể/R nhận/V được/R ./S1
+Seikatsu01\F-I_\000190\__000789	Vậy/P ,/S2 tôi/P cũng/R có_thể/R nhận/V được/R ,/S2 phải/A không/R ?/S1
+Seikatsu01\F-I_\000200\__000790	Vâng/I ,/S2 được/V ./S1 Điều/N đó/P là/V chắc_chắn/A rồi/R ./S1
+Seikatsu01\F-I_\000210\__000791	Tôi/P nhận/V nó/P như_thế_nào/X ?/S1
+Seikatsu01\G-A_\000010\__000792	Tôi/P cần/V làm/V thủ_tục/N gì/P khi/N sinh/V con/N ở/V Nhật/Np ?/S1
+Seikatsu01\G-A_\000020\__000793	Một_khi/N bạn/N xác_định/V được/R có/V bầu/N ,/S2 bạn/N đến/V một/M văn_phòng/N chính_phủ/N gần_đó/A và/C nhận/V sổ_tay/N bà_mẹ/N trẻ_em/N ./S1
+Seikatsu01\G-A_\000030\__000794	Khi/N nhận/V sổ_tay/N hướng_dẫn/V bà_mẹ/N trẻ_em/N ,/S2 bạn/N sẽ/R được/V nhận/V phiếu/N hỗ_trợ/V khám/V sức_khỏe/N ./S1
+Seikatsu01\G-A_\000040\__000795	Phiếu/N hỗ_trợ/V khám/V sức_khỏe/N là/V gì/P ?/S1
+Seikatsu01\G-A_\000050\__000796	Ở/E Nhật/Np ,/S2 bạn/N không_thể/A sử_dụng/V bảo_hiểm_y_tế/X để/E sinh/V con/N ./S1
+Seikatsu01\G-A_\000060\__000797	Tất_cả/N các/L phí/N bao_gồm/V phí/N kiểm_tra/V sức_khỏe/N thai_kỳ/V ,/S2 sinh/V con/N và/C viện_phí/N đều/R phải/V tự/V chi_trả/V ./S1
+Seikatsu01\G-A_\000070\__000798	Phiếu/N hỗ_trợ/V khám/V sức_khỏe/N giống_như/N tấm_vé/N được/V chính_phủ/N thay_mặt/V chi_trả/V chi_phí/N khám/V sức_khỏe/N ./S1
+Seikatsu01\G-A_\000080\__000799	Tôi/P có_thể/A khám/V miễn_phí/V khi/N dùng/V phiếu/N khám/V sức_khỏe/N à/T ?/S1
+Seikatsu01\G-A_\000090\__000800	Vâng/I ,/S2 thành_phố/N này/P cung_cấp/V mười/N bốn/N phiếu/N khám/V hỗ_trợ/V khám/N sức_khỏe/N ./S1
+Seikatsu01\G-A_\000100\__000801	Tôi/P cũng/R có_thể/A đi/V siêu_âm/V bằng/N phiếu_hỗ_trợ/N khám/V sức_khỏe/N không/R ?/S1
+Seikatsu01\G-A_\000110\__000802	Được/V ,/S2 ngoài/E siêu_âm/N ,/S2 bạn/N có_thể/A dùng/V phiếu_hỗ_trợ/N khám/V sức_khỏe/N để/V đi/V xét_nghiệm/V máu/N ./S1
+Seikatsu01\G-A_\000120\__000803	Tôi/P có_thể/R dùng/V phiếu/N khám/V sức_khỏe/N để/E trả/V phí/N sinh/V con/N không/R ?/S1
+Seikatsu01\G-A_\000130\__000804	Bạn/N không_thể/N dùng/V phiếu/N khám_sức_khỏe/N để/E chi_trả/V phí/N sinh/V con/N và/C viện_phí/N được/V ./S1
+Seikatsu01\G-A_\000140\__000805	Nếu/C bạn/N có/V tham_gia/V bảo_hiểm_y_tế/X ,/S2 bạn/N sẽ/R được/V nhận/V trợ_cấp/V một/M lần/N cho/V việc/N sinh/V con/N ./S1
+Seikatsu01\G-A_\000150\__000806	Tôi/P phụ_thuộc/V vào/V chồng/N tôi/P ./S1 Tôi/P có_thể/R nhận/V được/R trợ_cấp/V một/M lần/N cho/V việc/N sinh/V con/N không/R ?/S1
+Seikatsu01\G-A_\000160\__000807	Nó/P được/V chi_trả/V khi/N bạn/N có/V bảo_hiểm_y_tế/N hoặc/N phụ_thuộc/V vào/E chồng/N ./S1
+Seikatsu01\G-A_\000170\__000808	Làm_sao/X tôi/P có_thể/A yêu_cầu/V thanh_toán/V trợ_cấp/V một/M lần/N cho/V việc/N sinh/V con/N ?/S1
+Seikatsu01\G-A_\000180\__000809	Bạn/N nộp/V đơn/N trong/E vòng/N hai/M năm/N từ/E ngày/N tiếp_theo/V sau/N ngày_sinh/N ./S1
+Seikatsu01\G-A_\000190\__000810	Tôi/P nên/V nộp/V đơn/N ở/V đâu/P để/E yêu_cầu/V tiền/N trợ_cấp/V một/M lần/N cho/V việc/N sinh/V con/N ?/S1
+Seikatsu01\G-A_\000200\__000811	Với/E bảo_hiểm_y_tế/N xã_hội/N ,/S2 nộp/V đơn/N tại/V công_ty/N ,/S2 và/C với/E bảo_hiểm_y_tế/N quốc_gia/N ,/S2 nộp/V đơn/N tại/V văn_phòng/N chính_phủ/N địa_phương/N ./S1
+Seikatsu01\G-A_\000210\__000812	Tôi/P có/V được/R thanh_toán/V tiền/N trợ_cấp/V một/M lần/N cho/V việc/N sinh/V con/N trực_tiếp/A từ/E bệnh_viện/N không/R ?/S1
+Seikatsu01\G-E_\000010\__000813	Sự_phát_triển/N của/E trẻ_nhỏ/N là/V gì/P ?/S1
+Seikatsu01\G-E_\000020\__000814	Trẻ/N khi/N vừa/R chào_đời/V có/V sự/N thay_đổi/V tâm_sinh_lý/N thấy/V được/R khi/N lớn/V dần/R lên/R ./S1
+Seikatsu01\G-E_\000030\__000815	Trẻ_sơ_sinh/N không/R làm/V được/R gì/P một_mình/N ./S1
+Seikatsu01\G-E_\000040\__000816	Nhưng/C khoảng/A một/M tuổi/N rưỡi/M trẻ/N sẽ/R biết/V đi/V ./S1
+Seikatsu01\G-E_\000050\__000817	Chính_xác/N là/V trẻ_em/N lớn/A rất/R nhanh/A ./S1
+Seikatsu01\G-E_\000060\__000818	vào/V lúc/N ba/M tuổi/N ,/S2 trẻ/N sẽ/R tự/V biết/V leo/V cầu_thang/N và/C sẽ/R biết/V nhảy/V vào/E lúc/N năm/N tuổi/N ./S1
+Seikatsu01\G-E_\000070\__000819	Vào/V khoảng/N sáu/M tuổi/N ,/S2 trẻ/N có_thể/R tự/V chăm_sóc/V cho/E mình/P ./S1
+Seikatsu01\G-E_\000080\__000820	Sau_đó/N ,/S2 trẻ/N sẽ/R làm/V được/R rất/R nhiều/A thứ/N và/C dần_dần/A trở_thành/V người_lớn/N ./S1
+Seikatsu01\G-E_\000090\__000821	Gần_đây/N trẻ_em/N hay/C nổi_quấy/N rất/R khủng_khiếp/A ./S1
+Seikatsu01\G-E_\000100\__000822	Nó/P la_hét/V khi/N tức_giận/V và/N lăn_lộn/V đập/V tay/N đập/V chân/N trên/E sàn/N mỗi_khi/N không/R vừa_ý/V ./S1
+Seikatsu01\G-E_\000110\__000823	Tôi/P không/R biết/V phải/V làm_sao/X khi/N thấy/V một/M đứa/Nc trẻ/N khóc/V lên/V tại/E những/L nơi/N như/C siêu_thị/N ./S1
+Seikatsu01\G-E_\000120\__000824	Đứa_trẻ/N khoảng/A hơn/R một/M tuổi/N rất/R hay/A cáu_kỉnh/A khi/N không/R được/V chiều/V theo/E ý/N ./S1
+Seikatsu01\G-E_\000130\__000825	Vì/C nó/P chưa/R thể/R nói_chuyện/V được/R ,/S2 nó/P bộc_lộ/V sự_khó_chịu/N ra_ngoài/A bằng/V hành_động/N ./S1
+Seikatsu01\G-E_\000140\__000826	Bạn/N có/V để/E yên/N cho/E con/N mình/P làm_gì/N nó/P thích/V để/E không/R làm/V ảnh_hưởng/V đến/E người/N xung_quanh/N không/R ?/S1
+Seikatsu01\G-E_\000150\__000827	Chính_xác/A ./S1 Đó/P là/V cách/N duy_nhất/A tôi/P có_thể/A làm/V để/E dỗ/V con_nít/N ./S1
+Seikatsu01\G-E_\000160\__000828	Tôi/P hoàn_toàn/A không/R biết/V phải/V làm_sao/X ./S1
+Seikatsu01\G-E_\000170\__000829	Một_khi/N bạn/N để/E cho/V đứa_trẻ/N tự_ý/N làm_gì/N nó/P thích/V ,/S2 thì/C lần_sau/N nó/P sẽ/R tiếp_tục/V làm/V vậy/P ./S1
+Seikatsu01\G-E_\000180\__000830	Với/E tư_cách/N là/V một/M bậc/N cha_mẹ/N ,/S2 tốt_nhất/N là/V cứ/N để_yên/V đến_khi/N cơn_giận/N của/E nó/P nguôi/V đi/R ./S1
+Seikatsu01\G-E_\000190\__000831	Khi/N trẻ/N bình_tĩnh/A lại/V ,/S2 hãy/R chỉ/V cho/E nó/N những/L thứ/N khác/A làm/V nó/P thích_thú/V ./S1
+Seikatsu01\G-E_\000200\__000832	Khó/A thật/R ,/S2 nhưng/C tôi/P sẽ/R cố/V thử/V ./S1
+Seikatsu01\G-E_\000210\__000833	Sự_phát_triển/N của/E trẻ/N hai/M tuổi/N nói_chung/N về/V chức_năng/N vận_động/V là/V như_thế_nào/X ?/S1
+Seikatsu01\G-I_\000010\__000834	Tôi/P muốn/V hỏi/V một_vài/N câu_hỏi/N vì/E tôi/P sẽ/R sinh/V vào/E tháng/N mười/M ./S1
+Seikatsu01\G-I_\000020\__000835	Xin_chúc_mừng/N ./S1 Xin/V cứ/R hỏi/V tôi/P bất_cứ/R điều/N gì/P ./S1
+Seikatsu01\G-I_\000030\__000836	Chồng/N tôi/P không_thể/A xin/V nghỉ/V làm/V ,/S2 và/N tôi/P cũng/R không/R có/V tiền/N để/E về/V nước/N ./S1
+Seikatsu01\G-I_\000040\__000837	Vì_vậy/C ,/S2 thay_vì/N sinh/V con/N ở/V quê_nhà/N ,/S2 tôi/N nghĩ/V tôi/P sẽ/R sinh/V tại/E Nhật/Np ./S1
+Seikatsu01\G-I_\000050\__000838	Bạn/N đã/R từng/R đến/V bệnh_viện/N của/E Nhật/Np chưa/R ?/S1
+Seikatsu01\G-I_\000060\__000839	Tôi/P đã/R đến/V kiểm_tra/V sức_khỏe/N tổng_thể/A hồi/N mới/R sang/V ,/S2 nhưng/C thật_ra/N ,/S2 tôi/P muốn/V sinh/V con/N tại/E nhà/N ./S1
+Seikatsu01\G-I_\000070\__000840	Vậy/P bạn/N sẽ/R không/R sinh/V ở/V bệnh_viện/N ,/S2 mà/C bạn/N đang/R tìm/V các/L dịch_vụ/N cho_phép/V bạn/N sinh/V con/N tại/E nhà/N à/N ?/S1
+Seikatsu01\G-I_\000080\__000841	Vâng/I ,/S2 tôi/N nghĩ/V sinh/V con/N ở/V bệnh_viện/N sẽ/R rất/R tốt_kém/A ./S1
+Seikatsu01\G-I_\000090\__000842	Nếu/C bạn/N mong_muốn/V sinh/V con/N tại/E nhà/N ,/S2 tôi/N khuyên/V bạn/N nên/V đến/V một/M nhà_hộ_sinh/N và/C nói_chuyện/V với/E bác_sĩ/N một/M lần/N xem_sao/V ./S1
+Seikatsu01\G-I_\000100\__000843	Nhà_hộ_sinh/N có_phải/N là/V bệnh_viện/N có/V khoa_sản/N phải/A không/R ?/S1
+Seikatsu01\G-I_\000110\__000844	Nhà_hộ_sinh/N và/N khoa_sản/N bệnh_viện/N hơi/N khác/A một_chút/N ./S1
+Seikatsu01\G-I_\000120\__000845	Tại/E nhà_hộ_sinh/N ,/S2 thay_vì/V là/V bác_sĩ/N ,/S2 các/L nữ/N hộ_sinh/N sẽ/R giúp/V bạn/N trong/E giai_đoạn/N mang_thai/N ,/S2 và/N giúp/V bạn/N sinh/V con/N ./S1
+Seikatsu01\G-I_\000130\__000846	Cũng/R có/V nhà_hộ_sinh/N sẽ/R đến/V nhà/N bạn/N để/E giúp/V sinh/V con/N tại/E nhà/N ./S1
+Seikatsu01\G-I_\000140\__000847	Nhà_hộ_sinh/N có/V rẻ/A hơn/A bệnh_viện/N thường/R không/R ?/S1
+Seikatsu01\G-I_\000150\__000848	Tất_nhiên/A là/V còn/V tùy_vào/N nhà_hộ_sinh/N ,/S2 nhưng/C không_phải/N lúc_nào/N nhà_hộ_sinh/N cũng/R rẻ/A hơn/A bệnh_viện/N thường/A ./S1
+Seikatsu01\G-I_\000160\__000849	Bạn/N nên/C hỏi/V rõ/A về/E viện_phí/N tại/E nhà_hộ_sinh/N ./S1
+Seikatsu01\G-I_\000170\__000850	Tôi/P hiểu/V rồi/R ./S1 Vậy/P tôi/P sẽ/R thử/V tìm_kiếm/V một/M nhà_hộ_sinh/N ./S1
+Seikatsu01\G-I_\000180\__000851	Có_lẽ/N bạn/N nên/C tìm/V các/L nhà_hộ_sinh/N gần/A nhà/N bạn/N qua/E internet/N và/C gọi/V họ/P trước/A ./S1
+Seikatsu01\G-I_\000190\__000852	Nhưng/C trên/N điện_thoại/N ,/S2 có/V đôi_lúc/N tôi/N không/R nghe/V được/R tiếng_Nhật/V ./S1
+Seikatsu01\G-I_\000200\__000853	Vậy/P tại_sao/N bạn/N không/R đặt/V lịch/N đến/V nhà_hộ_sinh/N và/C thử/V đến/E đó/P một/M lần/N để/E hỏi/V thông_tin/N ?/S1
+Seikatsu01\G-I_\000210\__000854	Vâng/I ,/S2 tôi/P sẽ/R thử/V đến/R nhà_hộ_sinh/N một/M lần/N xem/V sao/N ./S1
+Seikatsu01\G-KA\000010\__000855	Đã/R một/M tháng/N kể_từ/A lúc/N con/N tôi/P được/V sinh/V ./S1
+Seikatsu01\G-KA\000020\__000856	Xin_chúc_mừng/N về/V điều/N đó/P ./S1 Bạn/N có/V gặp/V khó_khăn/A gì/P trong/E việc/N nuôi/V em_bé/N không/R ?/S1
+Seikatsu01\G-KA\000030\__000857	Hiện_tại/N có/V rất/R nhiều/A thứ/N tôi/P chưa/R quen/V ,/S2 và/N thật_sự/A là/V tôi/P đang/R rất/R lo/V ./S1
+Seikatsu01\G-KA\000040\__000858	Tất_nhiên/N là/V bạn/N lo/V rồi/R ./S1
+Seikatsu01\G-KA\000050\__000859	Nhưng/C không_sao/N ,/S2 hãy/R giải_quyết/V vấn_đề/N cùng_nhau/N và/C nuôi/V bé/N thật/T thoải_mái/A ./S1
+Seikatsu01\G-KA\000060\__000860	Cảm_ơn/V ./S1
+Seikatsu01\G-KA\000070\__000861	Bạn/N có/V câu_hỏi/N gì/P đặc_biệt/A muốn/V hỏi/V không/R ?/S1
+Seikatsu01\G-KA\000080\__000862	Vâng/I ,/S2 là/V về/V tiêm_phòng/N ./S1
+Seikatsu01\G-KA\000090\__000863	Tôi/P nghe_nói/V rằng/C sẽ/R phải/V tiêm_phòng/V khá/R nhiều/A ./S1
+Seikatsu01\G-KA\000100\__000864	Còn_nữa/N ,/S2 gần_đây/N nghe_nói/N là/V tiêm_phòng/N vắc_xin/N Hib/Np là/V tiêm_phòng/N định_kì/A ./S1
+Seikatsu01\G-KA\000110\__000865	Đó/P là/V một/M loại/Nc vắc_xin/N mà/N từ_trước_tới_giờ/X tôi/P chưa/R nghe_đến/V nhiều/A ,/S2 nên/C xin_hãy/V giải_thích/V thêm/V cho/E tôi/P về/V nó/P ./S1
+Seikatsu01\G-KA\000120\__000866	Tôi/P hiểu/V rồi/R ,/S2 bạn/N muốn/V biết/V thêm/V về/N vắc_xin/V Hib/Np phải/V ./S1
+Seikatsu01\G-KA\000130\__000867	Đúng/A là/C vắc_xin/N Hib/Np là/V vắc_xin/N tiêm_phòng/N định_kỳ/N từ/E năm/N hai_không_một_ba/X ./S1
+Seikatsu01\G-KA\000140\__000868	Có/V nhiều/A thay_đổi/N trong/N chế_độ/N tiêm/V phòng/N ,/S2 vậy/N nên/N nhân/N cơ_hội/N hãy/R ghi_nhớ/V lại/R nhé/N ./S1
+Seikatsu01\G-KA\000160\__000869	Trước_tiên/N ,/S2 bạn/N có_thể/A nói/V cho/V tôi/P biết/V về/E nhiễm_trùng/N Hib/Np không/R ?/S1
+Seikatsu01\G-KA\000170\__000870	Nhiễm_trùng/N Hib/Np là/V bệnh/N gây_ra/N do/N nhiễm/V vi_khuẩn/N cúm/N Haemophilus/Np typ/V b/N ./S1
+Seikatsu01\G-KA\000180\__000871	Đây/P được/V xem/V bệnh/N rất/R nguy_hiểm/A liên_quan/V đến/E tính_mạng/N đặc_biệt/A là/V trẻ_nhỏ/N ./S1
+Seikatsu01\G-KA\000190\__000872	Nguy_hiểm/N đến/V tính_mạng/N ,/S2 thật_là/V một/M bệnh/N đáng_sợ/N ./S1
+Seikatsu01\G-KA\000200\__000873	Đúng_vậy/N ,/S2 mỗi/L năm/N ở/V Nhật/Np có/V sáu/M trăm/N trẻ_em/N viêm_màng_não/N do/N vi_khuẩn/N gây_ra/V bởi/E nhiễm_trùng/N Hib/Np ./S1
+Seikatsu01\G-KA\000210\__000874	Ở/E các/L quốc_gia/N phương_Tây/N ,/S2 tiêm_ngừa/N Hib/Np đã/R được/V thực_hiện/V từ/E lâu/N ./S1
+Seikatsu01\G-KI\000010\__000875	Tôi/P có_lẽ/R đã/R có_thai/V rồi/R ./S1
+Seikatsu01\G-KI\000020\__000876	Vậy/P à/N ./S1 Xin_chúc_mừng/N ./S1
+Seikatsu01\G-KI\000030\__000877	Tôi/P muốn/V tư_vấn/V về/V sức_khỏe/N khi/N mang_thai/N ,/S2 tôi/P có_thể/A đến/V đâu/P để/V xin/V tư_vấn/V ?/S1
+Seikatsu01\G-KI\000040\__000878	Trước_tiên/N bạn/N nên/C đến/V khoa_sản/N để/V kiểm_tra/V thai/N ./S1
+Seikatsu01\G-KI\000050\__000879	Phí/N kiểm_tra/V thai/N khoảng/N bao_nhiêu/P ?/S1
+Seikatsu01\G-KI\000060\__000880	Mang_thai/N không_phải/N là/V bệnh/N ,/S2 vì_vậy/N không_thể/A sử_dụng/V bảo_hiểm_y_tế/N của/E bạn/N ./S1
+Seikatsu01\G-KI\000070\__000881	Vậy/P tôi/P phải/V tự/V chi_trả/V cho/E chi_phí/N khám/V thai/N phải/A không/R ?/S1
+Seikatsu01\G-KI\000080\__000882	Đúng_vậy/N ./S1 Tuy_nhiên/N bạn/N sẽ/R được/V nhận/V phiếu/N khám/V khi/N bạn/N được/V phát/V sách/N Sổ_tay/N chăm_sóc/V sức_khỏe/N mẹ/N và/C bé/N ./S1
+Seikatsu01\G-KI\000090\__000883	Bạn/N có_thể/A khám/V thai/N miễn_phí/V khi/N dùng/V phiếu_khám/N này/P ./S1
+Seikatsu01\G-KI\000100\__000884	Vậy/P khám/V thai/N là/V hoàn_toàn/A miễn_phí/V phải/A không/R ?/S1
+Seikatsu01\G-KI\000110\__000885	Không/R phải/A toàn_bộ/N ,/S2 vì/N còn/V tùy_thuộc/V vào/V vào/E vùng/N bạn/N sống/V nữa/R ./S1
+Seikatsu01\G-KI\000120\__000886	Tôi/P nên/V hỏi/V về/E chi_phí/N khám/V thai/N ở/V đâu/P ?/S1
+Seikatsu01\G-KI\000130\__000887	Emily/Np có_thể/A hỏi/V tại/E chính_quyền/N địa_phương/N ở/V nơi/N bạn/N đang/R sống/V ./S1
+Seikatsu01\G-KI\000140\__000888	Tôi/P hiểu/V rồi/R ./S1 Tôi/P sẽ/R đến/V văn_phòng/N quận/N để/E hỏi/V ./S1
+Seikatsu01\G-KI\000150\__000889	Nhân_tiện/N cho/V tôi/P hỏi/V thêm/V chút/N ,/S2 khám/V thai/N là/V khám/N gì_thế/N nhỉ/I ?/S1
+Seikatsu01\G-KI\000160\__000890	Khi/N khám/V thai/N ,/S2 bạn/N sẽ/R khám/V ở/E khoa_sản/N để/E xác_nhận/V là/V bạn/N mang_thai/N ./S1
+Seikatsu01\G-KI\000170\__000891	Cụ_thể/N ,/S2 tôi/P sẽ/R phải/V kiểm_tra/V những/L gì/P ?/S1
+Seikatsu01\G-KI\000180\__000892	Bạn/N sẽ/R được/V xét_nghiệm/V máu/N ,/S2 nước_tiểu/N ,/S2 cân_nặng/N ,/S2 huyết_áp/N ,/S2 và/N nhiều/A thứ/N khác/A và/C sau_đó/N là/V siêu_âm/N ./S1
+Seikatsu01\G-KI\000190\__000893	Tôi/P phải/V khám/V thai/N thường_xuyên/A ra_sao/X ?/S1
+Seikatsu01\G-KI\000200\__000894	Đầu_tiên/N ,/S2 bạn/N khám/V thai/N một/M hay/N hai/M tuần/N một/M lần/N ,/S2 sau_đó/N mỗi/L tháng/N một/M lần/N ,/S2 và/N khi/N đến/V tháng/N cuối_cùng/A thì/C mỗi/M tuần/N một/M lần/N ./S1
+Seikatsu01\G-KI\000210\__000895	Tôi/P kiểm_tra/V bằng/N qua_thử_thai/N và/C kết_quả/N là/V dương_tính/A ,/S2 nên/C tôi/P đã/R đến/V đây/P để/E khám/V thai/N ./S1
+Seikatsu01\G-U_\000010\__000896	Khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/V là/V gì/P ?/S1
+Seikatsu01\G-U_\000020\__000897	Tôi/P nghe_nói/V là/V nên/V đi/V khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N đều_đặn/N sau_khi/N đứa_trẻ/N chào_đời/V ./S1
+Seikatsu01\G-U_\000030\__000898	Khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N chính_là/V kiểm_tra/V sức_khỏe/N cho/V trẻ_em/N từ/E một/M tháng/N tuổi/N đến/V sáu/M tuổi/N ./S1
+Seikatsu01\G-U_\000040\__000899	Phí/N khám/V sức_khỏe/N được/V lo/V bởi/E chính_quyền/N địa_phương/N và/C nhà_nước/N ,/S2 nên/C bạn/N có_thể/A khám/V miễn_phí/V ./S1
+Seikatsu01\G-U_\000050\__000900	Chế_độ/N này/P được/V ban_hành/V từ/E năm/N một_chín_sáu_năm/X theo/E luật/N Chăm_sóc/V sức_khỏe/N bà_mẹ/N và/C trẻ_em/N ./S1
+Seikatsu01\G-U_\000060\__000901	Việc/N khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N là/V bắt_buộc/V phải/A không/R ?/S1
+Seikatsu01\G-U_\000070\__000902	Không/R ,/S2 không/R bắt_buộc/V ./S1
+Seikatsu01\G-U_\000080\__000903	Tuy_nhiên/C ,/S2 hiện_tại/N tỷ_lệ/N tử_vong/N ở/V trẻ_em/N tại/N Nhật/Np là/V thấp/A nhất/A trên/E thế_giới/N ./S1 Có_thể/A nói/V rằng/C việc/N khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N đóng/V vai_trò/N quan_trọng/A trong/E việc/N này/P ./S1
+Seikatsu01\G-U_\000090\__000904	Tôi/P nghĩ/V rằng/C nếu/C nghĩ/V cho/E tương_lai/N của/E trẻ/N ,/S2 thì/C ai/P cũng/R sẽ/R thực_hiện/V khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N ./S1
+Seikatsu01\G-U_\000100\__000905	Vâng/I ,/S2 tôi/P sẽ/R sắp_xếp/V công_việc/N để/E đi/V khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N đều_đặn/N ./S1
+Seikatsu01\G-U_\000110\__000906	Mục_tiêu/N của/E việc/N khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/V là/V gì/P ?/S1
+Seikatsu01\G-U_\000120\__000907	Việc/N khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N là/V để/E theo_dõi/V sự/N phát_triển/V về/E thể_chất/N và/C tâm_lý/N của/E chúng/P ./S1
+Seikatsu01\G-U_\000130\__000908	Còn/V nữa/R ,/S2 họ/P có_thể/A cho/V bạn/N lời_khuyên/N về/V cách_phát_hiện/N sớm/V bệnh/N ,/S2 các/L vấn_đề/N tâm_lý/N của/E phụ_huynh/N và/C nhiều/A thứ/N khác/A liên_quan/V tới/E việc/N chăm_sóc/V trẻ_em/N ./S1
+Seikatsu01\G-U_\000140\__000909	Có_thể/A nói/V rằng/C khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/V được/V thực_hiện/V một_cách/N đầy_đủ/A nhằm/V đạt/V được/R mục_đích/N to_lớn/A là/V nuôi_dạy/N trẻ_em/N khỏe_mạnh/A ./S1
+Seikatsu01\G-U_\000150\__000910	Không_chỉ/N trẻ_em/N ,/S2 phụ_huynh/N cũng/R nhận/V được/R sự/N giúp_đỡ/V phải/A không/R ./S1
+Seikatsu01\G-U_\000160\__000911	Đúng_vậy/N ,/S2 người/N nuôi/V dạy/V trẻ/N sẽ/R ảnh_hưởng/V đến/E việc/N hình_thành/V nhân_cách/N của/E trẻ/N nên/N đó/P là/V người/N quan_trọng/A ./S1
+Seikatsu01\G-U_\000170\__000912	Nếu/C họ/N có/V vấn_đề/N về/V tâm_lý/N của/E trẻ_em/N và/C phụ_huynh/N hay/C các/L vấn_đề/N về/V cách/N và/C môi_trường/N chăm_sóc/V trẻ/N ,/S2 họ/P sẽ/R kiểm_tra/V nhanh_chóng/A trong/E các/L buổi/N khám/V ./S1
+Seikatsu01\G-U_\000180\__000913	Nhiệm_vụ/N quan_trọng/A của/E y_tá/N sức_khỏe/N xã_hội/N là/V giúp_đỡ/V các/L bậc/N phụ_huynh/N và/C con_nhỏ/N thực_hiện/V hệ_thống/N chăm_sóc/V hỗ_trợ/V thích_hợp/N ./S1
+Seikatsu01\G-U_\000190\__000914	Đây/P là/V hệ_thống/N không_chỉ/N để/E theo_dõi/V các/L giai_đoạn/N phát_triển/V của/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/A ,/S2 mà_còn/C được/V thực_hiện/V để/E dự_đoán/N và/C ngăn_chặn/V nhiều/A vấn_đề/N khác/A ./S1
+Seikatsu01\G-U_\000200\__000915	Hãy/R cho/V tôi/P biết/V số/N lần/N và/C thời_gian/N khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/V ?/S1
+Seikatsu01\G-U_\000210\__000916	Được/V ,/S2 khám/V sức_khỏe/N cho/E trẻ_sơ_sinh/N và/C trẻ_nhỏ/N thực_hiện/V ít_nhất/X hai/M lần/N cho_đến/N lúc/N một/M tuổi/N ,/S2 sau_đó/V một/M lần/N vào_lúc/V một/M tuổi/N rưỡi/N và/C một/M lần/N vào_lúc/A ba/N tuổi/N ./S1
+Seikatsu01\I-A_\000010\__000917	Có/V khóa_dị_ứng/N trong/E bệnh_viện/N này/P không/R ?/S1
+Seikatsu01\I-A_\000020\__000918	Có/V ,/S2 đây/P là/V quầy_tiếp_tân/N của/E khoa_dị_ứng/N ./S1
+Seikatsu01\I-A_\000030\__000919	Khoa_dị_ứng/N là/V khoa/N khám/V trong/E trường_hợp/N bị/V những/L bệnh/N liên_quan/V đến/R dị_ứng/N phải/A không/R ?/S1
+Seikatsu01\I-A_\000040\__000920	Bạn/N đã/R được/V khám/V ở/V khoa/N nào/P khác/A chưa/R ?/S1
+Seikatsu01\I-A_\000050\__000921	Chưa/R ,/S2 tôi/P chưa/R khám/V ở/V khoa/N nào/P khác/A cả/T ./S1
+Seikatsu01\I-A_\000060\__000922	Tôi/P không/R biết/V nên/C khám/V ở/V khoa_dị_ứng/N hay_là/N khám/V ở/V khoa/N khác/A ./S1
+Seikatsu01\I-A_\000070\__000923	Có/V rất/R nhiều/A triệu_chứng/N mặc_dù/N chúng_ta/N chỉ/R gọi_chung/V là/V dị_ứng/N nhỉ/N ./S1
+Seikatsu01\I-A_\000080\__000924	Đây/P là/V bệnh/N với/E nhiều/A triệu_chứng/N và/C có/V phản_ứng/N khác_nhau/N tùy_thuộc/V vào/E người/N ,/S2 thời_điểm/N và/C hoàn_cảnh/N bị_dị_ứng/N ./S1
+Seikatsu01\I-A_\000090\__000925	Còn/C đối_với/N tình_trạng/N của/E tôi/P ,/S2 tôi/P liên_tục/R bị/V ngứa/V da/N ./S1
+Seikatsu01\I-A_\000100\__000926	Tôi/P không/R biết/V nên/C khám/V ở/V khoa_da_liêỹ/N hay/N khoa_dị_ứng/N ./S1
+Seikatsu01\I-A_\000110\__000927	Chúng_tôi/N có_thể/R khám/V cho/V hầu_hết/N các/L bệnh_nhân/N bị/V bệnh/N dị_ứng/N tại/E bệnh_viện/N này/P ./S1
+Seikatsu01\I-A_\000120\__000928	Nhưng/C nếu/C chỉ_là/N triệu_chứng/N trên_da/N ,/S2 bạn/N có_thể/N sẽ/R cần/V phải/V điều_trị/V cả/T các/L bệnh/N khác/A ngoài/N dị_ứng/N ./S1
+Seikatsu01\I-A_\000130\__000929	Nếu/C triệu_chứng/N của/E tôi/P chỉ/R liên_quan/V đến/E da/N ,/S2 tôi/P nên/C đi/V gặp/V bác_sĩ/N da_liễu/N phải/A không/R ?/S1
+Seikatsu01\I-A_\000140\__000930	Tốt_nhất/N là/V nên/V gặp/V bác_sĩ/N da_liễu/N trước/A ./S1
+Seikatsu01\I-A_\000150\__000931	Tuy_nhiên/C ,/S2 nếu/C bạn/N vẫn/R băn_khoăn/A ,/S2 bạn/N có_thể/A đến/V khám/V ở/V khoa_dị_ứng/N ./S1
+Seikatsu01\I-A_\000160\__000932	Tôi/P muốn/V biết/V thêm/V chi_tiết/A về/E nội_dung/N khám/V tại/E khoa/N dị_ứng/N ./S1
+Seikatsu01\I-A_\000170\__000933	Hãy/R để/V tôi/P giải_thích/V ngắn_gọn/A về/E các/L tình_trạng/N cần/V phải/V được/V khám/V tại/E khoa/N dị_ứng/N ./S1
+Seikatsu01\I-A_\000180\__000934	Đối_với/N hệ_hô_hấp/N ,/S2 các/L bệnh/N như/C hen_suyễn/N ,/S2 thở_khò_khè/N ,/S2 và/N ho/N bị/V nặng/A hơn/R vào/E buổi_tối/N ./S1
+Seikatsu01\I-A_\000190\__000935	Ý/N bạn/N là/V tôi/P có_thể/A đến/V khoa_dị_ứng/N nếu/C tôi/P bị/V ho/V vào/R buổi_tối/N à/N ./S1
+Seikatsu01\I-A_\000200\__000936	Ngoài/E triệu_chứng/N ho/N ,/S2 dị_ứng/N viêm_da/N và/C dị_ứng/N phấn_hoa/N cũng/R cần/V đến/V khoa_dị_ứng/N ./S1
+Seikatsu01\I-A_\000210\__000937	Chúng_tôi/P cũng/R khám/V dị_ứng/N thực_phẩm/N và/C sốc_phản_vệ/N ./S1
+Seikatsu01\I-E_\000010\__000938	Tôi/P định/V đến/V bệnh_viện/N vì/E bị/V khó_chịu/V dạ_dày/N ,/S2 nhưng/C tôi/P không/R biết/V nên/C đến/V đâu/P ./S1
+Seikatsu01\I-E_\000020\__000939	Bạn/N bị/V khó_chịu/V như_thế_nào/X trong/E dạ_dày/N ?/S1
+Seikatsu01\I-E_\000030\__000940	Tôi/P cảm_thấy/V buồn_nôn/N ở/E vùng/N dạ_dày/N ./S1
+Seikatsu01\I-E_\000040\__000941	Nếu/C bạn/N bị/V buồn_nôn/V vùng/N dạ_dày/N ,/S2 bạn/N nên/C đến/V khoa_dạ_dày/N ./S1
+Seikatsu01\I-E_\000050\__000942	Có/V nơi/N nào/P khác/A tôi/P có_thể/A đến/V khám/V nữa/R không/R ?/S1
+Seikatsu01\I-E_\000060\__000943	Với/E các/L vấn_đề/N về/V cơ_quan/N bên_trong/V ,/S2 bạn/N có_thể/A đến/V khoa/N đường_tiêu_hóa/N ./S1
+Seikatsu01\I-E_\000070\__000944	Sự/Nc khác_nhau/A giữa/N khoa/N đường_tiêu_hóa/N và/C khoa_dạ_dày/N là/V gì/P ?/S1
+Seikatsu01\I-E_\000080\__000945	Như/C bạn/N có_thể/R thấy/V đúng/A như/C tên_gọi/N ,/S2 khoa_dạ_dày/N chẩn_đoán/N và/C điều_trị/V những/L bệnh/N về/V dạ_dày/N và/C ruột_già/V ./S1
+Seikatsu01\I-E_\000090\__000946	Khoa_đường_tiêu_hóa/X chẩn_đoán/N và/C điều_trị/V các/L bệnh/N về/V dạ_dày/N ,/S2 ruột_già/N ,/S2 mà_còn/N chẩn_đoán/V và/C điều_trị/V các/L bệnh/N về/V ruột_non/N ,/S2 gan/N ,/S2 mật/N ,/S2 và/N tụy/N ./S1
+Seikatsu01\I-E_\000100\__000947	Bạn/N có_thể/A giải_thích/V đơn_giản/A hơn/A một_chút/N không/R ?/S1
+Seikatsu01\I-E_\000110\__000948	Khoa_tiêu_hóa/N thực_hiện/V khám/V cả/T các/L bệnh/N của/E khoa_dạ_dày/N ./S1
+Seikatsu01\I-E_\000120\__000949	Vậy/P tôi/P nên/V đến/V khoa_tiêu_hóa/N phải/A không/R ./S1
+Seikatsu01\I-E_\000130\__000950	Nếu/C buồn_nôn/V vùng_dạ_dày/N ,/S2 vấn_đề/N chỉ/R nằm/V quanh/N dạ_dày/N ,/S2 nên/C tôi/N nghĩ/V bạn/N nên/C đi/V khám/V chuyên_môn/N ./S1
+Seikatsu01\I-E_\000140\__000951	Khoa_tiêu_hóa/N có_thể/A khám/V toàn_bộ/N ,/S2 nhưng/C nếu/C bạn/N chỉ/R bị/V vấn_đề/N về/V dạ_dày/N hay/C ruột/N như/C lần_này/N ,/S2 thì/C khoa_dạ_dày/N có_thể/A khám/V kỹ/A hơn/R cho/E bạn/N ./S1
+Seikatsu01\I-E_\000150\__000952	Theo/E vị_trí/N bị/V bệnh/N ,/S2 bạn/N nên/C đi/V khám/V tại/E khoa_dạ_dày/N để/N có_thể/V được/V chẩn_đoán/V chính_xác/A ./S1
+Seikatsu01\I-E_\000160\__000953	Tôi/P khám/V sức_khỏe/N ở/V công_ty/N và/C phát_hiện/V một/M khối_u/N qua/V chụp/V x_quang/N ./S1
+Seikatsu01\I-E_\000170\__000954	Sau_khi/N chụp/V x_quang/N ,/S2 tôi/P được/V kiểm_tra/V nội_soi_dạ_dày/X ./S1
+Seikatsu01\I-E_\000180\__000955	Nhưng/C tôi/P nghĩ/V rằng/C nếu/C có_thể/V tìm_thấy/V các/L vấn_đề/N trong/E dạ_dày/N qua/V nội_soi/N ,/S2 thì/C chẳng_phải/N không/R cần/V đến/V chụp/N x_quang/N hay_sao/N ./S1
+Seikatsu01\I-E_\000190\__000956	Chúng_tôi/P chỉ/R có/V một/M khoảng/N thời_gian/N ngắn/A để/E khám/V cho/R rất/R nhiều/A người/N ./S1
+Seikatsu01\I-E_\000200\__000957	Nên/C trước_tiên/N chúng_tôi/N cần/V lựa_chọn/V những/L người/N khỏe_mạnh/A không/R bị/V bệnh/N trước/A ./S1
+Seikatsu01\I-E_\000210\__000958	Để/E lựa_chọn/V những/L người/N khỏe_mạnh/A ,/S2 chúng_tôi/P phải/V chọn/V một/M phương_pháp/N kiểm_tra/V tiện_lợi/N mà/N có_thể/V kiểm_tra/V nhiều/A người/N một_cách/N nhanh_chóng/A và/C tiết_kiệm/N chi_phí/N ./S1
+Seikatsu01\I-I_\000010\__000959	Tôi/P được/V bác_sỹ/V ở/E nước_nhà/N chuẩn_đoán/N là/V bị/V thấp_khớp/V ./S1 Tôi/P nên/V đến/V khám/V ở/V khoa/N nào/N ở/V Nhật/Np ?/S1
+Seikatsu01\I-I_\000020\__000960	Nếu/C bạn/N bị/V thấp_khớp/V ,/S2 bạn/N nên/N gặp/V bác_sĩ/N ở/E khoa_khớp/N ./S1
+Seikatsu01\I-I_\000030\__000961	Có/V khoa/N chỉ/R chuyên_về/V bệnh/N thấp_khớp/N à/T ?/S1
+Seikatsu01\I-I_\000040\__000962	Có/V ,/S2 bệnh_thấp_khớp/N phần_lớn/N có/V triệu_chứng/N toàn_thân/N và/C là/V bệnh/N khó/A chữa_trị/V ,/S2 nên/C đã/R lập/V riêng/A một/M khoa_chuyên_môn/N ./S1
+Seikatsu01\I-I_\000050\__000963	Bệnh_thấp_khớp/N không_thể/A được/V chữa_trị/V tại/E những/L khoa/N khác/A ngoài/N khoa_khớp/N à/T ?/S1
+Seikatsu01\I-I_\000060\__000964	Điều/N này/P còn/V tùy_vào/V các/L triệu_chứng/N bạn/N mắc_phải/A ,/S2 tuy_nhiên/C nếu/C bạn/N không_thể/A dễ_dàng/A đến/V các/L khoa_khớp/N để/E kiểm_tra/V ,/S2 thì/C bạn/N nên/C gặp/V các/L bác_sĩ/N biết/V về/E chữa_trị/N thấp_khớp/N tại/E các/L khoa/N như/C da_liễu/N ,/S2 chỉnh_hình/N ,/S2 khoa_nội/N ./S1
+Seikatsu01\I-I_\000070\__000965	Có/V bác_sĩ/N chuyên/A khoa_khớp/V ở/E khoa_khớp/N phải/A không/R ?/S1
+Seikatsu01\I-I_\000080\__000966	Đúng/A vậy/P ,/S2 để/E trở_thành/V bác_sĩ/N chuyên_khoa_khớp/N cần/V đáp_ứng/V bốn/M điều_kiện/N là/V có/V bằng/N bác_sĩ/N chuyên_khoa/N hoặc/N được/V chứng_nhận/N chuyên/A trong/E từng/N lĩnh_vực/N cơ_bản/A ./S1
+Seikatsu01\I-I_\000090\__000967	Sau_khi/N tốt_nghiệp/V khoa/N y/N và/C trở_thành/V bác_sĩ/N trong/E khoa_nội/N và/C khoa_chỉnh_hình/N ,/S2 cần/V phải/V có/V thêm/V đủ/A sáu/M năm/N kinh_nghiệm/N ,/S2 vì_vậy/N mất/V ít_nhất/N mười/M hai/M năm/N để/E trở_thành/V một/M bác_sĩ/N chuyên_khoa_khớp/N ./S1
+Seikatsu01\I-I_\000100\__000968	Có/V nhiều/A bác_sĩ/N chuyên_khoa_khớp/N trên/N toàn/N quốc_gia/N không/N ?/S1
+Seikatsu01\I-I_\000110\__000969	Theo/E tài_liệu/N do/E Hội_phong_thấp/N Nhật_Bản/Np đưa/V ra/R ,/S2 thì/C bác_sĩ/N chuyên_khoa_khớp/N tập_trung/V ở/E Tokyo/N ,/S2 Kanagawa/Np và/C Osaka/Np ./S1
+Seikatsu01\I-I_\000120\__000970	Chắc_chắn/A rồi/R ,/S2 bác_sĩ/N chuyên_khoa_khớp/N phải/V tập_trung/V tại/E vùng/N đô_thị/N nhỉ/N ./S1
+Seikatsu01\I-I_\000130\__000971	Có/V khoảng/N bao_nhiêu/N bác_sĩ/N chuyên_khoa_khớp/N ở/E mỗi/N tỉnh/N ?/S1
+Seikatsu01\I-I_\000140\__000972	Theo/E báo_cáo/N của/E Hội_phong_thấp/N Nhật_Bản/Np ,/S2 cho/V biết/V rằng/C có/V hơn/A sáu/M trăm/N bác_sĩ/N chuyên_khoa_khớp/N ở/V Tokyo/N ,/S2 nhiều_nhất/N trong/E cả_nước/N ,/S2 và/N ít_nhất/A là/V tỉnh/N Aomori/Np chỉ/R có/V hai/M mốt/N người/N ./S1
+Seikatsu01\I-I_\000150\__000973	Nơi/N sinh_sống/V có_vẻ/N rất/R quan_trọng/A với/E người_bệnh/N phong_thấp/N nhỉ/N ./S1
+Seikatsu01\I-I_\000160\__000974	Gần_đây/N ,/S2 khớp/N trên/E người/N tôi/P bị/V gì/P đó/P ./S1
+Seikatsu01\I-I_\000170\__000975	Khớp/N trên/E người/N bạn/N có/V vấn_đề/N gì/P à/N ./S1 Vấn_đề/N như_thế_nào/X ?/S1
+Seikatsu01\I-I_\000180\__000976	Tôi/P bị/V cứng/N khớp/N khi/N ngủ/V dậy/V buổi_sáng/N ./S1
+Seikatsu01\I-I_\000190\__000977	Các/L khớp/N bị/V cứng/N đau/V phải/A không/R ?/S1
+Seikatsu01\I-I_\000200\__000978	Vâng/I ,/S2 các/L khớp/N bị/V cứng/N đau/V và/C tôi/P cảm_thấy/V nóng/A ./S1
+Seikatsu01\I-I_\000210\__000979	Tôi/P muốn/V đến/V bệnh_viện/N ,/S2 nhưng/C bạn/N nghĩ/V tôi/P nên/V đến/R khoa/N nào/P ?/S1
+Seikatsu01\I-KA\000010\__000980	Sau_khi/N gặp/V bác_sĩ/N da_liễu/N ,/S2 bạn/N đã/R đến/V khoa/N bệnh/N tiểu_đường/N ,/S2 phải/A không/R ?/S1
+Seikatsu01\I-KA\000020\__000981	Tôi/P đã/R gặp/V bác_sĩ/N da_liễu/N vì/E bàn_chân/N của/E tôi/P bị/V ngứa_ngứa/V ./S1
+Seikatsu01\I-KA\000030\__000982	Bác_sĩ/N nói/V nên/R đi/V kiểm_tra/V cả/N tiểu_đường/N cho/V chắc_chắn/A ./S1
+Seikatsu01\I-KA\000040\__000983	Tôi/P nghĩ/V đơn_giản/A chỉ_là/N bị/V nấm_chân/V nhưng/C nó/P lại/R liên_quan/V đến/E tiểu_đường/N à/T ?/S1
+Seikatsu01\I-KA\000050\__000984	Các/L bệnh/N về/V da/N bao_gồm/V cả/P nấm_chân/N có_thể/A bị/V gây_ra/V bởi/E tiểu_đường/N ./S1
+Seikatsu01\I-KA\000060\__000985	Tiểu_đường/N gây_ra/N nấm_chân/N phải/A không/R ?/S1
+Seikatsu01\I-KA\000070\__000986	Tôi/P chắc_chắn/A là/V tôi/P bị/V lây/V qua/V thảm_chân/N ,/S2 vì/E tôi/P thích/V đi/V tắm/V nước_nóng/V ./S1
+Seikatsu01\I-KA\000080\__000987	Tiểu_đường/N là/V bệnh/N thường/A gây/V ngứa/V ./S1
+Seikatsu01\I-KA\000090\__000988	Khoảng/A một/M phần/N ba/M người/N bị/V tiểu_đường/N bị/V ngứa/V da/N ./S1
+Seikatsu01\I-KA\000100\__000989	Tại_sao/N da/N bị/V ngứa/V khi/N bị/V tiểu_đường/V ?/S1
+Seikatsu01\I-KA\000110\__000990	Khi/N bị/V tiểu_đường/V ,/S2 lượng/N đường/N trong/A máu/N liên_tục/A cao/A ./S1
+Seikatsu01\I-KA\000120\__000991	Khi/N tình_trạng/N lượng/N đường/N trong/A máu/N cao/A kéo_dài/V ,/S2 nó/P sẽ/R làm/V giảm/V sức_đề_kháng/N và/C dễ/N bị/V nhiễm/V vi_khuẩn/N ./S1
+Seikatsu01\I-KA\000130\__000992	Nấm_chân/N là/V bệnh/N bị/V gây_ra/V do/E nhiễm_trùng/N một/M loại/Nc nấm/N có/V tên/N là/C Trochophyton/Np ./S1
+Seikatsu01\I-KA\000140\__000993	Bệnh_nhân/N tiểu_đường/N chính_là/V những/L người/N có/V môi_trường/N sống/V tốt/A cho/E những/L vi_khuẩn/N như_vậy/X ./S1
+Seikatsu01\I-KA\000150\__000994	Khi/N bị/V tiểu_đường/V ,/S2 bạn/N sẽ/R dễ/A bị/V nhiễm/V vi_khuẩn/N làm/V bạn/N dễ/N bị/V ngứa/V ./S1
+Seikatsu01\I-KA\000160\__000995	Không_chỉ/N vi_khuẩn/N gây_ra/N ngứa/N ./S1
+Seikatsu01\I-KA\000170\__000996	Tôi/P nghĩ/V còn/R có_thể/R là/V nguyên_nhân/N khác/A nữa/R ?/S1
+Seikatsu01\I-KA\000180\__000997	Bạn/N đã/R từng/R thấy/V ngứa/N vì/E khô_da/N chưa/R ?/S1
+Seikatsu01\I-KA\000190\__000998	Cũng/R có/V lúc/N tôi/P bị/V ngứa/V rồi/R ./S1
+Seikatsu01\I-KA\000200\__000999	Vào/E mùa_khô/N hay/N bị/V ngứa/V chỗ_này/N chỗ_nọ/N ./S1
+Seikatsu01\I-KA\000210\__001000	Khi/N bị/V tiểu_đường/V ,/S2 bạn/N sẽ/R đi/V tiểu_tiện/V liên_tục/A ,/S2 nghĩa_là/N lượng/N nước_tiểu/N tăng/V và/N có_thể/R dẫn_đến/V tình_trạng/N mất_nước/A ./S1

@@ -28,8 +28,8 @@ awk -F"\t" '{print $2}' ${file_in} > ${file_in}.awk2
 
 
 ### 词性标注
-rm -rf ${file_in}_postagger
-${dir_spark}/spark-submit --executor-memory 20G  --driver-memory 20G  --total-executor-cores 1  --executor-cores 1 ${dir_vnvi_jar} -t tag -a tag -i ${file_in}.awk2 -o ${file_in}_postagger
+rm -rf ${file_in}_postagger mkdir ${file_in}_postagger
+${dir_spark}/spark-submit --executor-memory 30G  --driver-memory 30G  --total-executor-cores 1  --executor-cores 1 ${dir_vnvi_jar} -t tag -a tag -i ${file_in}.awk2 -o ${file_in}_postagger
 
 #### 词性标注结果 
 cat ${file_in}_postagger/part-00* >  ${file_in}.pos-tmp
@@ -42,7 +42,7 @@ sed 's/\/\./\/S1/g;s/\/?/\/S1/g;s/\/!/\/S1/g;s/\/,/\/S2/g;s/\/;/\/S2/g;s/\/:/\/S
 python merge_num+line.py ${file_in}.awk1  ${file_in}.pos-tmp.sed  ${file_in}.pos
 
 ### 删除中间结果 
-rm -rf ${file_in}_postagger ${file_in}.awk*  ${file_in}.pos-tm*  
+#rm -rf ${file_in}_postagger ${file_in}.awk*  ${file_in}.pos-tm*  
 
 
 

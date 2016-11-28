@@ -5,11 +5,16 @@ import os;
 import re;
 import traceback
 
+'''
+    Seikatsu01\A-I_\000040\__000024  Chính sách bảo hiểm y tế từ các công ty bảo hiểm y tế không xử lý việc điều trị y tế thôn thường.
+    Seikatsu01\A-I_\000040\__000024 Chính_sách/N bảo_hiểm/N y_tế/N từ/E các/L công_ty/N bảo_hiểm_/N y_tế/N không/R xử_lí/V việc/N điều_trị/V y_tế/N thông_thường/A ./S1
+
+'''
 
 if(len(sys.argv))<4:
-    print("usage %s file_line1 file_pos file_out"%(sys.argv[0]));
+    print("usage %s file_line1 file_pos file_pos_out"%(sys.argv[0]));
     print("usage: %s 带序号的全部句子line1  词性标记后带序号的句子\
-                输出格式结果"%(sys.argv[0]));
+                输出新的pos文件"%(sys.argv[0]));
     sys.exit(0);
 
 f_line1=sys.argv[1]
@@ -60,6 +65,8 @@ for line in fp_line1:
 
 #print("map_num len=%d"%(len(map_num.keys())));
 
+
+#### 处理pos文件 修改错误的word为原始正确的结果 
 ii=0
 for line in fp_line2:
 
@@ -81,9 +88,22 @@ for line in fp_line2:
     else:
         print("ERROR:not found %s in map_num!"%(num));
         continue
+    #### 原始句子 标点切分开 
+    line_ori_punc = line_ori;
+    line_ori_punc = line_ori_punc.replace("."," .");
+    line_ori_punc = line_ori_punc.replace(","," ,");
+    line_ori_punc = line_ori_punc.replace("?"," ?");
+    line_ori_punc = line_ori_punc.replace("!"," !");
+    line_ori_punc = line_ori_punc.replace(";"," ;");
+    line_ori_punc = line_ori_punc.replace(" \""," \" ");
+    line_ori_punc = line_ori_punc.replace("\" "," \" ");
+    line_ori_punc = line_ori_punc.replace(" ("," ( ");
+    line_ori_punc = line_ori_punc.replace(") "," ) ");
+    line_ori_punc = line_ori_punc.replace(" ["," [ ");
+    line_ori_punc = line_ori_punc.replace("] "," ] ");
 
     ### 输出 句子编号+原始句子 
-    fp_out.write("%s\t%s\n"%(num, line_ori));
+    #fp_out.write("%s\t%s\n"%(num, line_ori));
 
     #### 每一个word/pos
     list_cont = content.split(' ')
