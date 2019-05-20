@@ -21,7 +21,7 @@ out_dir=`dirname ${file_in}`
 dir_sh=vn.vitk.git/vn.vitk_run
 
 #sleep 100000
-cd /home/yanfa/shaozhiming/tools/vivn_postag
+cd /home/yanfa/sss/tools/vivn_postag
 
 	echo "in:num=${num}   file=${file_in}" > 1.log
 	echo "in:num=${num}   file=${file_in}" 
